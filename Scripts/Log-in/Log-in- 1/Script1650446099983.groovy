@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://nexterus-tst.outsystemsenterprise.com/FusionCenter/
 
 WebUI.maximizeWindow()
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('Log-in/Username field'), 'admin')
 
