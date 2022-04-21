@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is able to search user from the search field (Negative)</description>
+   <name>FCSCMS-462</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e176a76d-a95f-4fdd-b880-3aa407ee86a0</testCaseGuid>
+</TestCaseEntity>

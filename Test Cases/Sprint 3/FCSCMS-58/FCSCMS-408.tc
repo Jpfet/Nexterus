@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to search user through advance search features</description>
+   <name>FCSCMS-408</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5034a1c-9b7a-4eb2-9210-ca96c6d13d74</testCaseGuid>
+</TestCaseEntity>
