@@ -1,135 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>User Account Management</name>
+   <name>a_Privilege Group Management</name>
    <tag></tag>
-   <elementGuidId>0cda86dc-c78e-48c9-9687-aea1f9190b4a</elementGuidId>
+   <elementGuidId>c0de9ef5-74d2-42b1-a36b-ed1fcc390138</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='b2-l1-59_2-MenuItem']</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//a[@class = 'validatelink' and @href = '/FusionCenter/UserandAccountManagement' and (text() = 'User &amp; Account Management' or . = 'User &amp; Account Management')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value>#b2-l1-59_2-MenuItem</value>
+         <value>#b2-l1-55_1-MenuItem</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='b2-l1-55_1-MenuItem']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d9bd1688-7bf4-4c7e-a1cb-592cb43b5507</webElementGuid>
+      <webElementGuid>c78de592-ffe7-4c32-85b9-84560c4a5804</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>validatelink</value>
-      <webElementGuid>66274a5d-4988-4d45-8900-683b69ae0f21</webElementGuid>
+      <webElementGuid>7cd569ec-aa87-4bdd-8e82-200f7f646620</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/FusionCenter/UserandAccountManagement</value>
-      <webElementGuid>de43a6c1-025f-4716-8c07-19614d37abd4</webElementGuid>
+      <value>/FusionCenter/PrivilegeGroupManagement</value>
+      <webElementGuid>2b395ba9-9090-4f6d-8f89-a75be511b68f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>b2-l1-59_2-MenuItem</value>
-      <webElementGuid>8d894aa9-cc5b-4159-ae59-edaf9a106fb4</webElementGuid>
+      <value>b2-l1-55_1-MenuItem</value>
+      <webElementGuid>76a76a06-e657-4cf8-b52c-46f6ba5aa311</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>User &amp; Account Management</value>
-      <webElementGuid>1eaab7ee-4242-4014-b000-36eb679312a4</webElementGuid>
+      <value>Privilege Group Management</value>
+      <webElementGuid>d6729f87-9abc-47c6-b9da-4e92f58d8957</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;b2-l1-59_2-MenuItem&quot;)</value>
-      <webElementGuid>29415981-ff4f-44c8-9b38-f859c3cc60d2</webElementGuid>
+      <value>id(&quot;b2-l1-55_1-MenuItem&quot;)</value>
+      <webElementGuid>6ad4cdf7-2b42-493f-aa81-2301f0908bc4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='b2-l1-59_2-MenuItem']</value>
-      <webElementGuid>0a341abc-43b0-4f5d-8737-26303a5ae907</webElementGuid>
+      <value>//a[@id='b2-l1-55_1-MenuItem']</value>
+      <webElementGuid>a48c652e-0dbf-4415-87af-2ddbe6dfa141</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='b2-PageLinks']/div/div/span[3]/div/a</value>
-      <webElementGuid>b64b7dc5-61e0-456d-bcf4-f515c21f8f6a</webElementGuid>
+      <value>//div[@id='b2-PageLinks']/div/div/span[2]/div/a</value>
+      <webElementGuid>86a38c02-5693-4fa1-8938-0fc582fd2a16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privilege Group Management'])[1]/following::a[1]</value>
-      <webElementGuid>bdf8f369-3f28-4655-b999-739c41d59cdc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::a[1]</value>
+      <webElementGuid>34bb818f-151c-408a-8250-86ad6270a80d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::a[2]</value>
-      <webElementGuid>62851e83-591c-486a-ae4b-f40ab2b12529</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to Content (Press Enter)'])[1]/following::a[2]</value>
+      <webElementGuid>0b8a6a99-c658-43bb-96c4-99c6f8bfdee7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Profile'])[1]/preceding::a[1]</value>
-      <webElementGuid>832697b7-e11d-4515-9802-eb45270790f8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User &amp; Account Management'])[1]/preceding::a[1]</value>
+      <webElementGuid>3a2453e6-43f2-4a1a-b3c7-0dc37b735af4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/FusionCenter/UserandAccountManagement')]</value>
-      <webElementGuid>605871b2-3f2a-4f6b-b16f-d52f6b419460</webElementGuid>
+      <value>//a[contains(@href, '/FusionCenter/PrivilegeGroupManagement')]</value>
+      <webElementGuid>c5380023-9dd3-47d6-aa18-779a0dabc649</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span[3]/div/a</value>
-      <webElementGuid>e4d3688f-11e4-4a44-8909-535c0bb73c7d</webElementGuid>
+      <value>//span[2]/div/a</value>
+      <webElementGuid>bd55503a-9d94-4ac1-822c-669e002be8af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/FusionCenter/UserandAccountManagement' and @id = 'b2-l1-59_2-MenuItem' and (text() = 'User &amp; Account Management' or . = 'User &amp; Account Management')]</value>
-      <webElementGuid>48b63fef-17b6-47b5-b788-c24787282398</webElementGuid>
+      <value>//a[@href = '/FusionCenter/PrivilegeGroupManagement' and @id = 'b2-l1-55_1-MenuItem' and (text() = 'Privilege Group Management' or . = 'Privilege Group Management')]</value>
+      <webElementGuid>de561bbc-4a35-45ac-b48e-ab3c0d6894aa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

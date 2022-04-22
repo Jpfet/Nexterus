@@ -17,31 +17,48 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.delay(2)
-
 WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/User Account Management'))
 
+WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/Advanced Search button'))
+
+WebUI.setText(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/User Login Name field'), 'anonymous')
+
+WebUI.setText(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/User Name field'), 'Anon User')
+
+WebUI.selectOptionByLabel(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/Privelege Group Dropdown'), 'Values Reader', 
+    false)
+
+WebUI.selectOptionByLabel(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/User Group Dropdown'), 'Admin User Group', 
+    false)
+
+WebUI.selectOptionByLabel(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/User Status Dropdown'), 'Active', false)
+
+WebUI.selectOptionByLabel(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/User access status dropdown'), 'Unlocked', 
+    false)
+
+WebUI.selectOptionByLabel(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/Require Password Change Dropdown'), 'No', false)
+
+WebUI.setText(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/Email field'), 'anon@anonymous.org')
+
+WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/City Field'))
+
+WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/City_Alabaster'))
+
+WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/Zip Code field'))
+
+WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/Zip Code_35007'))
+
+WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/button_Search'))
+
+WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/search result - anon user'))
+
+WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/search result- anonymous'))
+
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408/Advanced Search button'))
+WebUI.verifyElementNotVisible(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/Search result_Inactive'))
+
+WebUI.verifyElementNotVisible(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/Search result_System Administrator'))
 
 WebUI.delay(2)
-
-WebUI.setText(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408/User Login Name'), 'anonymous')
-
-WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408/button_Search'))
-
-WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408/search result - anon user'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408/button_Clear'))
-
-WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408/button_Search'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408/User access status dropdown'))
-
-WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408/Unlocked'))
 

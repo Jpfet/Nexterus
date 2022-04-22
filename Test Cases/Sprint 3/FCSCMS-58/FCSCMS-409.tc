@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to cancel search action</description>
+   <name>FCSCMS-409</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0386754-34ee-48ec-a8f9-54f6f69b5259</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-410,Chrome 100.0.4896.127,User should be able to add new user by clicking the add user button,,2022-04-22 16:12:57,2022-04-22 16:13:46,49.127s,FAILED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-22 16:12:57,2022-04-22 16:13:11,13.411s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-22 16:12:58,2022-04-22 16:13:03,4.768s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-22 16:13:03,2022-04-22 16:13:05,2.365s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-22 16:13:05,2022-04-22 16:13:06,0.243s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-22 16:13:06,2022-04-22 16:13:08,2.115s,PASSED
+"setText(findTestObject(""Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-22 16:13:08,2022-04-22 16:13:09,1.242s,PASSED
+"setText(findTestObject(""Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-22 16:13:09,2022-04-22 16:13:10,1.029s,PASSED
+"click(findTestObject(""Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-22 16:13:10,2022-04-22 16:13:11,0.780s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-58/FCSCMS-410,Chrome 100.0.4896.127,User should be able to add new user by clicking the add user button,,2022-04-22 16:13:11,2022-04-22 16:13:46,35.075s,FAILED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Add New User""))",Chrome 100.0.4896.127,,,2022-04-22 16:13:12,2022-04-22 16:13:46,33.962s,FAILED

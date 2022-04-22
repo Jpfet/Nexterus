@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create User_City_Alabaster</name>
+   <tag></tag>
+   <elementGuidId>93921976-29b5-4e8c-ab4f-14dd2a962465</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;choices--b32-b2-DropdownSelect-item-choice-5&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>c6f33cdc-10d2-4ff6-8d96-a5197f9c1b8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1650612968297</value>
+      <webElementGuid>9b175061-dee8-4ac9-a914-c73f4f8fa63a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

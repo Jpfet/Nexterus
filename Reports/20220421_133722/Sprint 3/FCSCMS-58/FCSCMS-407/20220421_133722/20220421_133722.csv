@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-407,Chrome 100.0.4896.127,User is able to search user from the search field,,2022-04-21 13:37:28,2022-04-21 13:47:10,9m - 41.563s,PASSED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-21 13:37:29,2022-04-21 13:37:47,17.493s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-21 13:37:30,2022-04-21 13:37:37,7.273s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-21 13:37:37,2022-04-21 13:37:40,2.747s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-21 13:37:40,2022-04-21 13:37:40,0.255s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-21 13:37:40,2022-04-21 13:37:42,2.146s,PASSED
+"setText(findTestObject(""Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-21 13:37:42,2022-04-21 13:37:45,2.321s,PASSED
+"setText(findTestObject(""Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-21 13:37:45,2022-04-21 13:37:46,1.059s,PASSED
+"click(findTestObject(""Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-21 13:37:46,2022-04-21 13:37:47,0.678s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-58/FCSCMS-407,Chrome 100.0.4896.127,User is able to search user from the search field,,2022-04-21 13:37:47,2022-04-21 13:47:10,9m - 23.395s,PASSED
+delay(3),Chrome 100.0.4896.127,,,2022-04-21 13:37:48,2022-04-21 13:37:51,3.025s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-21 13:37:51,2022-04-21 13:37:56,5.432s,PASSED
+delay(3),Chrome 100.0.4896.127,,,2022-04-21 13:37:56,2022-04-21 13:37:59,3.015s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/Quick search field""), ""anonymous"")",Chrome 100.0.4896.127,,,2022-04-21 13:37:59,2022-04-21 13:39:00,1m - 0.556s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/search icon""))",Chrome 100.0.4896.127,,,2022-04-21 13:39:00,2022-04-21 13:39:30,30.349s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/search result - anon user""))",Chrome 100.0.4896.127,,,2022-04-21 13:39:30,2022-04-21 13:40:00,30.291s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-21 13:40:00,2022-04-21 13:40:02,2.006s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/Quick search field""), """")",Chrome 100.0.4896.127,,,2022-04-21 13:40:02,2022-04-21 13:41:03,1m - 0.457s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/search icon""))",Chrome 100.0.4896.127,,,2022-04-21 13:41:03,2022-04-21 13:41:33,30.278s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/Quick search field""), ""Anon User"")",Chrome 100.0.4896.127,,,2022-04-21 13:41:33,2022-04-21 13:42:34,1m - 0.462s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/search icon""))",Chrome 100.0.4896.127,,,2022-04-21 13:42:34,2022-04-21 13:43:04,30.277s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/search result- anonymous""))",Chrome 100.0.4896.127,,,2022-04-21 13:43:04,2022-04-21 13:43:34,30.278s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-21 13:43:34,2022-04-21 13:43:36,2.022s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/Quick search field""), """")",Chrome 100.0.4896.127,,,2022-04-21 13:43:36,2022-04-21 13:44:37,1m - 0.384s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/search icon""))",Chrome 100.0.4896.127,,,2022-04-21 13:44:37,2022-04-21 13:45:07,30.278s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/Quick search field""), ""anon@anonymous.org"")",Chrome 100.0.4896.127,,,2022-04-21 13:45:07,2022-04-21 13:46:07,1m - 0.450s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/search icon""))",Chrome 100.0.4896.127,,,2022-04-21 13:46:07,2022-04-21 13:46:38,30.410s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/search result- anonymous""))",Chrome 100.0.4896.127,,,2022-04-21 13:46:38,2022-04-21 13:47:08,30.249s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-21 13:47:08,2022-04-21 13:47:10,2.010s,PASSED

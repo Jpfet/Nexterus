@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-408,Chrome 100.0.4896.127,User should be able to search user through advance search features,,2022-04-21 15:54:27,2022-04-21 16:00:16,5m - 49.008s,FAILED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-21 15:54:28,2022-04-21 15:54:55,27.323s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-21 15:54:29,2022-04-21 15:54:36,7.449s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-21 15:54:36,2022-04-21 15:54:46,9.258s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-21 15:54:46,2022-04-21 15:54:46,0.244s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-21 15:54:46,2022-04-21 15:54:48,2.131s,PASSED
+"setText(findTestObject(""Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-21 15:54:48,2022-04-21 15:54:54,5.426s,PASSED
+"setText(findTestObject(""Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-21 15:54:54,2022-04-21 15:54:55,1.121s,PASSED
+"click(findTestObject(""Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-21 15:54:55,2022-04-21 15:54:55,0.701s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-58/FCSCMS-408,Chrome 100.0.4896.127,User should be able to search user through advance search features,,2022-04-21 15:54:55,2022-04-21 16:00:16,5m - 20.994s,FAILED
+delay(2),Chrome 100.0.4896.127,,,2022-04-21 15:54:56,2022-04-21 15:54:58,2.024s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-21 15:54:58,2022-04-21 15:55:30,31.294s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-21 15:55:30,2022-04-21 15:55:32,2.011s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-408/Advanced Search button""))",Chrome 100.0.4896.127,,,2022-04-21 15:55:32,2022-04-21 15:56:02,30.402s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-21 15:56:02,2022-04-21 15:56:04,2.022s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-408/User Login Name""), ""anonymous"")",Chrome 100.0.4896.127,,,2022-04-21 15:56:04,2022-04-21 15:57:05,1m - 0.592s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-408/button_Search""))",Chrome 100.0.4896.127,,,2022-04-21 15:57:05,2022-04-21 15:57:35,30.356s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-408/search result - anon user""))",Chrome 100.0.4896.127,,,2022-04-21 15:57:35,2022-04-21 15:58:05,30.375s,PASSED
+delay(3),Chrome 100.0.4896.127,,,2022-04-21 15:58:05,2022-04-21 15:58:09,3.015s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-408/button_Clear""))",Chrome 100.0.4896.127,,,2022-04-21 15:58:09,2022-04-21 15:58:39,30.390s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-408/button_Search""))",Chrome 100.0.4896.127,,,2022-04-21 15:58:39,2022-04-21 15:59:09,30.381s,PASSED
+delay(3),Chrome 100.0.4896.127,,,2022-04-21 15:59:09,2022-04-21 15:59:12,3.015s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-408/User access status dropdown""))",Chrome 100.0.4896.127,,,2022-04-21 15:59:12,2022-04-21 16:00:16,1m - 4.035s,FAILED

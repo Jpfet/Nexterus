@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create User_ZIP Code_35007</name>
+   <tag></tag>
+   <elementGuidId>5fe08fcd-56f1-4d11-a1db-1cbc15c023c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;choices--b32-b5-DropdownSelect-item-choice-1&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>425f3a41-520a-48f3-89b9-0705b6b885a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1650613461152</value>
+      <webElementGuid>bd2b6564-1915-4d99-8a4a-0b0a09c5f863</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

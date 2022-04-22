@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create User_Privelege Group_Values Reader</name>
+   <tag></tag>
+   <elementGuidId>3d87ec89-3594-4e71-a0ca-ef0cc0aa99f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;choices--b29-SelectableTags-item-choice-7&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>9117087d-30ea-4746-92bb-8b3f868b9797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1650612531561</value>
+      <webElementGuid>c37a2cd2-bf2d-4391-ab23-0a27bc85b4d4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -3,19 +3,15 @@
    <description></description>
    <name>User Account Management</name>
    <tag></tag>
-   <elementGuidId>0cda86dc-c78e-48c9-9687-aea1f9190b4a</elementGuidId>
+   <elementGuidId>f4130543-7d15-444d-890b-2db99fc527cf</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//a[@id='b2-l1-59_2-MenuItem']</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//a[@class = 'validatelink' and @href = '/FusionCenter/UserandAccountManagement' and (text() = 'User &amp; Account Management' or . = 'User &amp; Account Management')]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#b2-l1-59_2-MenuItem</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='b2-l1-59_2-MenuItem']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d9bd1688-7bf4-4c7e-a1cb-592cb43b5507</webElementGuid>
+      <webElementGuid>0582ddf2-f94b-40b3-947a-a39048f0e534</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>validatelink</value>
-      <webElementGuid>66274a5d-4988-4d45-8900-683b69ae0f21</webElementGuid>
+      <webElementGuid>be11a463-4e18-4fed-8d8a-be7408868b14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/FusionCenter/UserandAccountManagement</value>
-      <webElementGuid>de43a6c1-025f-4716-8c07-19614d37abd4</webElementGuid>
+      <webElementGuid>71dabd1c-ed41-4eb6-af3d-1e944d1da999</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b2-l1-59_2-MenuItem</value>
-      <webElementGuid>8d894aa9-cc5b-4159-ae59-edaf9a106fb4</webElementGuid>
+      <webElementGuid>68cb8fe9-dbb1-4e10-b1b6-f9cde0a3371b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>User &amp; Account Management</value>
-      <webElementGuid>1eaab7ee-4242-4014-b000-36eb679312a4</webElementGuid>
+      <webElementGuid>a392ba7e-cc5d-4011-8d5d-1855fa911c5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b2-l1-59_2-MenuItem&quot;)</value>
-      <webElementGuid>29415981-ff4f-44c8-9b38-f859c3cc60d2</webElementGuid>
+      <webElementGuid>92a652ab-b978-4cf6-aa10-79c840ec3618</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='b2-l1-59_2-MenuItem']</value>
-      <webElementGuid>0a341abc-43b0-4f5d-8737-26303a5ae907</webElementGuid>
+      <webElementGuid>2b5d7027-7b44-4ab6-8e30-709947534bd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b2-PageLinks']/div/div/span[3]/div/a</value>
-      <webElementGuid>b64b7dc5-61e0-456d-bcf4-f515c21f8f6a</webElementGuid>
+      <webElementGuid>2b2661d4-08ee-4ae0-aed6-71d349d6d8de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privilege Group Management'])[1]/following::a[1]</value>
-      <webElementGuid>bdf8f369-3f28-4655-b999-739c41d59cdc</webElementGuid>
+      <webElementGuid>f103c976-6a45-482e-b818-5ce8ce87f820</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::a[2]</value>
-      <webElementGuid>62851e83-591c-486a-ae4b-f40ab2b12529</webElementGuid>
+      <webElementGuid>bca04214-9b5b-4ee1-98a7-83c5d0e342d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Profile'])[1]/preceding::a[1]</value>
-      <webElementGuid>832697b7-e11d-4515-9802-eb45270790f8</webElementGuid>
+      <webElementGuid>cc544d6e-4013-42ee-b94f-31826e1d0589</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/FusionCenter/UserandAccountManagement')]</value>
-      <webElementGuid>605871b2-3f2a-4f6b-b16f-d52f6b419460</webElementGuid>
+      <webElementGuid>c9735d07-7b68-47df-8b7b-274fd2a3c652</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[3]/div/a</value>
-      <webElementGuid>e4d3688f-11e4-4a44-8909-535c0bb73c7d</webElementGuid>
+      <webElementGuid>7ff5f9ef-d485-4f06-a240-65262ef473a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/FusionCenter/UserandAccountManagement' and @id = 'b2-l1-59_2-MenuItem' and (text() = 'User &amp; Account Management' or . = 'User &amp; Account Management')]</value>
-      <webElementGuid>48b63fef-17b6-47b5-b788-c24787282398</webElementGuid>
+      <webElementGuid>2cd60643-455e-4290-ade5-d84a940a2763</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

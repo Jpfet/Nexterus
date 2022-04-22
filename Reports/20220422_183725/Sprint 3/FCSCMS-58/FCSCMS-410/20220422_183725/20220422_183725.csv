@@ -1,0 +1,37 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-410,Chrome 100.0.4896.127,User should be able to add new user by clicking the add user button,,2022-04-22 18:37:31,2022-04-22 18:54:33,17m - 2.770s,PASSED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-22 18:37:31,2022-04-22 18:37:45,13.591s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-22 18:37:32,2022-04-22 18:37:37,4.430s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-22 18:37:37,2022-04-22 18:37:39,2.393s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-22 18:37:39,2022-04-22 18:37:39,0.233s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-22 18:37:39,2022-04-22 18:37:41,2.107s,PASSED
+"setText(findTestObject(""Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-22 18:37:41,2022-04-22 18:37:43,1.820s,PASSED
+"setText(findTestObject(""Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-22 18:37:43,2022-04-22 18:37:44,1.071s,PASSED
+"click(findTestObject(""Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-22 18:37:44,2022-04-22 18:37:45,0.659s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-58/FCSCMS-410,Chrome 100.0.4896.127,User should be able to add new user by clicking the add user button,,2022-04-22 18:37:45,2022-04-22 18:54:33,16m - 48.562s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-22 18:37:46,2022-04-22 18:38:21,35.275s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Add New User""))",Chrome 100.0.4896.127,,,2022-04-22 18:38:21,2022-04-22 18:38:52,30.446s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_User Login Name""), ""fet4"")",Chrome 100.0.4896.127,,,2022-04-22 18:38:52,2022-04-22 18:39:52,1m - 0.542s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_User Name""), ""fet4"")",Chrome 100.0.4896.127,,,2022-04-22 18:39:52,2022-04-22 18:40:53,1m - 0.467s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_Email""), ""fet4@mailinator.com"")",Chrome 100.0.4896.127,,,2022-04-22 18:40:53,2022-04-22 18:41:53,1m - 0.532s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_Address Line 1""), ""Tinago"")",Chrome 100.0.4896.127,,,2022-04-22 18:41:53,2022-04-22 18:42:54,1m - 0.445s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User__Address Line 2""), ""M.Castro"")",Chrome 100.0.4896.127,,,2022-04-22 18:42:54,2022-04-22 18:43:54,1m - 0.593s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_Privilege Group""))",Chrome 100.0.4896.127,,,2022-04-22 18:43:54,2022-04-22 18:44:25,30.336s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_Privelege Group_Values Reader""))",Chrome 100.0.4896.127,,,2022-04-22 18:44:25,2022-04-22 18:44:55,30.416s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_User Group""))",Chrome 100.0.4896.127,,,2022-04-22 18:44:55,2022-04-22 18:45:25,30.332s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_User Group_Admin User Group""))",Chrome 100.0.4896.127,,,2022-04-22 18:45:25,2022-04-22 18:45:56,30.282s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_City""))",Chrome 100.0.4896.127,,,2022-04-22 18:45:56,2022-04-22 18:46:26,30.290s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_City_Alabaster""))",Chrome 100.0.4896.127,,,2022-04-22 18:46:26,2022-04-22 18:46:56,30.471s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_Zip Code""))",Chrome 100.0.4896.127,,,2022-04-22 18:46:56,2022-04-22 18:47:27,30.349s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_ZIP Code_35007""))",Chrome 100.0.4896.127,,,2022-04-22 18:47:27,2022-04-22 18:47:57,30.411s,PASSED
+"selectOptionByLabel(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_Phone Number_Area code""), ""+1"", false)",Chrome 100.0.4896.127,,,2022-04-22 18:47:57,2022-04-22 18:48:58,1m - 0.481s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_Phone Number field""), ""2027953213"")",Chrome 100.0.4896.127,,,2022-04-22 18:48:58,2022-04-22 18:49:58,1m - 0.571s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_Phone Number _Extension""), ""00"")",Chrome 100.0.4896.127,,,2022-04-22 18:49:58,2022-04-22 18:50:59,1m - 0.444s,PASSED
+"selectOptionByLabel(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_Mobile Number_Area Code""), ""+1"", false)",Chrome 100.0.4896.127,,,2022-04-22 18:50:59,2022-04-22 18:51:59,1m - 0.357s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_Mobile Number field""), ""2027953213"")",Chrome 100.0.4896.127,,,2022-04-22 18:51:59,2022-04-22 18:53:00,1m - 0.641s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create User_Save""))",Chrome 100.0.4896.127,,,2022-04-22 18:53:00,2022-04-22 18:53:30,30.329s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Create_User_Confirmation_Yes""))",Chrome 100.0.4896.127,,,2022-04-22 18:53:30,2022-04-22 18:54:00,30.334s,PASSED
+"verifyTextPresent(""fet4@mailinator.com"", false)",Chrome 100.0.4896.127,,,2022-04-22 18:54:00,2022-04-22 18:54:31,31.109s,PASSED
+"delay(2, STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-22 18:54:31,2022-04-22 18:54:33,2.011s,PASSED

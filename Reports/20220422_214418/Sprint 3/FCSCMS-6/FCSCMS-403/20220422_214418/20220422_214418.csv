@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-403,Chrome 100.0.4896.127,The user has the option to set privilege status to activate,,2022-04-22 21:44:24,2022-04-22 21:46:48,2m - 24.454s,FAILED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-22 21:44:24,2022-04-22 21:44:38,13.558s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-22 21:44:25,2022-04-22 21:44:30,4.660s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-22 21:44:30,2022-04-22 21:44:32,2.436s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-22 21:44:32,2022-04-22 21:44:33,0.214s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-22 21:44:33,2022-04-22 21:44:35,2.148s,PASSED
+"setText(findTestObject(""Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-22 21:44:35,2022-04-22 21:44:36,1.496s,PASSED
+"setText(findTestObject(""Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-22 21:44:36,2022-04-22 21:44:37,1.082s,PASSED
+"click(findTestObject(""Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-22 21:44:37,2022-04-22 21:44:38,0.603s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-6/FCSCMS-403,Chrome 100.0.4896.127,The user has the option to set privilege status to activate,,2022-04-22 21:44:38,2022-04-22 21:46:48,2m - 10.274s,FAILED
+"click(findTestObject(""Sprint 3/FCSCMS-403/FCSCMS-403/a_Privilege Group Management""))",Chrome 100.0.4896.127,,,2022-04-22 21:44:39,2022-04-22 21:45:17,37.808s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-403/FCSCMS-403/Activate button(fet automation)""))",Chrome 100.0.4896.127,,,2022-04-22 21:45:17,2022-04-22 21:45:47,30.420s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-403/FCSCMS-403/Activate_Yes button""))",Chrome 100.0.4896.127,,,2022-04-22 21:45:47,2022-04-22 21:46:18,30.350s,PASSED
+"verifyElementNotVisible(findTestObject(""Sprint 3/FCSCMS-403/FCSCMS-403/Activate button(fet automation)""))",Chrome 100.0.4896.127,,,2022-04-22 21:46:18,2022-04-22 21:46:48,30.662s,FAILED
