@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-414,Chrome 100.0.4896.127,"User should able to download the Results grid using Export Icons (xls, pdf, and doc)",,2022-04-26 18:22:12,2022-04-26 18:25:02,2m - 50.217s,PASSED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-26 18:22:12,2022-04-26 18:22:26,13.422s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-26 18:22:13,2022-04-26 18:22:18,4.769s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-26 18:22:18,2022-04-26 18:22:20,2.271s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-26 18:22:20,2022-04-26 18:22:20,0.260s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-26 18:22:20,2022-04-26 18:22:23,2.117s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-26 18:22:23,2022-04-26 18:22:24,1.349s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-26 18:22:24,2022-04-26 18:22:25,1.131s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-26 18:22:25,2022-04-26 18:22:26,0.608s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-59/FCSCMS-414,Chrome 100.0.4896.127,"User should able to download the Results grid using Export Icons (xls, pdf, and doc)",,2022-04-26 18:22:26,2022-04-26 18:25:02,2m - 36.128s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-414/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-26 18:22:27,2022-04-26 18:23:00,33.269s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-414/XLS-Download button""))",Chrome 100.0.4896.127,,,2022-04-26 18:23:00,2022-04-26 18:23:31,30.559s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-414/File name field""), ""Fet test"")",Chrome 100.0.4896.127,,,2022-04-26 18:23:31,2022-04-26 18:24:31,1m - 0.693s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-414/Download button(enabled)""))",Chrome 100.0.4896.127,,,2022-04-26 18:24:31,2022-04-26 18:25:02,30.447s,PASSED

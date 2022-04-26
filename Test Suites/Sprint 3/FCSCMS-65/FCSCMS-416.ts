@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description>User should be able to create new user account (Negative)</description>
-   <name>FCSCMS-463</name>
+   <description>User should be prompt after clicking yes button</description>
+   <name>FCSCMS-416</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>c863c24b-c20d-40e9-919a-f057f614b15a</testSuiteGuid>
+   <testSuiteGuid>2a0c9159-c72c-4da8-8529-60193fd423c4</testSuiteGuid>
    <testCaseLink>
-      <guid>abf0c02d-43ae-46d7-a6a2-8a92df4125d9</guid>
+      <guid>6bd15a52-2027-477a-baa1-8ad4925e2f63</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Log-in/Log-in- 1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>311276e8-1b42-4b92-95ac-741d35a45b4a</guid>
+      <guid>c39760d7-5830-4cd4-a15f-c38212211dfd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Sprint 3/FCSCMS-65/FCSCMS-463</testCaseId>
+      <testCaseId>Test Cases/Sprint 3/FCSCMS-65/FCSCMS-416</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

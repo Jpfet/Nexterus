@@ -17,17 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Sprint 3/FCSCMS-65/FCSCMS-463/User Account Management'))
+WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/User Account Management'))
 
 WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-410/Add New User'))
 
-WebUI.click(findTestObject('Sprint 3/FCSCMS-65/FCSCMS-463/Create User_Save'))
+WebUI.click(findTestObject('Sprint 3/FCSCMS-65/FCSCMS-416/Create User_Save'))
 
-WebUI.click(findTestObject('Sprint 3/FCSCMS-65/FCSCMS-463/Create_User_Confirmation_Yes'))
-
-WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-65/FCSCMS-463/Highlight requires input error message'))
-
-WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-65/FCSCMS-463/User login Name field flag'))
-
-WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-65/FCSCMS-463/Email field flag'))
+WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-65/FCSCMS-416/Create new user confirmation message'))
 

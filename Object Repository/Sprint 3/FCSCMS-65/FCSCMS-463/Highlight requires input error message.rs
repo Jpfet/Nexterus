@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Highlight requires input error message</name>
+   <tag></tag>
+   <elementGuidId>41adae8b-a406-4538-910e-2ca930e3dae0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.feedback-message-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='feedbackMessageContainer']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>77c3762f-84b7-4f3e-8b33-e06879039b01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>feedback-message-text</value>
+      <webElementGuid>2267cc88-be90-488d-bd69-dfe1b2788813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Highlighted field requires input</value>
+      <webElementGuid>40b3b829-a537-4e2d-84f6-b1943f449630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;feedbackMessageContainer&quot;)/div[@class=&quot;feedback-message feedback-message-error&quot;]/div[@class=&quot;feedback-message-text&quot;]</value>
+      <webElementGuid>e14b1ba1-bd70-4636-8343-028535955fe5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='feedbackMessageContainer']/div/div</value>
+      <webElementGuid>48d8d598-fa9f-473f-b388-566f3fdcdd90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to Content (Press Enter)'])[1]/preceding::div[1]</value>
+      <webElementGuid>5ccbba2e-9d6a-4897-ab67-951b774356ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::div[9]</value>
+      <webElementGuid>51a5df12-ffd2-4dc2-8d1c-20a2d0a9a4cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Highlighted field requires input']/parent::*</value>
+      <webElementGuid>27ea1250-27f6-4c2b-8e21-a1742498ac23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>10acd8f8-b964-4303-92ca-87e5f0fb8176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Highlighted field requires input' or . = 'Highlighted field requires input')]</value>
+      <webElementGuid>b13a97ee-c0b7-44f1-8af8-0f32749477df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

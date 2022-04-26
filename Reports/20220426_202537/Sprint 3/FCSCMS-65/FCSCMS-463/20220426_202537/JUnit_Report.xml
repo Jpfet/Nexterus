@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FCSCMS-463" time="205.226" tests="2" failures="0" errors="0">
+   <testsuite name="FCSCMS-463" tests="2" failures="0" errors="0" time="205.226" skipped="0" timestamp="2022-04-26 20:25:43" hostname="Fet - DESKTOP-Q81B6T4" id="Test Suites/Sprint 3/FCSCMS-65/FCSCMS-463">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Fet\\git\\Sample - Nexterus\\Reports\\20220426_202537\\Sprint 3\\FCSCMS-65\\FCSCMS-463\\20220426_202537"/>
+         <property name="logFiles" value="C:\\Users\\Fet\\git\\Sample - Nexterus\\Reports\\20220426_202537\\Sprint 3\\FCSCMS-65\\FCSCMS-463\\20220426_202537\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Fet - DESKTOP-Q81B6T4"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.0.208"/>
+         <property name="browser" value="Chrome 100.0.4896.127"/>
+         <property name="hostAddress" value="192.168.5.82"/>
+         <property name="sessionId" value="7571a969fe72c3fb7c4841c7562e740f"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Log-in/Log-in- 1" time="14.151" classname="Test Cases/Log-in/Log-in- 1" status="PASSED">
+         <system-out><![CDATA[2022-04-26 20:25:44 - [TEST_CASE][PASSED] - Test Cases/Log-in/Log-in- 1: Test Cases/Log-in/Log-in- 1
+
+2022-04-26 20:25:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-04-26 20:25:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-04-26 20:25:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-04-26 20:25:50 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-04-26 20:25:50 - [TEST_STEP][PASSED] - navigateToUrl("https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"): Navigate to 'https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login' successfully
+
+2022-04-26 20:25:52 - [MESSAGE][PASSED] - Navigate to 'https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login' successfully
+
+2022-04-26 20:25:52 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-04-26 20:25:53 - [MESSAGE][PASSED] - Current window maximized
+
+2022-04-26 20:25:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-04-26 20:25:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-04-26 20:25:55 - [TEST_STEP][PASSED] - setText(findTestObject("001-Log-in/Username field"), "admin"): Text 'admin' is set on object 'Object Repository/001-Log-in/Username field'
+
+2022-04-26 20:25:56 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/001-Log-in/Username field'
+
+2022-04-26 20:25:56 - [TEST_STEP][PASSED] - setText(findTestObject("001-Log-in/Password field"), "admin"): Text 'admin' is set on object 'Object Repository/001-Log-in/Password field'
+
+2022-04-26 20:25:57 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/001-Log-in/Password field'
+
+2022-04-26 20:25:57 - [TEST_STEP][PASSED] - click(findTestObject("001-Log-in/Log-in button"), STOP_ON_FAILURE): Object: 'Object Repository/001-Log-in/Log-in button' is clicked on
+
+2022-04-26 20:25:58 - [MESSAGE][PASSED] - Object: 'Object Repository/001-Log-in/Log-in button' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 3/FCSCMS-65/FCSCMS-463" time="190.422" classname="Test Cases/Sprint 3/FCSCMS-65/FCSCMS-463" status="PASSED">
+         <system-out><![CDATA[2022-04-26 20:25:58 - [TEST_CASE][PASSED] - Test Cases/Sprint 3/FCSCMS-65/FCSCMS-463: Test Cases/Sprint 3/FCSCMS-65/FCSCMS-463
+
+2022-04-26 20:25:59 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-65/FCSCMS-463/User Account Management")): Object: 'Object Repository/Sprint 3/FCSCMS-65/FCSCMS-463/User Account Management' is clicked on
+
+2022-04-26 20:26:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-65/FCSCMS-463/User Account Management' is clicked on
+
+2022-04-26 20:26:06 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-58/FCSCMS-410/Add New User")): Object: 'Object Repository/Sprint 3/FCSCMS-58/FCSCMS-410/Add New User' is clicked on
+
+2022-04-26 20:26:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-58/FCSCMS-410/Add New User' is clicked on
+
+2022-04-26 20:26:37 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-65/FCSCMS-463/Create User_Save")): Object: 'Object Repository/Sprint 3/FCSCMS-65/FCSCMS-463/Create User_Save' is clicked on
+
+2022-04-26 20:27:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-65/FCSCMS-463/Create User_Save' is clicked on
+
+2022-04-26 20:27:07 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-65/FCSCMS-463/Create_User_Confirmation_Yes")): Object: 'Object Repository/Sprint 3/FCSCMS-65/FCSCMS-463/Create_User_Confirmation_Yes' is clicked on
+
+2022-04-26 20:27:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-65/FCSCMS-463/Create_User_Confirmation_Yes' is clicked on
+
+2022-04-26 20:27:38 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sprint 3/FCSCMS-65/FCSCMS-463/Highlight requires input error message")): Object 'Object Repository/Sprint 3/FCSCMS-65/FCSCMS-463/Highlight requires input error message' is visible
+
+2022-04-26 20:28:08 - [MESSAGE][PASSED] - Object 'Object Repository/Sprint 3/FCSCMS-65/FCSCMS-463/Highlight requires input error message' is visible
+
+2022-04-26 20:28:08 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sprint 3/FCSCMS-65/FCSCMS-463/User login Name field flag")): Object 'Object Repository/Sprint 3/FCSCMS-65/FCSCMS-463/User login Name field flag' is visible
+
+2022-04-26 20:28:38 - [MESSAGE][PASSED] - Object 'Object Repository/Sprint 3/FCSCMS-65/FCSCMS-463/User login Name field flag' is visible
+
+2022-04-26 20:28:38 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sprint 3/FCSCMS-65/FCSCMS-463/Email field flag")): Object 'Object Repository/Sprint 3/FCSCMS-65/FCSCMS-463/Email field flag' is visible
+
+2022-04-26 20:29:09 - [MESSAGE][PASSED] - Object 'Object Repository/Sprint 3/FCSCMS-65/FCSCMS-463/Email field flag' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-04-26 20:25:43 - [TEST_SUITE][PASSED] - FCSCMS-463: Test Cases/Sprint 3/FCSCMS-65/FCSCMS-463]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
