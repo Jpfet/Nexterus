@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the Save button for the 'Basic Information' tab</description>
+   <name>FCSCMS-1142-S5 (Click the Save button for the Basic Information tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d729b130-79d2-4667-94b4-f43976e4e263</testCaseGuid>
+</TestCaseEntity>

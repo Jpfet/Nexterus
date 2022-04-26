@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to search or select Site Code on the Type-in Search dropdown</description>
+   <name>FCSCMS-1555-S6 (SelectSiteCode)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bad459ba-488e-4b2d-81ca-91818c77d362</testCaseGuid>
+</TestCaseEntity>

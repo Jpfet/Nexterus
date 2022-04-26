@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is able to click User and Account Management option from the left navigation panel</description>
+   <name>FCSCMS-919-S6 (User is able to click User and Account Management option from the left navigation panel)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3573de06-7e1c-4517-8b16-a02d976bf66e</testCaseGuid>
+</TestCaseEntity>

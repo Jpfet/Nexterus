@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the 'No' button to terminate the saving of the details entered or edited on the 'Basic Information' tab</description>
+   <name>FCSCMS-1144-S5 (Click the No button to terminate the saving of the details entered)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca3df94f-68dd-4ffe-bed8-659d3c3e4f51</testCaseGuid>
+</TestCaseEntity>

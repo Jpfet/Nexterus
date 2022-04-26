@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Status Dropdown button</description>
+   <name>FCSCMS-1071-S5 (Select Status Dropdown button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>deee20a9-780c-4598-9c3b-66ec279823f7</testCaseGuid>
+</TestCaseEntity>

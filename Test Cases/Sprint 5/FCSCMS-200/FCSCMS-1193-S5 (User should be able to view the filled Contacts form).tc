@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view the filled Contacts form</description>
+   <name>FCSCMS-1193-S5 (User should be able to view the filled Contacts form)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fc621af-c0a5-48f4-8361-a26b629a2542</testCaseGuid>
+</TestCaseEntity>

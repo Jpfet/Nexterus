@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is abel to fill Contact name</description>
+   <name>FCSCMS-1247-S5 (User is abel to fill Contact name)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f93d3aea-715e-4c27-9725-589f16652a6d</testCaseGuid>
+</TestCaseEntity>

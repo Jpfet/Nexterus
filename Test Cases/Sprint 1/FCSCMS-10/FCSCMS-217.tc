@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill username field</description>
+   <name>FCSCMS-217</name>
+   <tag>217</tag>
+   <comment></comment>
+   <testCaseGuid>8f86f192-c31c-4a73-a150-9e805c38ae77</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to search Quote</description>
+   <name>FCSCMS-1995-S7 (User should be able to search Quote)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6aef782-5c9a-4a99-8d9c-e910bd4a12e1</testCaseGuid>
+</TestCaseEntity>

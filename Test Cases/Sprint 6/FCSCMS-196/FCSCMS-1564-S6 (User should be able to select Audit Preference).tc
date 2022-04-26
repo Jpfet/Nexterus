@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Audit Preference</description>
+   <name>FCSCMS-1564-S6 (User should be able to select Audit Preference)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9e5b016-284c-432a-9c40-3e57b1f3509a</testCaseGuid>
+</TestCaseEntity>

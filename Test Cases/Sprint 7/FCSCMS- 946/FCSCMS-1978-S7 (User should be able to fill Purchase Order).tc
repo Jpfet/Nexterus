@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill Purchase Order</description>
+   <name>FCSCMS-1978-S7 (User should be able to fill Purchase Order)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7355ed6-7ec6-4217-9ae8-81afbda51c91</testCaseGuid>
+</TestCaseEntity>

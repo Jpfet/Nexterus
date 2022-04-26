@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Select Manual ratio button as  Audit Preference</description>
+   <name>FCSCMS-1580-S6 (Select Manual Radio Button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b8945d6-558d-4714-b5c7-b0681e6abefb</testCaseGuid>
+</TestCaseEntity>

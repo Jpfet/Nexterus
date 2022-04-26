@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Table Header_Email</name>
+   <tag></tag>
+   <elementGuidId>0f477915-8164-409a-acd0-4e3650f457f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;UserGrid&quot;)/thead[1]/tr[@class=&quot;table-header&quot;]/th[@class=&quot;sortable&quot;][count(. | //*[(text() = 'Email' or . = 'Email')]) = count(//*[(text() = 'Email' or . = 'Email')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='UserGrid']/thead/tr/th[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>b415fc54-240f-4062-94f1-06edd00096e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sortable</value>
+      <webElementGuid>0bfb1182-95d6-45ff-83fb-4edd00730c78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>e78a90b2-175f-409a-bc54-f3e74e6e5888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UserGrid&quot;)/thead[1]/tr[@class=&quot;table-header&quot;]/th[@class=&quot;sortable&quot;]</value>
+      <webElementGuid>1aa5c350-58ce-4d7e-9756-588529d50f30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='UserGrid']/thead/tr/th[9]</value>
+      <webElementGuid>5a54c9b1-ca5a-431d-bc72-802c44044833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Requires PasswordChange'])[1]/following::th[1]</value>
+      <webElementGuid>69f9aff2-7b34-4dc5-b13a-3825cc27656b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User AccessStatus'])[1]/following::th[2]</value>
+      <webElementGuid>c6203101-3f97-46ef-a80d-ad2d8a27937a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/preceding::th[1]</value>
+      <webElementGuid>92d86d96-778d-45fb-a483-54a88981c691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[1]/preceding::th[2]</value>
+      <webElementGuid>1601c8ff-d7b8-494a-9353-9262d7fab64f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[9]</value>
+      <webElementGuid>1fdcd8e1-0fd6-484f-87f1-f5fa4112f1be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Email' or . = 'Email')]</value>
+      <webElementGuid>e277b753-bde8-4510-9c0a-8c50d11ff05d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

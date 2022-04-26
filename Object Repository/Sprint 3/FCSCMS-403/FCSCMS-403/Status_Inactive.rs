@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Status_Inactive</name>
+   <tag></tag>
+   <elementGuidId>af4bd498-6276-4f7e-8ceb-b1e4789de05e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.status-NXT1</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Inactive' or . = 'Inactive')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div[2]/div[4]/div[1]/table/tbody/tr[1]/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>da4706e7-b16d-45dc-a220-33f32185236e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>status-NXT1</value>
+      <webElementGuid>48abe0cd-5ce4-48c5-a335-4ebd9dadee82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-header</name>
+      <type>Main</type>
+      <value>Privilege Group
+Status</value>
+      <webElementGuid>a94d7e02-7043-4aa5-9d06-7ac13ca2168b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inactive</value>
+      <webElementGuid>dd1cb1c9-ac9e-4655-bf36-5f69f9e28218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;List&quot;)/div[@class=&quot;full-width margin-top-s order-summary-datatable&quot;]/div[1]/table[@class=&quot;table table-NXT&quot;]/tbody[1]/tr[@class=&quot;table-row&quot;]/td[@class=&quot;status-NXT1&quot;]</value>
+      <webElementGuid>f33834f4-be87-4277-a3ef-92674c57bf07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='List']/div[4]/div/table/tbody/tr/td[4]</value>
+      <webElementGuid>cf5cd17b-458b-4da7-b617-bc491714134e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fet Automation Test'])[2]/following::td[1]</value>
+      <webElementGuid>3d8384b7-38e9-4362-8dd6-56f78bd4fffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fet Automation Test'])[1]/following::td[2]</value>
+      <webElementGuid>5f30fca3-64af-4699-9091-9cd380c47a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deactivate'])[1]/preceding::td[3]</value>
+      <webElementGuid>acdb41d9-8d0e-43b7-a06d-c1a2d9b80f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>c37f1a0f-c6ed-420d-b008-ff3b00d75f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Inactive' or . = 'Inactive')]</value>
+      <webElementGuid>2a07e21e-fd88-4492-a7d1-e585f0b87ec6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

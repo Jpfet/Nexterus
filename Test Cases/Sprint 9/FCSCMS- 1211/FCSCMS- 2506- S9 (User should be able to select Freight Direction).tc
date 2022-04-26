@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Freight Direction</description>
+   <name>FCSCMS- 2506- S9 (User should be able to select Freight Direction)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>089eb519-3474-425d-860d-5b9b984ad2e0</testCaseGuid>
+</TestCaseEntity>

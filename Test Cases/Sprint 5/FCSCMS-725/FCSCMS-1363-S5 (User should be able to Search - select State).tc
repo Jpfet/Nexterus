@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Search / select State</description>
+   <name>FCSCMS-1363-S5 (User should be able to Search - select State)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c008675d-86ae-4b55-88c8-79cab9261aec</testCaseGuid>
+</TestCaseEntity>

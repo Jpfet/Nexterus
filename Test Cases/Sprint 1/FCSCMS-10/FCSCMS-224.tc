@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is able to click Need assistance button</description>
+   <name>FCSCMS-224</name>
+   <tag>224</tag>
+   <comment></comment>
+   <testCaseGuid>e0238505-3250-477f-aa76-32b5ab1dd06b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view/edit the client's country on the Country dropdown menu</description>
+   <name>FCSCMS-1203-S5 (Edit Clients Country)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74f12b17-bb76-4bd0-bc3c-92bc2dbbe4c2</testCaseGuid>
+</TestCaseEntity>

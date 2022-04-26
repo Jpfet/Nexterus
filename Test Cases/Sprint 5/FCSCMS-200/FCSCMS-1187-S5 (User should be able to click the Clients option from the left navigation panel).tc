@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view/edit the client's details</description>
+   <name>FCSCMS-1187-S5 (User should be able to click the Clients option from the left navigation panel)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfa0434e-0cd6-459c-81af-561518a67c54</testCaseGuid>
+</TestCaseEntity>

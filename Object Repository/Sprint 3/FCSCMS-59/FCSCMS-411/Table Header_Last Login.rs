@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Table Header_Last Login</name>
+   <tag></tag>
+   <elementGuidId>2ff7f3ac-8c81-4c7a-8e0e-f59519cfaea1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Last Login' or . = 'Last Login')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='UserGrid']/thead/tr/th[18]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>9f6dd211-14d9-4a1b-a613-dea2933e10c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sortable</value>
+      <webElementGuid>ef874adb-6112-457e-9e82-f63db0ad312d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Last Login</value>
+      <webElementGuid>28e8a120-70ec-4058-8bf1-723f6532d259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UserGrid&quot;)/thead[1]/tr[@class=&quot;table-header&quot;]/th[@class=&quot;sortable&quot;]</value>
+      <webElementGuid>35fe9dcb-52b2-48b6-b3dd-689caa3f6e30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='UserGrid']/thead/tr/th[18]</value>
+      <webElementGuid>1ec1a35a-0715-4b8f-84be-ef7015215de7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile'])[1]/following::th[1]</value>
+      <webElementGuid>d5cedc94-580e-44e5-a555-afb4ba7598b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Extension'])[1]/following::th[2]</value>
+      <webElementGuid>cacc4f5e-3afb-4bcb-8e2c-e5e24dc6343b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created On'])[1]/preceding::th[1]</value>
+      <webElementGuid>d1464d57-378b-4c36-8d62-0cfdef4e4fd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Updated On'])[1]/preceding::th[2]</value>
+      <webElementGuid>b29b4cb7-2893-4e5a-9232-ea86c3d895e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[18]</value>
+      <webElementGuid>21055534-56ee-4067-8593-7c62dedce987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Last Login' or . = 'Last Login')]</value>
+      <webElementGuid>466b1606-03d2-4925-83e7-c18a3cc46d6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Search Qoutes using Enter key button</description>
+   <name>FCSCMS-1970-S7 (User should be able to Search Qoutes using Enter key button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ceb0527-eed0-4630-b683-a26eeefd239a</testCaseGuid>
+</TestCaseEntity>

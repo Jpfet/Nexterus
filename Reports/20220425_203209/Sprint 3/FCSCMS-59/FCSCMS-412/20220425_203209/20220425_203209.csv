@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-412,Chrome 100.0.4896.127,User should be able to navigate pages from first page to last,,2022-04-25 20:32:15,2022-04-25 20:34:11,1m - 56.151s,FAILED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-25 20:32:16,2022-04-25 20:32:33,16.719s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-25 20:32:17,2022-04-25 20:32:22,5.002s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-25 20:32:22,2022-04-25 20:32:25,2.929s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-25 20:32:25,2022-04-25 20:32:25,0.236s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-25 20:32:25,2022-04-25 20:32:27,2.107s,PASSED
+"setText(findTestObject(""Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-25 20:32:27,2022-04-25 20:32:31,3.385s,PASSED
+"setText(findTestObject(""Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-25 20:32:31,2022-04-25 20:32:32,1.138s,PASSED
+"click(findTestObject(""Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 20:32:32,2022-04-25 20:32:33,0.809s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-59/FCSCMS-412,Chrome 100.0.4896.127,User should be able to navigate pages from first page to last,,2022-04-25 20:32:33,2022-04-25 20:34:11,1m - 38.770s,FAILED
+"click(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-412/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-25 20:32:34,2022-04-25 20:33:10,36.606s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-412/Page number_2""))",Chrome 100.0.4896.127,,,2022-04-25 20:33:10,2022-04-25 20:33:41,30.379s,PASSED
+"verifyElementNotClickable(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-412/Page number_2""))",Chrome 100.0.4896.127,,,2022-04-25 20:33:41,2022-04-25 20:34:11,30.654s,FAILED

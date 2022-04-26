@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Click No</description>
+   <name>FCSCMS-1590-S6 (User should be able to Click No)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41b59107-adc0-49e6-a9dc-4a5b84e5c0b1</testCaseGuid>
+</TestCaseEntity>

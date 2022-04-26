@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Search / select City</description>
+   <name>FCSCMS-1255-S5 (User should be able to Search - select City)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f907d33e-7a24-4ae0-af5c-9bd24d8c25ca</testCaseGuid>
+</TestCaseEntity>

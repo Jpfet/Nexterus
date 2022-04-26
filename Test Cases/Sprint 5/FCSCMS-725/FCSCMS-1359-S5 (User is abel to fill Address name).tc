@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is abel to fill Address name</description>
+   <name>FCSCMS-1359-S5 (User is abel to fill Address name)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e09e053f-b9c6-463d-aabf-f14a7497d51c</testCaseGuid>
+</TestCaseEntity>

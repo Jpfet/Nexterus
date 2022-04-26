@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User shoule be able to select Shipment Type = Less than Truckload</description>
+   <name>FCSCMS-2062-S7 (User shoule be able to select Shipment Type - Less than Truckload)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bed0c074-d829-4050-ae56-a0fb01d1db48</testCaseGuid>
+</TestCaseEntity>

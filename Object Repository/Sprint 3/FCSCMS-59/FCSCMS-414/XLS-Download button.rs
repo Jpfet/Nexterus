@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>XLS-Download button</name>
+   <tag></tag>
+   <elementGuidId>2980cd60-958a-45cc-9d05-7b5ea0177087</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.margin-left-base</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='$b16']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>71200162-8a43-4902-8406-ce09975df225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>margin-left-base</value>
+      <webElementGuid>279ab417-236c-4f95-91a7-2286ec12b7f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;$b16&quot;)/div[@class=&quot;justify-center OSInline&quot;]/div[@class=&quot;download-format-custom&quot;]/div[@class=&quot;margin-left-base&quot;]</value>
+      <webElementGuid>43d552f2-3348-44cf-92f5-5d0b427f365f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='$b16']/div/div/div[2]</value>
+      <webElementGuid>dc5dac06-12ad-46f9-bba3-aaaa7c289af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::div[1]</value>
+      <webElementGuid>3ef02096-477c-4fd7-869c-7ffb9ee0c67a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User and Account Management'])[2]/following::div[11]</value>
+      <webElementGuid>0332d23d-32f0-4d33-adae-9c856ea8a31b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='to'])[1]/preceding::div[3]</value>
+      <webElementGuid>52545cae-174d-4a35-84e5-81ffb9f526e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[1]/preceding::div[3]</value>
+      <webElementGuid>c48b3b7e-a5a7-4efc-94d1-b6f1b560d2a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>527fc3c0-aae3-403b-b4a2-3345e6fe0557</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create User_User Group_Admin User Group</name>
+   <tag></tag>
+   <elementGuidId>82bb4cf3-c924-496e-961c-c6ab184fbf2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;choices--b31-SelectableTags-item-choice-1&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>bfa24504-4405-4f31-ae89-6cd3f7adcf92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1650612730481</value>
+      <webElementGuid>d7fa5563-24ab-4574-b881-223c66f51149</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

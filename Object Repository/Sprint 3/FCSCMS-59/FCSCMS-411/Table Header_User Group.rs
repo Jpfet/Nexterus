@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Table Header_User Group</name>
+   <tag></tag>
+   <elementGuidId>c8415cb4-703c-4467-81a3-14679a686982</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'User Group' or . = 'User Group')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='UserGrid']/thead/tr/th[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>5f600d2b-ca01-4dec-8757-08591cb45aea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User Group</value>
+      <webElementGuid>bf88b857-9aad-4029-bd3b-30bba2d5d2e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UserGrid&quot;)/thead[1]/tr[@class=&quot;table-header&quot;]/th[5]</value>
+      <webElementGuid>c5adcf2d-95ec-45e0-8f2d-6491feeabe46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='UserGrid']/thead/tr/th[5]</value>
+      <webElementGuid>319e81a6-c4f2-4477-b992-84daf6d7afca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privilege Group'])[2]/following::th[1]</value>
+      <webElementGuid>6178dbfa-0178-4a33-9a13-8a6c2aa3d3a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name'])[2]/following::th[2]</value>
+      <webElementGuid>82db0c0f-89d4-41b7-a060-b0837488bb50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Status'])[2]/preceding::th[1]</value>
+      <webElementGuid>8e1e1593-e9cd-4b1e-b6b9-74d6d09c41ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User AccessStatus'])[1]/preceding::th[2]</value>
+      <webElementGuid>abfe636c-dbe4-4c89-9d04-22340c993551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[5]</value>
+      <webElementGuid>80b1a8e7-2553-428c-8db9-6f385f8afbe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'User Group' or . = 'User Group')]</value>
+      <webElementGuid>7de41158-04ad-4488-aae5-8653cbfc8805</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

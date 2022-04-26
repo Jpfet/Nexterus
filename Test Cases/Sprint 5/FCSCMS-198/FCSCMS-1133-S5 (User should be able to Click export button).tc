@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Click export button</description>
+   <name>FCSCMS-1133-S5 (User should be able to Click export button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68ada558-ef82-4397-a735-9e548f3b432e</testCaseGuid>
+</TestCaseEntity>

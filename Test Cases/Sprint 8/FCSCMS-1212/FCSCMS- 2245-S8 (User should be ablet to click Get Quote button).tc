@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be ablet to click Get Quote button</description>
+   <name>FCSCMS- 2245-S8 (User should be ablet to click Get Quote button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a706b071-3d63-49a6-b88a-bf642b18a62d</testCaseGuid>
+</TestCaseEntity>

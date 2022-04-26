@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Clear button</description>
+   <name>FCSCMS-1843-S7 (User should be able to click Clear button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec0c8cb1-aa1c-419e-8387-0b5733d544ac</testCaseGuid>
+</TestCaseEntity>

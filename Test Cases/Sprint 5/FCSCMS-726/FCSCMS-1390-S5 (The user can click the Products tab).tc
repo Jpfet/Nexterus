@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the 'Products' tab</description>
+   <name>FCSCMS-1390-S5 (The user can click the Products tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfc674a4-b17d-48e8-80f5-7f62588d030f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EditSiteAddress</name>
+   <tag></tag>
+   <elementGuidId>2bbc68aa-2a35-4660-a16e-4e85aee0e45f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.pencil-icon.fa.fa-pencil.fa-1x</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b12-b8-b2-Column2']/div/div/span/div/div[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon pencil-icon fa fa-pencil fa-1x</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b12-b8-b2-Column2&quot;)/div[@class=&quot;card-container-filled margin-top-none&quot;]/div[1]/span[1]/div[1]/div[@class=&quot;text-align-right width_20 ThemeGrid_Width2&quot;]/a[1]/i[@class=&quot;icon pencil-icon fa fa-pencil fa-1x&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b12-b8-b2-Column2']/div/div/span/div/div[2]/a/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div[2]/a/i</value>
+   </webElementXpaths>
+</WebElementEntity>

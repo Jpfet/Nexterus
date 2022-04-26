@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to use navigation page</description>
+   <name>FCSCMS-1281-S5 (User should be able to use navigation page)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3aaa9f27-ff9b-4216-b0b8-7f4a9057de4c</testCaseGuid>
+</TestCaseEntity>

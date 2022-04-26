@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click New Quote button</description>
+   <name>FCSCMS-1997-S7 (User should be able to click New Quote button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d12628e-8c73-4242-816f-5ab24af66616</testCaseGuid>
+</TestCaseEntity>

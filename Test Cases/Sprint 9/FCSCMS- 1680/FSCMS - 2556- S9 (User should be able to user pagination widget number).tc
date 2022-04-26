@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to user pagination widget number</description>
+   <name>FSCMS - 2556- S9 (User should be able to user pagination widget number)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfccfd60-b7e7-4861-9ae8-ce51e7caae8f</testCaseGuid>
+</TestCaseEntity>

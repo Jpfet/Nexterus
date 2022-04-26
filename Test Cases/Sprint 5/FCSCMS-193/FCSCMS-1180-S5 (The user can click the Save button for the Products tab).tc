@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the Save button for the 'Products' tab</description>
+   <name>FCSCMS-1180-S5 (The user can click the Save button for the Products tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d497969-3ddc-47fe-98a6-398ff959dd8b</testCaseGuid>
+</TestCaseEntity>

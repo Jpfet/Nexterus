@@ -1,0 +1,40 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-411,Chrome 100.0.4896.127,User should be able to view User information and action in User grid view,,2022-04-25 18:18:29,2022-04-25 18:32:27,13m - 58.696s,PASSED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-25 18:18:29,2022-04-25 18:18:44,14.468s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-25 18:18:30,2022-04-25 18:18:35,4.477s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-25 18:18:35,2022-04-25 18:18:38,2.714s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-25 18:18:38,2022-04-25 18:18:38,0.243s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-25 18:18:38,2022-04-25 18:18:40,2.068s,PASSED
+"setText(findTestObject(""Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-25 18:18:40,2022-04-25 18:18:42,2.076s,PASSED
+"setText(findTestObject(""Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-25 18:18:42,2022-04-25 18:18:43,1.070s,PASSED
+"click(findTestObject(""Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:18:43,2022-04-25 18:18:44,0.867s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-59/FCSCMS-411,Chrome 100.0.4896.127,User should be able to view User information and action in User grid view,,2022-04-25 18:18:44,2022-04-25 18:32:27,13m - 43.525s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-25 18:18:45,2022-04-25 18:19:21,35.579s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Email""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:19:21,2022-04-25 18:19:51,30.469s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Action""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:19:51,2022-04-25 18:20:21,30.245s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Address""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:20:21,2022-04-25 18:20:52,30.245s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_City""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:20:52,2022-04-25 18:21:22,30.238s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Country""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:21:22,2022-04-25 18:21:52,30.222s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Created On""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:21:52,2022-04-25 18:22:22,30.247s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Deactivate""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:22:22,2022-04-25 18:22:52,30.220s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Edit icon""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:22:52,2022-04-25 18:23:23,30.293s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Extension""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:23:23,2022-04-25 18:23:53,30.297s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Last Login""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:23:53,2022-04-25 18:24:23,30.218s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Last Updated By""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:24:23,2022-04-25 18:24:54,30.279s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Last Updated On""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:24:54,2022-04-25 18:25:24,30.218s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Locked icon""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:25:24,2022-04-25 18:25:54,30.249s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Mobile""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:25:54,2022-04-25 18:26:24,30.265s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Password Change Date""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:26:24,2022-04-25 18:26:55,30.243s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Phone""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:26:55,2022-04-25 18:27:25,30.304s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Privilege Group""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:27:25,2022-04-25 18:27:55,30.319s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Requires Password Change""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:27:55,2022-04-25 18:28:25,30.267s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Reset Password""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:28:25,2022-04-25 18:28:56,30.255s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_State""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:28:56,2022-04-25 18:29:26,30.283s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_User Access Status""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:29:26,2022-04-25 18:29:56,30.213s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_User Group""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:29:56,2022-04-25 18:30:26,30.213s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_User Login Name""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:30:26,2022-04-25 18:30:57,30.241s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_User Name""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:30:57,2022-04-25 18:31:27,30.266s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_User Status""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:31:27,2022-04-25 18:31:57,30.310s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Zip Code""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:31:57,2022-04-25 18:32:27,30.289s,PASSED

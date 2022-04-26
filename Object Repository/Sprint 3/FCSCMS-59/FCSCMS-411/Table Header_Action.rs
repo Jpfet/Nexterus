@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Table Header_Action</name>
+   <tag></tag>
+   <elementGuidId>b57b712a-d25b-4d77-823c-a47e44befd1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='UserGrid']/thead/tr/th</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>9d0df984-d72d-47f2-8974-4b90ca0d8164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Action</value>
+      <webElementGuid>25d677f4-3496-46b0-b79e-1f4df9fc4a3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UserGrid&quot;)/thead[1]/tr[@class=&quot;table-header&quot;]/th[1]</value>
+      <webElementGuid>13ca4d61-06bb-4c39-aecd-5dbc72daa207</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='UserGrid']/thead/tr/th</value>
+      <webElementGuid>92d857dc-79f2-44d2-a3b5-b4465e28aec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::th[1]</value>
+      <webElementGuid>d6fdc4b2-8bb3-4ed8-a936-baa29fd678ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to page'])[1]/following::th[1]</value>
+      <webElementGuid>5caf922f-badd-4168-89c7-867c6225eb54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Login Name'])[2]/preceding::th[1]</value>
+      <webElementGuid>c13f4c68-da2a-49ce-9cb8-142471b17efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name'])[2]/preceding::th[2]</value>
+      <webElementGuid>7f97f3cb-1c33-4e53-ad1f-4bda64a75973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Action']/parent::*</value>
+      <webElementGuid>185bd80d-3928-4e2a-af99-2bf1a8f2fc92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th</value>
+      <webElementGuid>3348375a-3d5b-46c1-9b7b-cdeb9b48bdf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Action' or . = 'Action')]</value>
+      <webElementGuid>29175765-3094-4962-9f7b-bd9ac5203e19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

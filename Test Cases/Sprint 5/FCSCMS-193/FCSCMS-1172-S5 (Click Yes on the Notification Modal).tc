@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the 'Yes' to confirm saving of all of the Newly added or edited Carrier information on the 'Carriers' tab</description>
+   <name>FCSCMS-1172-S5 (Click Yes on the Notification Modal)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07d9c3b1-1430-412b-ae86-71ec1e8f1a34</testCaseGuid>
+</TestCaseEntity>

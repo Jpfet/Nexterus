@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can input or edit details on the 'Basic Information' tab</description>
+   <name>FCSCMS-1141-S5 (Edit details on the Basic Information tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b85cc3b7-f493-446e-b328-eb8027f5d1f8</testCaseGuid>
+</TestCaseEntity>

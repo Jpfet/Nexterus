@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Click Yes/
+User is able to Create New Association</description>
+   <name>FCSCMS-1589-S6 (Click Yes)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da908589-34bb-4d20-af11-7bb9ce292450</testCaseGuid>
+</TestCaseEntity>

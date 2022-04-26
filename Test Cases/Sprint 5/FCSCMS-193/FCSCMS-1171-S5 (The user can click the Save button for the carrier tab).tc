@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the Save button for the 'carrier' tab</description>
+   <name>FCSCMS-1171-S5 (The user can click the Save button for the carrier tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6cb0c70-ba31-4530-877f-a0e03c775cee</testCaseGuid>
+</TestCaseEntity>

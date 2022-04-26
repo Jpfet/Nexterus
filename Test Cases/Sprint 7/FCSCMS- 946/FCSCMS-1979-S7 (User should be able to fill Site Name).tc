@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill Site Name</description>
+   <name>FCSCMS-1979-S7 (User should be able to fill Site Name)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ede576f5-9d99-4240-a672-485740907b5b</testCaseGuid>
+</TestCaseEntity>

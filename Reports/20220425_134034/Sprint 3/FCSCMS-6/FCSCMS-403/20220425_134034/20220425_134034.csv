@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-403,Chrome 100.0.4896.127,The user has the option to set privilege status to activate,,2022-04-25 13:40:39,2022-04-25 13:43:05,2m - 25.226s,PASSED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-25 13:40:40,2022-04-25 13:40:53,13.336s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-25 13:40:41,2022-04-25 13:40:46,4.543s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-25 13:40:46,2022-04-25 13:40:48,2.305s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-25 13:40:48,2022-04-25 13:40:48,0.218s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-25 13:40:48,2022-04-25 13:40:50,2.094s,PASSED
+"setText(findTestObject(""Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-25 13:40:50,2022-04-25 13:40:52,1.618s,PASSED
+"setText(findTestObject(""Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-25 13:40:52,2022-04-25 13:40:53,0.956s,PASSED
+"click(findTestObject(""Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 13:40:53,2022-04-25 13:40:53,0.716s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-6/FCSCMS-403,Chrome 100.0.4896.127,The user has the option to set privilege status to activate,,2022-04-25 13:40:53,2022-04-25 13:43:05,2m - 11.222s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-403/FCSCMS-403/a_Privilege Group Management""))",Chrome 100.0.4896.127,,,2022-04-25 13:40:54,2022-04-25 13:41:01,6.686s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-403/FCSCMS-403/Activate button(fet automation)""))",Chrome 100.0.4896.127,,,2022-04-25 13:41:01,2022-04-25 13:41:32,30.621s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-403/FCSCMS-403/Activate_Yes button""))",Chrome 100.0.4896.127,,,2022-04-25 13:41:32,2022-04-25 13:42:02,30.293s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-403/FCSCMS-403/Status_Active""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 13:42:02,2022-04-25 13:42:32,30.348s,PASSED
+"verifyElementText(findTestObject(""Sprint 3/FCSCMS-403/FCSCMS-403/Status_Active""), ""Active"", STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 13:42:32,2022-04-25 13:43:03,30.259s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-25 13:43:03,2022-04-25 13:43:05,2.005s,PASSED

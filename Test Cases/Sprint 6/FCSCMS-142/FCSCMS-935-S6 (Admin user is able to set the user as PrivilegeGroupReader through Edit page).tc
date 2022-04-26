@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin user is able to set the user as PrivilegeGroupReader through Edit page</description>
+   <name>FCSCMS-935-S6 (Admin user is able to set the user as PrivilegeGroupReader through Edit page)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76fa84e5-cfc7-4054-a18e-b27c8d65c424</testCaseGuid>
+</TestCaseEntity>

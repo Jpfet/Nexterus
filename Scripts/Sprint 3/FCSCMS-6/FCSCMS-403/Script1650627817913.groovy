@@ -23,13 +23,15 @@ WebUI.click(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Activate button(fet a
 
 WebUI.click(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Activate_Yes button'))
 
-WebUI.verifyElementNotVisible(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Activate button(fet automation)'))
+WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Status_Active'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.delay(2)
+WebUI.verifyElementText(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Status_Active'), 'Active', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Deactivate button(fet automation)'))
 
 WebUI.click(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Deactivate_Yes button'))
 
-WebUI.verifyElementNotVisible(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Activate button(fet automation)'))
+WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Status_Inactive'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Status_Inactive'), 'Inactive', FailureHandling.CONTINUE_ON_FAILURE)
 

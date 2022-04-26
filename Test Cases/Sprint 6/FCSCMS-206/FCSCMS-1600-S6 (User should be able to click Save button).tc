@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Save button</description>
+   <name>FCSCMS-1600-S6 (User should be able to click Save button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6aa0130e-b573-4ca3-8326-f6a417396a75</testCaseGuid>
+</TestCaseEntity>

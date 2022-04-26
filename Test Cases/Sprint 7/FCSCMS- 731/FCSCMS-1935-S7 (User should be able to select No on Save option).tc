@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FCSCMS-1935-S7 (User should be able to select No on Save option)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6a2e4aa-c316-478f-ad9d-bf4b25b2c9a4</testCaseGuid>
+</TestCaseEntity>

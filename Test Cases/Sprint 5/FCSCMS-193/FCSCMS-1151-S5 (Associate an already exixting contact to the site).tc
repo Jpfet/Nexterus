@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can Associate an already exixting contact to the site</description>
+   <name>FCSCMS-1151-S5 (Associate an already exixting contact to the site)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3135efe-d606-4a3a-acbe-8a5be9b26041</testCaseGuid>
+</TestCaseEntity>

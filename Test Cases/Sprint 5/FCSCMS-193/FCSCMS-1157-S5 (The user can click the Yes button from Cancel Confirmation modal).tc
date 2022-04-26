@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the 'Yes' button from Cancel Confirmation modal</description>
+   <name>FCSCMS-1157-S5 (The user can click the Yes button from Cancel Confirmation modal)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e5c72b4-7373-4b96-a15c-e42d5f5c4f4d</testCaseGuid>
+</TestCaseEntity>

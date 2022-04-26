@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to add/edit the client's Fusion Center using the Fusion Center multi-select dropdown</description>
+   <name>FCSCMS-1113-S5 (Edit Fusion Center dropdown)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2631473e-d594-4a92-a638-2fcbf0334e43</testCaseGuid>
+</TestCaseEntity>

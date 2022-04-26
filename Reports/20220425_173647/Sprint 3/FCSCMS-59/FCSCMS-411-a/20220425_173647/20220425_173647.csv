@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-411-a,Chrome 100.0.4896.127,,,2022-04-25 17:36:52,2022-04-25 17:38:17,1m - 25.412s,FAILED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-25 17:36:53,2022-04-25 17:37:07,14.603s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-25 17:36:54,2022-04-25 17:36:58,4.701s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-25 17:36:58,2022-04-25 17:37:01,2.535s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-25 17:37:01,2022-04-25 17:37:01,0.213s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-25 17:37:01,2022-04-25 17:37:03,2.083s,PASSED
+"setText(findTestObject(""Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-25 17:37:03,2022-04-25 17:37:05,2.197s,PASSED
+"setText(findTestObject(""Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-25 17:37:05,2022-04-25 17:37:07,1.149s,PASSED
+"click(findTestObject(""Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 17:37:07,2022-04-25 17:37:07,0.787s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-59/FCSCMS-411a,Chrome 100.0.4896.127,,,2022-04-25 17:37:07,2022-04-25 17:38:17,1m - 10.019s,FAILED
+"click(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-25 17:37:08,2022-04-25 17:37:16,7.998s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Locked icon""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 17:37:16,2022-04-25 17:38:17,1m - 1.023s,FAILED

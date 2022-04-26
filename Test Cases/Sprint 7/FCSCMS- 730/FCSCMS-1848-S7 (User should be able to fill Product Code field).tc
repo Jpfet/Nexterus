@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>FCSCMS- 1848	User should be able to fill Product Code field</description>
+   <name>FCSCMS-1848-S7 (User should be able to fill Product Code field)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5a50e44-2379-40ec-b2f1-c4f638758bd1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Ship Date (To)</description>
+   <name>FCSCMS-1992-S7 (User should be able to select Ship Date (To))</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b76ebb5-3287-43b3-aa1a-93dde67f3558</testCaseGuid>
+</TestCaseEntity>

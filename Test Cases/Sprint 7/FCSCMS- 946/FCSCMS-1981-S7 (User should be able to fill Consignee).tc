@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill Consignee</description>
+   <name>FCSCMS-1981-S7 (User should be able to fill Consignee)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d04095bd-53a5-4337-acef-d6552991aa5c</testCaseGuid>
+</TestCaseEntity>

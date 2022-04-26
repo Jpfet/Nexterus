@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Dimension as the Mode</description>
+   <name>FCSCMS-2069-S7 (User should be able to select Dimension as the Mode)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36dc95de-11c3-4695-8a55-582b086f798f</testCaseGuid>
+</TestCaseEntity>

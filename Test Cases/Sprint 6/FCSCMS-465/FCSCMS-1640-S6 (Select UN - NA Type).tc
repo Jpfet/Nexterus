@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to search or select UN/NA Number on the Type-in Search dropdown</description>
+   <name>FCSCMS-1640-S6 (Select UN - NA Type)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cebe1420-c329-43fb-89c7-b41450005680</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select/un-select Truckload on Shipment Type</description>
+   <name>FCSCMS-1973-S7 (User should be able to select-un-select Truckload on Shipment Type)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ff5ece4-a0ef-450e-a33b-d4a54d3a5844</testCaseGuid>
+</TestCaseEntity>

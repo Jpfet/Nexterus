@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to clear content on advance search page</description>
+   <name>FCSCMS-1083-S5 (Clear content on advance search page)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39682d44-b4ba-496e-83b2-63c0ead764f5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Track icon</description>
+   <name>FSCMS - 2553- S9 (User should be able to click Track icon)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d43f5664-7f8c-4c61-af59-c8e1ed26ff60</testCaseGuid>
+</TestCaseEntity>

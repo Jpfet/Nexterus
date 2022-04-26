@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill search bar</description>
+   <name>FCSCMS-1830-S7 (User should be able to fill search bar)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cb90e91-d3c0-4c49-80c3-a6ee48d7d66a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Site</description>
+   <name>FCSCMS- 2240-S8 (User should be able to select Site)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e33ecb3-e4f3-4be7-a167-9314e1d30345</testCaseGuid>
+</TestCaseEntity>

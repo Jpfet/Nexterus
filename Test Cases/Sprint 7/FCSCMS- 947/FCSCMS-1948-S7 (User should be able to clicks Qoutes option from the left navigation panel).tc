@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to clicks Qoutes option from the left navigation panel</description>
+   <name>FCSCMS-1948-S7 (User should be able to clicks Qoutes option from the left navigation panel)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8921ffc-7d68-4411-9ef4-2446202c2e88</testCaseGuid>
+</TestCaseEntity>

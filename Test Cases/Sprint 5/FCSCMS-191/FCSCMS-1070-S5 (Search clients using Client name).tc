@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to search clients using Client name</description>
+   <name>FCSCMS-1070-S5 (Search clients using Client name)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>268e33d6-bfda-48e5-9326-120b97a5c4e2</testCaseGuid>
+</TestCaseEntity>

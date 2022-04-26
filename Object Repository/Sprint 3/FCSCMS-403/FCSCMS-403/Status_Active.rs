@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Status_Active</name>
+   <tag></tag>
+   <elementGuidId>85256a6e-34e0-4675-ab8b-da1c4b5fce0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='List']/div[4]/div/table/tbody/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.status-NXT1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>55363e3a-114d-4e49-ba8c-a5ac016abc4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>status-NXT1</value>
+      <webElementGuid>d3817cd6-15e2-40aa-a18c-2f1b16dc7463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-header</name>
+      <type>Main</type>
+      <value>Privilege Group
+Status</value>
+      <webElementGuid>54640e09-d167-4792-9e11-5c3fbe4aeff6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Active</value>
+      <webElementGuid>7f10bf81-254b-47bf-b11d-b4c230558f7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;List&quot;)/div[@class=&quot;full-width margin-top-s order-summary-datatable&quot;]/div[1]/table[@class=&quot;table table-NXT&quot;]/tbody[1]/tr[@class=&quot;table-row&quot;]/td[@class=&quot;status-NXT1&quot;]</value>
+      <webElementGuid>6f939dd7-50ae-4790-88dc-1d2c464d82f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='List']/div[4]/div/table/tbody/tr/td[4]</value>
+      <webElementGuid>eeae4087-901d-4492-af69-dd814af17135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fet Automation Test'])[2]/following::td[1]</value>
+      <webElementGuid>fa87b0da-648d-4287-b495-e64b79deb8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fet Automation Test'])[1]/following::td[2]</value>
+      <webElementGuid>2ae20de8-524d-47b6-b7f0-d18caccaabcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deactivate'])[2]/preceding::td[3]</value>
+      <webElementGuid>0bd693fc-1a63-4ec1-9dbf-b4f04b1e9cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>aee63e39-8650-42c3-824c-bc8af5cdeac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Active' or . = 'Active')]</value>
+      <webElementGuid>ef703d4b-414e-4fde-9ba3-38f86d4c9fa0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

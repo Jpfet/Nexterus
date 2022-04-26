@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to ssearch or select Country (Mandatory)</description>
+   <name>FCSCMS-1296-S5 (User should be able to ssearch or select Country)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc208381-d579-4ecc-8c8a-b223b348a5d4</testCaseGuid>
+</TestCaseEntity>

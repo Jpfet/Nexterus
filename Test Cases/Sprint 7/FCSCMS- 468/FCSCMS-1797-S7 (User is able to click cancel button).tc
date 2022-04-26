@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is able to click cancel button</description>
+   <name>FCSCMS-1797-S7 (User is able to click cancel button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>850a9ae1-33bf-4d48-852a-b184cd22ac56</testCaseGuid>
+</TestCaseEntity>

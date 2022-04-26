@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to put date on Contract Effective Date (To)</description>
+   <name>FCSCMS-1558-S6 (User should be able to put date on Contract Effective Date (To))</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd3b2718-0e6a-4789-bbad-cd1918a486aa</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to add/edit the client's Alias</description>
+   <name>FCSCMS-1114-S5 (User should be able to add edit the clients Alias)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d7be090-098b-4685-bce7-0a46bdb3a5f5</testCaseGuid>
+</TestCaseEntity>

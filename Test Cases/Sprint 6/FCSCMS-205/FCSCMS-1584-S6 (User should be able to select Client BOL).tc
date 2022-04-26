@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Client BOL</description>
+   <name>FCSCMS-1584-S6 (User should be able to select Client BOL)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7d8f3b4-d465-468a-93fb-9ca4c6060105</testCaseGuid>
+</TestCaseEntity>

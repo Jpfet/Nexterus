@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is able to select Yes</description>
+   <name>FCSCMS-2005-S7 (User is able to select Yes)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0dc73b1c-8dbe-4686-93f0-d9911cee4fe3</testCaseGuid>
+</TestCaseEntity>

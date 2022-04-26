@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Time zone</description>
+   <name>FCSCMS-1263-S5 (User should be able to select Time zone)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d24cff9f-cbf1-4f2a-821c-444ec466c692</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill Class field</description>
+   <name>FCSCMS-1775-S7 (User should be able to fill Class field)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ed07626-250a-446a-b584-6fc6fa277af5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the 'No' button to terminate the saving of the Newly added or edited Carrier information</description>
+   <name>FCSCMS-1173-S5 (Click No on the Notification Modal)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5793dcd0-8c69-40f2-8e90-e651762285f4</testCaseGuid>
+</TestCaseEntity>

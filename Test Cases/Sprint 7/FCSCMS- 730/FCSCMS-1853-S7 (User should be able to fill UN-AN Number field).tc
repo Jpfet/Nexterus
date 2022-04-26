@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill UN/AN Number field</description>
+   <name>FCSCMS-1853-S7 (User should be able to fill UN-AN Number field)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dec7a79e-98e9-493c-8420-17b6453f73de</testCaseGuid>
+</TestCaseEntity>

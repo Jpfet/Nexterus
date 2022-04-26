@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to save the changes made to the client's contacts</description>
+   <name>FCSCMS-1209-S5 (User should be able to save the changes made to the clients contacts)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb6810b3-a266-4bc0-9951-526a9f6998ea</testCaseGuid>
+</TestCaseEntity>

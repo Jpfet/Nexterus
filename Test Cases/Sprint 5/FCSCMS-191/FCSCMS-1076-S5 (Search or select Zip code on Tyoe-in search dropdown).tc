@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to search or select Zip code on Type-in search dropdown</description>
+   <name>FCSCMS-1076-S5 (Search or select Zip code on Tyoe-in search dropdown)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>412dbb03-66e5-486e-88ff-db4137643b1d</testCaseGuid>
+</TestCaseEntity>

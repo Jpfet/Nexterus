@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Product desciription dropdown button</description>
+   <name>FCSCMS-1793-S7 (User should be able to click Product desciription dropdown button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9664c39d-04e2-4a64-a282-2a33aee9e672</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill Quote Reference #</description>
+   <name>FCSCMS-1976-S7 (User should be able to fill Quote Reference)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3eae892-2901-4832-8811-e57df10fbd22</testCaseGuid>
+</TestCaseEntity>

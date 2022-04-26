@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to add/edit the client's name on the Client Name field</description>
+   <name>FCSCMS-1105-S5 (Edit the clients name on the Client Name field)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2361a2a9-5e40-492f-8954-b566b322f69a</testCaseGuid>
+</TestCaseEntity>

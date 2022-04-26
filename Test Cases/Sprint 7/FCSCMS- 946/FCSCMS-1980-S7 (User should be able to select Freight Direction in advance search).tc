@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Freight Direction in advance search</description>
+   <name>FCSCMS-1980-S7 (User should be able to select Freight Direction in advance search)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eea0b226-3c38-4e24-83a0-3c916badbfa6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Click and select the Address type</description>
+   <name>FCSCMS-1289-S5 (User should be able to Click and select the Address type)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62916a11-5696-495f-9726-aa0053820e58</testCaseGuid>
+</TestCaseEntity>

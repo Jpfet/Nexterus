@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view/edit the client's state on the State dropdown menu</description>
+   <name>FCSCMS-1201-S5 (Edit State Dropdown)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7705a5c-90fd-4318-b5e5-62cc24192f30</testCaseGuid>
+</TestCaseEntity>

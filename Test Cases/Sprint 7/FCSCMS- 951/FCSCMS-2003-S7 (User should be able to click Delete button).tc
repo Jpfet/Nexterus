@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Delete button</description>
+   <name>FCSCMS-2003-S7 (User should be able to click Delete button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adad1361-5d89-4518-9f56-cd189a5d16d2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Zip Code dropdown button</description>
+   <name>FCSCMS-1364-S5 (User should be able to click Zip Code dropdown button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2de35a92-02e4-4d5c-9b62-18cc40c2f77d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to see complete imformation of Qoutes and Shipment grid</description>
+   <name>FCSCMS-1949-S7 (User should be able to see complete imformation of Qoutes and Shipment grid)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1962f3a-84b6-4c04-a238-4f4eb36891a2</testCaseGuid>
+</TestCaseEntity>

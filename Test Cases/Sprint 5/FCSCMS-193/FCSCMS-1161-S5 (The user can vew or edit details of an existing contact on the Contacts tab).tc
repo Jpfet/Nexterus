@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can vew or edit details of an existing contact on the 'Contacts' tab</description>
+   <name>FCSCMS-1161-S5 (The user can vew or edit details of an existing contact on the Contacts tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b3a83df-4711-4cbc-9a46-24ed511f0d03</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User shoulbe be able to Search or Select Destination Zip Code</description>
+   <name>FCSCMS-1989-S7 (User shoulbe be able to Search or Select Destination Zip Code)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb02f179-458e-4c6e-afea-ae6d543c30af</testCaseGuid>
+</TestCaseEntity>

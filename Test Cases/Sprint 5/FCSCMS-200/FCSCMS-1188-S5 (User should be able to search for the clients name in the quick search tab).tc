@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click the Clients option from the left navigation panel</description>
+   <name>FCSCMS-1188-S5 (User should be able to search for the clients name in the quick search tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0485029f-ec5f-4a7f-b3ca-687d57f43b24</testCaseGuid>
+</TestCaseEntity>

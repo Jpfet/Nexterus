@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to search or select Country on Tyoe-in search dropdown</description>
+   <name>FCSCMS-1073-S5 (Select Country on Type-in search dropdown)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>685b4d4d-6cde-4f60-8a24-f679c1742620</testCaseGuid>
+</TestCaseEntity>

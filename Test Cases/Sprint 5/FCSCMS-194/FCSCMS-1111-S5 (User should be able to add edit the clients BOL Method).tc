@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to add/edit the client's BOL Method</description>
+   <name>FCSCMS-1111-S5 (User should be able to add edit the clients BOL Method)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f54899b-16bf-4e26-92e8-561e910ca907</testCaseGuid>
+</TestCaseEntity>

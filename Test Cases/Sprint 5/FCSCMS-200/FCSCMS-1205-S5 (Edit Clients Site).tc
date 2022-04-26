@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view/edit the client's sites on the Sites dropdown menu</description>
+   <name>FCSCMS-1205-S5 (Edit Clients Site)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>871eb910-dbb1-4678-914c-c5f40ecbdc1e</testCaseGuid>
+</TestCaseEntity>

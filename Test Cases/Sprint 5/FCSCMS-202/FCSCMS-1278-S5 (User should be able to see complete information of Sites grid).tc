@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to see complete information of Sites grid</description>
+   <name>FCSCMS-1278-S5 (User should be able to see complete information of Sites grid)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73d7094a-c880-4f91-94e4-c54bf66e0b5a</testCaseGuid>
+</TestCaseEntity>

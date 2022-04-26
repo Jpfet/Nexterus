@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to user pagination widget arrow</description>
+   <name>FCSCMS-1952-S7 (User should be able to user pagination widget arrow)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b47d32ac-03c2-43f1-be87-fc43c88f95bc</testCaseGuid>
+</TestCaseEntity>

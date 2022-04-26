@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill File name field</description>
+   <name>FCSCMS-1955-S7 (User should be able to fill File name field)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d39a19f9-003c-4ffa-94e7-b124d9eeec15</testCaseGuid>
+</TestCaseEntity>

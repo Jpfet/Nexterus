@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Broker</description>
+   <name>FCSCMS-1585-S6 (User should be able to select Broker)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a25cd0b-4686-4903-a1da-54c614cc3b0e</testCaseGuid>
+</TestCaseEntity>

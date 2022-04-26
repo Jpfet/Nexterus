@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill and input Contact email</description>
+   <name>FCSCMS-1264-S5 (User should be able to fill and input Contact email)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b45c62c4-5c44-4323-bee0-0ce43774c60e</testCaseGuid>
+</TestCaseEntity>

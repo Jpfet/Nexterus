@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should log in using assign log in credential</description>
+   <name>FCSCMS-290</name>
+   <tag>290</tag>
+   <comment></comment>
+   <testCaseGuid>686083ee-e775-4952-af3d-4830fb593447</testCaseGuid>
+</TestCaseEntity>

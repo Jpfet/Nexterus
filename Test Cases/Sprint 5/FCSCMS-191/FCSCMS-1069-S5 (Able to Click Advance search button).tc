@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Click Advance search button</description>
+   <name>FCSCMS-1069-S5 (Able to Click Advance search button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43100606-13cc-4525-8bb1-74dc21d013d0</testCaseGuid>
+</TestCaseEntity>

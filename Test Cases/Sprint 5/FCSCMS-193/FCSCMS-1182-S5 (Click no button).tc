@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the 'No' button to terminate the saving of the Newly added or edited Product information</description>
+   <name>FCSCMS-1182-S5 (Click no button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1663b938-b835-46f0-a0dc-5f1cfd655691</testCaseGuid>
+</TestCaseEntity>

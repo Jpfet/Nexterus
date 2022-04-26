@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Table Header_User Status</name>
+   <tag></tag>
+   <elementGuidId>7fd0f4eb-4d3f-45a0-acb1-bbeb56a7430b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'User Status' or . = 'User Status')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='UserGrid']/thead/tr/th[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>c215d8c8-16c2-48f1-a382-5220849cfbfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sortable</value>
+      <webElementGuid>4c006334-7e63-4f82-ab21-9297b60e7a62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User Status</value>
+      <webElementGuid>d32e18f5-56b3-43e7-bc9f-1ad75884c349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UserGrid&quot;)/thead[1]/tr[@class=&quot;table-header&quot;]/th[@class=&quot;sortable&quot;]</value>
+      <webElementGuid>5598f029-088f-4534-8a3a-79168fe64e8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='UserGrid']/thead/tr/th[6]</value>
+      <webElementGuid>715c6e8d-4866-4fd9-b7c8-7e111fb7ff5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Group'])[2]/following::th[1]</value>
+      <webElementGuid>251ffa93-c557-47b1-9210-1c06a7696696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privilege Group'])[2]/following::th[2]</value>
+      <webElementGuid>25b9372b-63ff-42ba-9d6a-ed9e8bf7d93a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User AccessStatus'])[1]/preceding::th[1]</value>
+      <webElementGuid>f6ba7aee-cb91-4c72-879e-c5a13d3ec156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Requires PasswordChange'])[1]/preceding::th[2]</value>
+      <webElementGuid>c63857e7-d86e-4f6f-9271-7a8c5bfdd1e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[6]</value>
+      <webElementGuid>7c1ca51e-1369-4ba5-9bed-7e43615fb867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'User Status' or . = 'User Status')]</value>
+      <webElementGuid>90bb75cd-54f6-4509-b5d4-e9fd04d733aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

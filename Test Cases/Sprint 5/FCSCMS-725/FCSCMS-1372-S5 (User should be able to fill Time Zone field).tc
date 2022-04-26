@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill Time Zone field</description>
+   <name>FCSCMS-1372-S5 (User should be able to fill Time Zone field)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd9b7cec-f1d3-4bea-b550-03b36ae7500f</testCaseGuid>
+</TestCaseEntity>

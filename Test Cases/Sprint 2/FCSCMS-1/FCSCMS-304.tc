@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cancel button is able to bring back the user in the Create Privillege Group page</description>
+   <name>FCSCMS-304</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12ad8b0b-2870-4877-a68e-d6266332c59a</testCaseGuid>
+</TestCaseEntity>

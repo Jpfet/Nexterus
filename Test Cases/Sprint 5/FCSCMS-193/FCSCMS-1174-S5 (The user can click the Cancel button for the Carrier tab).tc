@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the 'Cancel' button for the 'Carrier' tab</description>
+   <name>FCSCMS-1174-S5 (The user can click the Cancel button for the Carrier tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0c96f14-87f3-44f9-bf26-3e3a84883005</testCaseGuid>
+</TestCaseEntity>

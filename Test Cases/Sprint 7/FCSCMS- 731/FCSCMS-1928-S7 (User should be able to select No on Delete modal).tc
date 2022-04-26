@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select No on Delete modal</description>
+   <name>FCSCMS-1928-S7 (User should be able to select No on Delete modal)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>932b573c-2a1f-4595-9bae-44fa90e18bed</testCaseGuid>
+</TestCaseEntity>

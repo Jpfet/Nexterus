@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User shoulbe be able to Search or Select Origin City</description>
+   <name>FCSCMS-1985-S7 (User shoulbe be able to Search or Select Origin City)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb660ff9-f873-4535-8bae-3f6ee885e3b5</testCaseGuid>
+</TestCaseEntity>

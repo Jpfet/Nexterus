@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Quotes option from the left navigation panel</description>
+   <name>FSCMS - 2546- S9 (User should be able to click Shipment option from the left navigation panel)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eed9fdb3-4f0e-40f6-bf34-4f5194302d3c</testCaseGuid>
+</TestCaseEntity>

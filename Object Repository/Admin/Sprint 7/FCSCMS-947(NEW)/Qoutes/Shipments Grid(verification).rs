@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Shipments Grid(verification)</name>
+   <tag></tag>
+   <elementGuidId>503c604f-0511-4b37-a0d1-ff973d860040</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div[2]/div[3]/div[2]/table</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download1 to 10 of 33 items1234Go to pageSubmitActionQuotes Reference #Quote DateQuotes StatusSite NameFreight DirectionShipment TypeShip DateShipper NameConsigneeCarrier SCAC CodeCarrier NameQuote AmountParcel AccountOrigin AddressOrigin CityOrigin StateOrigin ZipDestination AddressDestination CityDestination StateDestinationZipCreated OnLast Updated OnLast Updated By63784772640154702704/05/2022Shipment Scheduled for Pickupsecondary siteInboundLTL04/05/2022Demo userSecondary AddressALLVALLIED VAN LINES0Demo street 1Bella VistaArkansas7271470 Commerce Center, Greenville, SCAlabasterAlabama3500704/05/2022, 4:24 PM04/06/2022, 3:36 PMAdmin User63784654310260320904/04/2022Shipment Scheduled for Pickupprimary siteInboundLTL04/03/2022test aprilPrimary addressARFWAMERICAN FREIGHTWAYS0test aprilAlexanderAlabama350103058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500704/04/2022, 7:31 AM04/04/2022, 7:33 AMAdmin User63784651771233441804/04/2022Shipment Scheduled for Pickupprimary siteInboundParcel04/03/2022Smoker HousePrimary addressFDEGFEDEX GROUND01346677-FedExTest line 1, Test line 2ArkadelphiaArkansas719233058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500704/04/2022, 6:49 AM63784394347517606004/01/2022Shipment Scheduled for Pickupprimary siteInboundLTL03/31/2022DemoPrimary addressARFWAMERICAN FREIGHTWAYS0DemoArkadelphiaArkansas719233058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500704/01/2022, 7:19 AMAdmin User63781860606431199803/02/2022Shipment Scheduled for PickupRichard HouseInboundLTL03/26/2022yRichard St.FDEGFEDEX GROUND0y, yAlabasterAlabama35007Phil123AlabasterAlabama3500703/02/2022, 11:30 PM03/11/2022, 6:31 PMAdmin User63781845163393813303/02/2022New_Pendingprimary siteInboundLTL03/02/2022rhdhPrimary addressARFWAMERICAN FREIGHTWAYS0dhdfhHomerAlaska996033058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500703/02/2022, 7:12 PM03/02/2022, 7:20 PMAdmin User63781843628619835103/02/2022Shipment Scheduled for Pickupprimary siteInboundLTL03/10/2022NNUNANG Primary addressARFWAMERICAN FREIGHTWAYS0GUNAAgoura HillsCalifornia913013058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500703/02/2022, 6:47 PMAdmin User63781842024248519803/02/2022New_Pendingprimary siteDropLTL03/02/2022CalabangamagaraoARFWAMERICAN FREIGHTWAYS0san VicenteAdelantoCalifornia92301san lorenzoAnchorageAlaska9950103/02/2022, 6:20 PM03/02/2022, 6:30 PMAdmin User63781841162652854603/02/2022Shipment Scheduled for Pickupprimary siteInboundLTL03/25/2022TampaPermanentARFWAMERICAN FREIGHTWAYS0catiganAlabasterAlabama350073058 Patterson Fork RoadAlabasterAlabama3500703/02/2022, 6:06 PMAdmin User63781840024845148203/02/2022Shipment Scheduled for Pickupprimary siteInboundLTL03/02/2022calauagPrimary addressALLVALLIED VAN LINES0clupaAnchorageAlaska995013058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500703/02/2022, 5:47 PMAdmin User</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b3-List&quot;)/div[3]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b3-List']/div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quotes List'])[1]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Quote'])[1]/following::div[10]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[3]/div/div[2]/div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Download1 to 10 of 33 items1234Go to pageSubmitActionQuotes Reference #Quote DateQuotes StatusSite NameFreight DirectionShipment TypeShip DateShipper NameConsigneeCarrier SCAC CodeCarrier NameQuote AmountParcel AccountOrigin AddressOrigin CityOrigin StateOrigin ZipDestination AddressDestination CityDestination StateDestinationZipCreated OnLast Updated OnLast Updated By63784772640154702704/05/2022Shipment Scheduled for Pickupsecondary siteInboundLTL04/05/2022Demo userSecondary AddressALLVALLIED VAN LINES0Demo street 1Bella VistaArkansas7271470 Commerce Center, Greenville, SCAlabasterAlabama3500704/05/2022, 4:24 PM04/06/2022, 3:36 PMAdmin User63784654310260320904/04/2022Shipment Scheduled for Pickupprimary siteInboundLTL04/03/2022test aprilPrimary addressARFWAMERICAN FREIGHTWAYS0test aprilAlexanderAlabama350103058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500704/04/2022, 7:31 AM04/04/2022, 7:33 AMAdmin User63784651771233441804/04/2022Shipment Scheduled for Pickupprimary siteInboundParcel04/03/2022Smoker HousePrimary addressFDEGFEDEX GROUND01346677-FedExTest line 1, Test line 2ArkadelphiaArkansas719233058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500704/04/2022, 6:49 AM63784394347517606004/01/2022Shipment Scheduled for Pickupprimary siteInboundLTL03/31/2022DemoPrimary addressARFWAMERICAN FREIGHTWAYS0DemoArkadelphiaArkansas719233058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500704/01/2022, 7:19 AMAdmin User63781860606431199803/02/2022Shipment Scheduled for PickupRichard HouseInboundLTL03/26/2022yRichard St.FDEGFEDEX GROUND0y, yAlabasterAlabama35007Phil123AlabasterAlabama3500703/02/2022, 11:30 PM03/11/2022, 6:31 PMAdmin User63781845163393813303/02/2022New_Pendingprimary siteInboundLTL03/02/2022rhdhPrimary addressARFWAMERICAN FREIGHTWAYS0dhdfhHomerAlaska996033058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500703/02/2022, 7:12 PM03/02/2022, 7:20 PMAdmin User63781843628619835103/02/2022Shipment Scheduled for Pickupprimary siteInboundLTL03/10/2022NNUNANG Primary addressARFWAMERICAN FREIGHTWAYS0GUNAAgoura HillsCalifornia913013058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500703/02/2022, 6:47 PMAdmin User63781842024248519803/02/2022New_Pendingprimary siteDropLTL03/02/2022CalabangamagaraoARFWAMERICAN FREIGHTWAYS0san VicenteAdelantoCalifornia92301san lorenzoAnchorageAlaska9950103/02/2022, 6:20 PM03/02/2022, 6:30 PMAdmin User63781841162652854603/02/2022Shipment Scheduled for Pickupprimary siteInboundLTL03/25/2022TampaPermanentARFWAMERICAN FREIGHTWAYS0catiganAlabasterAlabama350073058 Patterson Fork RoadAlabasterAlabama3500703/02/2022, 6:06 PMAdmin User63781840024845148203/02/2022Shipment Scheduled for Pickupprimary siteInboundLTL03/02/2022calauagPrimary addressALLVALLIED VAN LINES0clupaAnchorageAlaska995013058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500703/02/2022, 5:47 PMAdmin User' or . = 'Download1 to 10 of 33 items1234Go to pageSubmitActionQuotes Reference #Quote DateQuotes StatusSite NameFreight DirectionShipment TypeShip DateShipper NameConsigneeCarrier SCAC CodeCarrier NameQuote AmountParcel AccountOrigin AddressOrigin CityOrigin StateOrigin ZipDestination AddressDestination CityDestination StateDestinationZipCreated OnLast Updated OnLast Updated By63784772640154702704/05/2022Shipment Scheduled for Pickupsecondary siteInboundLTL04/05/2022Demo userSecondary AddressALLVALLIED VAN LINES0Demo street 1Bella VistaArkansas7271470 Commerce Center, Greenville, SCAlabasterAlabama3500704/05/2022, 4:24 PM04/06/2022, 3:36 PMAdmin User63784654310260320904/04/2022Shipment Scheduled for Pickupprimary siteInboundLTL04/03/2022test aprilPrimary addressARFWAMERICAN FREIGHTWAYS0test aprilAlexanderAlabama350103058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500704/04/2022, 7:31 AM04/04/2022, 7:33 AMAdmin User63784651771233441804/04/2022Shipment Scheduled for Pickupprimary siteInboundParcel04/03/2022Smoker HousePrimary addressFDEGFEDEX GROUND01346677-FedExTest line 1, Test line 2ArkadelphiaArkansas719233058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500704/04/2022, 6:49 AM63784394347517606004/01/2022Shipment Scheduled for Pickupprimary siteInboundLTL03/31/2022DemoPrimary addressARFWAMERICAN FREIGHTWAYS0DemoArkadelphiaArkansas719233058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500704/01/2022, 7:19 AMAdmin User63781860606431199803/02/2022Shipment Scheduled for PickupRichard HouseInboundLTL03/26/2022yRichard St.FDEGFEDEX GROUND0y, yAlabasterAlabama35007Phil123AlabasterAlabama3500703/02/2022, 11:30 PM03/11/2022, 6:31 PMAdmin User63781845163393813303/02/2022New_Pendingprimary siteInboundLTL03/02/2022rhdhPrimary addressARFWAMERICAN FREIGHTWAYS0dhdfhHomerAlaska996033058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500703/02/2022, 7:12 PM03/02/2022, 7:20 PMAdmin User63781843628619835103/02/2022Shipment Scheduled for Pickupprimary siteInboundLTL03/10/2022NNUNANG Primary addressARFWAMERICAN FREIGHTWAYS0GUNAAgoura HillsCalifornia913013058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500703/02/2022, 6:47 PMAdmin User63781842024248519803/02/2022New_Pendingprimary siteDropLTL03/02/2022CalabangamagaraoARFWAMERICAN FREIGHTWAYS0san VicenteAdelantoCalifornia92301san lorenzoAnchorageAlaska9950103/02/2022, 6:20 PM03/02/2022, 6:30 PMAdmin User63781841162652854603/02/2022Shipment Scheduled for Pickupprimary siteInboundLTL03/25/2022TampaPermanentARFWAMERICAN FREIGHTWAYS0catiganAlabasterAlabama350073058 Patterson Fork RoadAlabasterAlabama3500703/02/2022, 6:06 PMAdmin User63781840024845148203/02/2022Shipment Scheduled for Pickupprimary siteInboundLTL03/02/2022calauagPrimary addressALLVALLIED VAN LINES0clupaAnchorageAlaska995013058 Patterson Fork Road, Burr Ridge,IllonoisAlabasterAlabama3500703/02/2022, 5:47 PMAdmin User')]</value>
+   </webElementXpaths>
+</WebElementEntity>

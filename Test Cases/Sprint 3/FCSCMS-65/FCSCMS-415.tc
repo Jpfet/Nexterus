@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to create new user account</description>
+   <name>FCSCMS-415</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c99a0c0b-6cb4-4ce4-8630-bab988e2ce43</testCaseGuid>
+</TestCaseEntity>

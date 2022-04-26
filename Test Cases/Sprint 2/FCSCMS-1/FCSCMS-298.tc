@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should pick up date from Effective date calendar option</description>
+   <name>FCSCMS-298</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b5e89f6-e3f4-4f29-8b89-59eb81336ef2</testCaseGuid>
+</TestCaseEntity>

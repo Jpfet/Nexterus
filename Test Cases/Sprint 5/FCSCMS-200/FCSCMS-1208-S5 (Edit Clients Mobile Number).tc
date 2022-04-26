@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view/edit the client's mobile number on the Mobile field</description>
+   <name>FCSCMS-1208-S5 (Edit Clients Mobile Number)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3605c510-1c0f-4874-a523-e22c69cd020b</testCaseGuid>
+</TestCaseEntity>

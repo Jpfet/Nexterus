@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Select Cancel on export process</description>
+   <name>FCSCMS-1811-S7 (User should be able to Select Cancel on export process)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9072113-c9f5-4b9c-9ff7-8c7292baff1e</testCaseGuid>
+</TestCaseEntity>

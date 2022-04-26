@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-403,Chrome 100.0.4896.127,The user has the option to set privilege status to activate,,2022-04-25 13:37:28,2022-04-25 13:39:47,2m - 19.537s,FAILED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-25 13:37:28,2022-04-25 13:37:42,13.714s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-25 13:37:29,2022-04-25 13:37:34,4.662s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-25 13:37:34,2022-04-25 13:37:36,2.326s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-25 13:37:36,2022-04-25 13:37:36,0.220s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-25 13:37:36,2022-04-25 13:37:39,2.074s,PASSED
+"setText(findTestObject(""Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-25 13:37:39,2022-04-25 13:37:40,1.812s,PASSED
+"setText(findTestObject(""Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-25 13:37:40,2022-04-25 13:37:41,1.004s,PASSED
+"click(findTestObject(""Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 13:37:41,2022-04-25 13:37:42,0.659s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-6/FCSCMS-403,Chrome 100.0.4896.127,The user has the option to set privilege status to activate,,2022-04-25 13:37:42,2022-04-25 13:39:47,2m - 5.142s,FAILED
+"click(findTestObject(""Sprint 3/FCSCMS-403/FCSCMS-403/a_Privilege Group Management""))",Chrome 100.0.4896.127,,,2022-04-25 13:37:43,2022-04-25 13:38:16,33.246s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-403/FCSCMS-403/Activate button(fet automation)""))",Chrome 100.0.4896.127,,,2022-04-25 13:38:16,2022-04-25 13:38:47,30.343s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-403/FCSCMS-403/Activate_Yes button""))",Chrome 100.0.4896.127,,,2022-04-25 13:38:47,2022-04-25 13:39:47,1m - 0.552s,FAILED

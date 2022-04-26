@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the Save button for the 'contact' tab</description>
+   <name>FCSCMS-1162-S5 (The user can click the Save button for the contact tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9809056-8b71-4069-90b7-fa04a23fe282</testCaseGuid>
+</TestCaseEntity>

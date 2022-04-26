@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Page number search button</name>
+   <tag></tag>
+   <elementGuidId>ec37bba4-d31b-4ee6-986c-1ca188013492</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b18-Icon']/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.primary-color.fa.fa-caret-right.fa-2x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>dd3e0869-ddb7-4159-993e-0a7c2f4e176e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon primary-color fa fa-caret-right fa-2x</value>
+      <webElementGuid>7d8ca512-9c3e-4807-a78a-7e16dc2ed091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b18-Icon&quot;)/a[1]/i[@class=&quot;icon primary-color fa fa-caret-right fa-2x&quot;]</value>
+      <webElementGuid>fbb21728-3b68-482f-8274-7499d93f06ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b18-Icon']/a/i</value>
+      <webElementGuid>551dc4b1-477b-417e-88ce-6d7f41c9ab8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/a/i</value>
+      <webElementGuid>5ae4bb2e-34b6-49c5-8f9a-0aa562f4ff05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin user is able to click Privilege Group dropdown button</description>
+   <name>FCSCMS-931-S6 (Admin user is able to click Privilege Group dropdown button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4afc9977-9ed4-4cfe-adb6-c0b41a4effa3</testCaseGuid>
+</TestCaseEntity>

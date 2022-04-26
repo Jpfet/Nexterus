@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Select No on Delete option</description>
+   <name>FCSCMS-1865-S7 (User should be able to Select No on Delete option)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01c154ad-cf51-4fc9-b353-5c2473ef0352</testCaseGuid>
+</TestCaseEntity>

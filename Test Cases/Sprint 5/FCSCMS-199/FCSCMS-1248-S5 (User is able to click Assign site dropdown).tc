@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is able to click Assign site dropdown</description>
+   <name>FCSCMS-1248-S5 (User is able to click Assign site dropdown)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76aaca67-8e14-47af-a3d2-35c6fb4242cb</testCaseGuid>
+</TestCaseEntity>

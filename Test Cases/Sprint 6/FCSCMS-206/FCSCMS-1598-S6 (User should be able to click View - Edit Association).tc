@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click View-Edit Association</description>
+   <name>FCSCMS-1598-S6 (User should be able to click View - Edit Association)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78b0fc0f-41db-49f9-9e71-9cf0dcec7679</testCaseGuid>
+</TestCaseEntity>

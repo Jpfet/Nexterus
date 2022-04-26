@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be ablt to reselect Product</description>
+   <name>FCSCMS-1794-S7 (User should be ablt to reselect Product)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56317e2b-012f-4b9a-8923-d487e77c7458</testCaseGuid>
+</TestCaseEntity>

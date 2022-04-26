@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can vew or edit details of an existing Products on the 'Products' tab</description>
+   <name>FCSCMS-1391-S5 (Edit Products)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7eed1ed3-991a-4ecd-82b3-35d8ea7a8b0d</testCaseGuid>
+</TestCaseEntity>

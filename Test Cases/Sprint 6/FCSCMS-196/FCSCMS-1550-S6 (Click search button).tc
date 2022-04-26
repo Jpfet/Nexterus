@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to search Clients on Common Search bar</description>
+   <name>FCSCMS-1550-S6 (Click search button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02f59694-e46f-4380-8cc7-32d797f47be5</testCaseGuid>
+</TestCaseEntity>

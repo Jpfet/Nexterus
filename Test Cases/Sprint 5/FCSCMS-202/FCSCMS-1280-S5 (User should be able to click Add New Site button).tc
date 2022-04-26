@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Add New Site button</description>
+   <name>FCSCMS-1280-S5 (User should be able to click Add New Site button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21db9099-70cf-44f9-b654-8190cac531a6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to search or select Class on the Type-in Search dropdown</description>
+   <name>FCSCMS-1635-S6 (Select Class Type)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed4c8ad9-5d7c-4506-ba7c-4162e17f90b7</testCaseGuid>
+</TestCaseEntity>

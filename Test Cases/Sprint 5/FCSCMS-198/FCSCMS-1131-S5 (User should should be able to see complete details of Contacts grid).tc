@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should should be able to see complete details of Contacts grid</description>
+   <name>FCSCMS-1131-S5 (User should should be able to see complete details of Contacts grid)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f75cbe60-1a15-4dc7-b121-c518a2cddd67</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to search or select Product Code on the Type-in Search dropdown</description>
+   <name>FCSCMS-1634-S6 (Select Product Code)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e73a720-5148-4e63-8d5b-2e299b1613fa</testCaseGuid>
+</TestCaseEntity>

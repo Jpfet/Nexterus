@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Add New Contact button</description>
+   <name>FCSCMS-1376-S5 (User should be able to click Add New Contact button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9b66131-d30a-4cba-86e1-28027b4126c8</testCaseGuid>
+</TestCaseEntity>

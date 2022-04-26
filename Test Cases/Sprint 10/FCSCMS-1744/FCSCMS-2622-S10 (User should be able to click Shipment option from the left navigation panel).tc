@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Shipment option from the left navigation panel</description>
+   <name>FCSCMS-2622-S10 (User should be able to click Shipment option from the left navigation panel)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d42c53b1-7578-4096-8f1d-b8f9d9c4466b</testCaseGuid>
+</TestCaseEntity>

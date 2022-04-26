@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to see the pagination widget</description>
+   <name>FCSCMS-1132-S5 (User should be able to see the pagination widget)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2bb8439f-f6dd-47a9-9596-48eed6f0f687</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select No option on Cancel process</description>
+   <name>FCSCMS-1798-S7 (User should be able to select No option on Cancel process)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d549fb49-c98d-470b-b187-f08630d342a3</testCaseGuid>
+</TestCaseEntity>

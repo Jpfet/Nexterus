@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be alble to select UN/AN number</description>
+   <name>FCSCMS-1840-S7 (User should be alble to select UN-AN number)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>861cca83-35b8-41f9-8ff5-d3ba9951e5d0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click &quot;x&quot; button on the View/Edit product modal</description>
+   <name>FCSCMS-1945-S7 (User should be able to click x button on the View-Edit product modal)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd66e33f-8dcb-4fc4-a1ec-fdceace7e3d0</testCaseGuid>
+</TestCaseEntity>

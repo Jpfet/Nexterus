@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-411-a,Chrome 100.0.4896.127,,,2022-04-25 18:13:36,2022-04-25 18:16:59,3m - 22.826s,PASSED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-25 18:13:37,2022-04-25 18:13:50,13.611s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-25 18:13:38,2022-04-25 18:13:42,4.426s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-25 18:13:42,2022-04-25 18:13:45,2.421s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-25 18:13:45,2022-04-25 18:13:45,0.254s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-25 18:13:45,2022-04-25 18:13:47,2.141s,PASSED
+"setText(findTestObject(""Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-25 18:13:47,2022-04-25 18:13:49,1.735s,PASSED
+"setText(findTestObject(""Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-25 18:13:49,2022-04-25 18:13:50,1.099s,PASSED
+"click(findTestObject(""Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:13:50,2022-04-25 18:13:50,0.638s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-59/FCSCMS-411a,Chrome 100.0.4896.127,,,2022-04-25 18:13:50,2022-04-25 18:16:59,3m - 8.592s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-25 18:13:52,2022-04-25 18:14:28,35.973s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_User Group""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:14:28,2022-04-25 18:14:58,30.324s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_User Login Name""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:14:58,2022-04-25 18:15:28,30.282s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_User Name""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:15:28,2022-04-25 18:15:58,30.208s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_User Status""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:15:58,2022-04-25 18:16:29,30.284s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Zip Code""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 18:16:29,2022-04-25 18:16:59,30.260s,PASSED

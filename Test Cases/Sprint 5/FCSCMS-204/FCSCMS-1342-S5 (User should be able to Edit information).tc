@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Edit information</description>
+   <name>FCSCMS-1342-S5 (User should be able to Edit information)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>433264af-b017-44e1-a8cd-d48cdc077c2d</testCaseGuid>
+</TestCaseEntity>

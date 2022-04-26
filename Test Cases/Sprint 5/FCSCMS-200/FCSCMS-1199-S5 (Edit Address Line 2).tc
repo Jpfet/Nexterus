@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view/edit the client's Address Line1 on the Address LIne 2 field</description>
+   <name>FCSCMS-1199-S5 (Edit Address Line 2)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2370705-234c-4e44-a875-54bfdbdc1888</testCaseGuid>
+</TestCaseEntity>

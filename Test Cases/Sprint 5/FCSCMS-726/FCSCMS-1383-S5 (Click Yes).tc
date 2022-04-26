@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the 'Yes' to confirm saving of all the Details entered or edited on the 'Basic Information' tab</description>
+   <name>FCSCMS-1383-S5 (Click Yes)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0924dbc0-7666-46ae-99ee-1629b9b5109f</testCaseGuid>
+</TestCaseEntity>

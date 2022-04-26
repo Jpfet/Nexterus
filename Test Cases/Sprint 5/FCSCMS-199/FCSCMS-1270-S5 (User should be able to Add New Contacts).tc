@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Add New Contacts</description>
+   <name>FCSCMS-1270-S5 (User should be able to Add New Contacts)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d884901a-d627-4407-ba90-29745fce6359</testCaseGuid>
+</TestCaseEntity>

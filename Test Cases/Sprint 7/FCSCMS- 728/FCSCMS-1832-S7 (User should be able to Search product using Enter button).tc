@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Search product using Enter button</description>
+   <name>FCSCMS-1832-S7 (User should be able to Search product using Enter button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e455f7de-342c-4bcb-af2c-5db66c11b89a</testCaseGuid>
+</TestCaseEntity>

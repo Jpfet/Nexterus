@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Search/Select NMFC in Search Dropdown</description>
+   <name>FCSCMS-1836-S7 (Select NMFC)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c6242b1-b012-4ca9-ae35-aa923aeebb6d</testCaseGuid>
+</TestCaseEntity>

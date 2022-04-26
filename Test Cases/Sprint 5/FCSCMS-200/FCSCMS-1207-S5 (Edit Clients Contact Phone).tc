@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view/edit the client's contact phone on the Contact Phone field</description>
+   <name>FCSCMS-1207-S5 (Edit Clients Contact Phone)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd75313b-9602-4090-9527-f04e30061b99</testCaseGuid>
+</TestCaseEntity>

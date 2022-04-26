@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should get error notification upon clicking Save button when mandatory fields are empty</description>
+   <name>FCSCMS-1933-S7 (User should get error notification upon clicking Save button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da56f640-dd69-49e0-9ee2-f25b55a8e204</testCaseGuid>
+</TestCaseEntity>

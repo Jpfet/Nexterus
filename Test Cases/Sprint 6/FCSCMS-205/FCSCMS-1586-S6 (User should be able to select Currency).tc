@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Currency</description>
+   <name>FCSCMS-1586-S6 (User should be able to select Currency)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd9f1d1f-bd5d-4e9a-85bd-ae72751d50f6</testCaseGuid>
+</TestCaseEntity>

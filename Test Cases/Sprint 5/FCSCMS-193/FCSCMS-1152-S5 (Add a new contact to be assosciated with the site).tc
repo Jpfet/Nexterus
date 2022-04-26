@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can add a new contact to be assosciated with the site</description>
+   <name>FCSCMS-1152-S5 (Add a new contact to be assosciated with the site)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ed4b5f7-6dc0-46bc-ac88-d182777df555</testCaseGuid>
+</TestCaseEntity>

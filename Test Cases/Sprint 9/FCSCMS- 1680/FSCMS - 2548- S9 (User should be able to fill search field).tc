@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill search field</description>
+   <name>FSCMS - 2548- S9 (User should be able to fill search field)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd2795c8-77d7-4bc1-9267-798daaf3adae</testCaseGuid>
+</TestCaseEntity>

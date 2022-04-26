@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click the Clients option from the left navigation panel</description>
+   <name>FCSCMS-1626-S6 (User should be able to click the Clients option from the left navigation panel)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38b38ee2-b32f-482d-9891-0505672c317e</testCaseGuid>
+</TestCaseEntity>

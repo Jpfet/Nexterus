@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can add a new site</description>
+   <name>FCSCMS-1149-S5 (The user can add a new site)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b535b12b-1cd4-44b0-a8c2-cfa4b9f9e4d4</testCaseGuid>
+</TestCaseEntity>

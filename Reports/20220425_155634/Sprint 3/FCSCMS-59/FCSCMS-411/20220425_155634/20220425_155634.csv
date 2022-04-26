@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-411,Chrome 100.0.4896.127,User should be able to view User information and action in User grid view,,2022-04-25 15:56:39,2022-04-25 15:58:30,1m - 50.791s,PASSED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-25 15:56:40,2022-04-25 15:56:54,13.985s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-25 15:56:41,2022-04-25 15:56:46,4.760s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-25 15:56:46,2022-04-25 15:56:48,2.376s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-25 15:56:48,2022-04-25 15:56:48,0.235s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-25 15:56:48,2022-04-25 15:56:50,2.171s,PASSED
+"setText(findTestObject(""Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-25 15:56:50,2022-04-25 15:56:52,1.912s,PASSED
+"setText(findTestObject(""Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-25 15:56:52,2022-04-25 15:56:53,1.000s,PASSED
+"click(findTestObject(""Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 15:56:53,2022-04-25 15:56:54,0.613s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-59/FCSCMS-411,Chrome 100.0.4896.127,User should be able to view User information and action in User grid view,,2022-04-25 15:56:54,2022-04-25 15:58:30,1m - 36.168s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-25 15:56:55,2022-04-25 15:57:30,34.757s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Action""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 15:57:30,2022-04-25 15:58:00,30.296s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-411/Table Header_Address""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-25 15:58:00,2022-04-25 15:58:30,30.247s,PASSED

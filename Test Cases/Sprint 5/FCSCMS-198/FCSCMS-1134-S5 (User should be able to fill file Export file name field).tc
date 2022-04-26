@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill file Export file name field</description>
+   <name>FCSCMS-1134-S5 (User should be able to fill file Export file name field)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d788cc5a-bc5e-4369-8cae-b34e2a82df9c</testCaseGuid>
+</TestCaseEntity>

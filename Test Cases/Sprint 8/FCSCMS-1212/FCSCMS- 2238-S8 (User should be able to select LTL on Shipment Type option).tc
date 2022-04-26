@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select LTL on Shipment Type option</description>
+   <name>FCSCMS- 2238-S8 (User should be able to select LTL on Shipment Type option)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2da2aef-8df9-4aab-b185-f5d6e27815e3</testCaseGuid>
+</TestCaseEntity>

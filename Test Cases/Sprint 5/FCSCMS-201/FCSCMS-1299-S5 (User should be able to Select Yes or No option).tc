@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Select Yes or No option</description>
+   <name>FCSCMS-1299-S5 (User should be able to Select Yes or No option)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8d87ebf-4afc-40a4-bc0e-e678af34176a</testCaseGuid>
+</TestCaseEntity>

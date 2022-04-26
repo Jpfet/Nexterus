@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is able to hide or show the pasword</description>
+   <name>FCSCMS-220</name>
+   <tag>220</tag>
+   <comment></comment>
+   <testCaseGuid>d47fbd8d-3eae-4bff-a2ba-b0fdab357b56</testCaseGuid>
+</TestCaseEntity>

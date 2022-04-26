@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Document text button</description>
+   <name>FSCMS - 2554- S9 (User should be able to click Document text button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2603017-f9d0-428a-bae3-b9c8b07f4a44</testCaseGuid>
+</TestCaseEntity>

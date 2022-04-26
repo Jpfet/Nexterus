@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User shoulbe be able to Search or Select Origin State</description>
+   <name>FCSCMS-1986-S7 (User shoulbe be able to Search or Select Origin State)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bf79b55-4cba-406b-a7bb-b0a430ecc12c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to clicks Product Catalog option from the left navigation panel</description>
+   <name>FCSCMS-1938-S7 (User should be able to clicks Product Catalog)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>69f0d3c4-d49b-4656-beb8-4ad7aaa3912b</testCaseGuid>
+</TestCaseEntity>

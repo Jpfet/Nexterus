@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the 'No' button to terminate the saving of the Newly added or edited Sites information</description>
+   <name>FCSCMS-1155-S5 (Click the No button to terminate the saving of the Newly added or edited Sites information)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5835ab3-10ff-419e-b1b6-453beaa9deae</testCaseGuid>
+</TestCaseEntity>

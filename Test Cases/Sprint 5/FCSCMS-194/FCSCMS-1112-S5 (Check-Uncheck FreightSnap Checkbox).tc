@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to add/edit the client's FreightSnap on the FreightSnap checkbox</description>
+   <name>FCSCMS-1112-S5 (Check-Uncheck FreightSnap Checkbox)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3ef98c6-7a10-42ce-881f-02cacd93be31</testCaseGuid>
+</TestCaseEntity>

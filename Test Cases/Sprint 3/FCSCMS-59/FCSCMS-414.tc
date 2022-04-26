@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to download the Results grid using Export Icons (xls, pdf, and doc)</description>
+   <name>FCSCMS-414</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>866c4482-4cf2-4544-a8c2-3abf00b7d947</testCaseGuid>
+</TestCaseEntity>

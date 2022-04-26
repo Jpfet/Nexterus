@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to search clients using Sales Rep.</description>
+   <name>FCSCMS-1080-S5 (Search clients using Sales Rep)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6f70bfa-87cf-41d0-b5e8-edc90e2617cd</testCaseGuid>
+</TestCaseEntity>

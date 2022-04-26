@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill and input Mobile</description>
+   <name>FCSCMS-1266-S5 (User should be able to fill and input Mobile)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dedd5201-5059-49b9-a67c-255ce40a693d</testCaseGuid>
+</TestCaseEntity>

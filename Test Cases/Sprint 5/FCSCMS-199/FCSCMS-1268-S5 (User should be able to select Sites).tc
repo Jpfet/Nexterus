@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Sites</description>
+   <name>FCSCMS-1268-S5 (User should be able to select Sites)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c669ca67-d49b-410a-83b5-89e90a807cdd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Quote Date (From)</description>
+   <name>FCSCMS-1991-S7 (User should be able to select Quote Date (From))</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0854268-e9b5-43d8-8ede-f156f88a46f3</testCaseGuid>
+</TestCaseEntity>

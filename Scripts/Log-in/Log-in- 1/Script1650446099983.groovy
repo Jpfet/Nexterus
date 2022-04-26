@@ -25,9 +25,9 @@ WebUI.maximizeWindow()
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('Log-in/Username field'), 'admin')
+WebUI.setText(findTestObject('001-Log-in/Username field'), 'admin')
 
-WebUI.setText(findTestObject('Log-in/Password field'), 'admin')
+WebUI.setText(findTestObject('001-Log-in/Password field'), 'admin')
 
-WebUI.click(findTestObject('Log-in/Log-in button'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('001-Log-in/Log-in button'), FailureHandling.STOP_ON_FAILURE)
 

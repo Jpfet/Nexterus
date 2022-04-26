@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill Destination Address</description>
+   <name>FCSCMS-1988-S7 (User should be able to fill Destination Address)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed0764e5-8420-4b46-a436-b821d0c86820</testCaseGuid>
+</TestCaseEntity>

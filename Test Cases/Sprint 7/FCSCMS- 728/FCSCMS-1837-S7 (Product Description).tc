@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Search/Select Product Description in Search Dropdown</description>
+   <name>FCSCMS-1837-S7 (Product Description)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0f350e2-c8aa-4d71-8595-77703c2355ee</testCaseGuid>
+</TestCaseEntity>

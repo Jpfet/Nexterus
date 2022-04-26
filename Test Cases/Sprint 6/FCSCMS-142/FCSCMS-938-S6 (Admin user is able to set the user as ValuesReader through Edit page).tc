@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin user is able to set the user as GrantReader through Edit page</description>
+   <name>FCSCMS-938-S6 (Admin user is able to set the user as ValuesReader through Edit page)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a88da430-0704-4883-87e8-350f57dea629</testCaseGuid>
+</TestCaseEntity>

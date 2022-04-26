@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invalid login or incomplete requirements should have error notification or red flag</description>
+   <name>FCSCMS-222</name>
+   <tag>222</tag>
+   <comment></comment>
+   <testCaseGuid>cac22db4-387d-48b6-90d5-7739e95c3ba0</testCaseGuid>
+</TestCaseEntity>

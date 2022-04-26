@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin user is able to set the user as IdentityWritter</description>
+   <name>FCSCMS-923-S6 (Admin user is able to set the user as IdentityWritter)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0cbefe94-e00c-45a1-8aa1-201de2666113</testCaseGuid>
+</TestCaseEntity>

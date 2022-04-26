@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Add or Select Items to be shipped</description>
+   <name>FCSCMS- 2182-S8 (User should be able to Add or Select Items to be shipped)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>431ca4e6-6a3c-4e71-8425-c0df6077dd74</testCaseGuid>
+</TestCaseEntity>

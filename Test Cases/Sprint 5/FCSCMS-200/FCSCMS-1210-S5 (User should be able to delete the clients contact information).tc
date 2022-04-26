@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to delete the client's contact information</description>
+   <name>FCSCMS-1210-S5 (User should be able to delete the clients contact information)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a67b94fd-ef05-4b74-addf-53cdaaf0c5a8</testCaseGuid>
+</TestCaseEntity>

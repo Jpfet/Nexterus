@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the Save button for the 'Sites' tab</description>
+   <name>FCSCMS-1153-S5 (The user can click the Save button for the Sites tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5a87ecc-5be8-4d94-9a56-9b1be61cce7d</testCaseGuid>
+</TestCaseEntity>

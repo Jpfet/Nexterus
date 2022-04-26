@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-412,Chrome 100.0.4896.127,User should be able to navigate pages from first page to last,,2022-04-26 14:29:13,2022-04-26 14:32:05,2m - 51.815s,FAILED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-26 14:29:14,2022-04-26 14:29:28,13.732s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-26 14:29:15,2022-04-26 14:29:19,4.402s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-26 14:29:19,2022-04-26 14:29:22,2.552s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-26 14:29:22,2022-04-26 14:29:22,0.233s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-26 14:29:22,2022-04-26 14:29:24,2.083s,PASSED
+"setText(findTestObject(""Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-26 14:29:24,2022-04-26 14:29:26,1.840s,PASSED
+"setText(findTestObject(""Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-26 14:29:26,2022-04-26 14:29:27,1.081s,PASSED
+"click(findTestObject(""Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-26 14:29:27,2022-04-26 14:29:28,0.658s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-59/FCSCMS-412,Chrome 100.0.4896.127,User should be able to navigate pages from first page to last,,2022-04-26 14:29:28,2022-04-26 14:32:05,2m - 37.449s,FAILED
+"click(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-412/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-26 14:29:29,2022-04-26 14:29:33,4.039s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-412/Page number_2""))",Chrome 100.0.4896.127,,,2022-04-26 14:29:33,2022-04-26 14:30:04,30.841s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 2 verification""))",Chrome 100.0.4896.127,,,2022-04-26 14:30:04,2022-04-26 14:30:34,30.350s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-412/Page number_1""))",Chrome 100.0.4896.127,,,2022-04-26 14:30:34,2022-04-26 14:31:05,30.376s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 1 verification""))",Chrome 100.0.4896.127,,,2022-04-26 14:31:05,2022-04-26 14:31:35,30.273s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-59/FCSCMS-412/Right arrow button""))",Chrome 100.0.4896.127,,,2022-04-26 14:31:35,2022-04-26 14:32:05,30.453s,FAILED

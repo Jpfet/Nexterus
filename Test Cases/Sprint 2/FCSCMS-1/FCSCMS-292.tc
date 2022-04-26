@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Add New Privillege Group button</description>
+   <name>FCSCMS-292</name>
+   <tag>292</tag>
+   <comment></comment>
+   <testCaseGuid>e5ad94aa-eaec-40e4-bba0-05879b62c7d8</testCaseGuid>
+</TestCaseEntity>

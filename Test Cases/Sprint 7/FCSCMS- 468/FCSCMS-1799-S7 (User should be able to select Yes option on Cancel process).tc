@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Yes option on Cancel process</description>
+   <name>FCSCMS-1799-S7 (User should be able to select Yes option on Cancel process)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4372411-abec-47ee-8ac6-11b1c249fb84</testCaseGuid>
+</TestCaseEntity>

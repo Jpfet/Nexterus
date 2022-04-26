@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin user is able to set the user as IdentityAdminr</description>
+   <name>FCSCMS-924-S6 (Admin user is able to set the user as IdentityAdminr)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b8ab380-3174-4e56-be17-c132af42c459</testCaseGuid>
+</TestCaseEntity>

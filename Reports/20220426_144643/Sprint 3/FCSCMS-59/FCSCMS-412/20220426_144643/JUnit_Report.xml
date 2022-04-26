@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FCSCMS-412" time="533.639" tests="2" failures="0" errors="0">
+   <testsuite name="FCSCMS-412" tests="2" failures="0" errors="0" time="533.639" skipped="0" timestamp="2022-04-26 14:46:49" hostname="Fet - DESKTOP-Q81B6T4" id="Test Suites/Sprint 3/FCSCMS-59/FCSCMS-412">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Fet\\git\\Sample - Nexterus\\Reports\\20220426_144643\\Sprint 3\\FCSCMS-59\\FCSCMS-412\\20220426_144643"/>
+         <property name="logFiles" value="C:\\Users\\Fet\\git\\Sample - Nexterus\\Reports\\20220426_144643\\Sprint 3\\FCSCMS-59\\FCSCMS-412\\20220426_144643\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Fet - DESKTOP-Q81B6T4"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.0.208"/>
+         <property name="browser" value="Chrome 100.0.4896.127"/>
+         <property name="hostAddress" value="192.168.5.82"/>
+         <property name="sessionId" value="003156fb946e3eabe776187866eada79"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Log-in/Log-in- 1" time="13.742" classname="Test Cases/Log-in/Log-in- 1" status="PASSED">
+         <system-out><![CDATA[2022-04-26 14:46:49 - [TEST_CASE][PASSED] - Test Cases/Log-in/Log-in- 1: Test Cases/Log-in/Log-in- 1
+
+2022-04-26 14:46:50 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-04-26 14:46:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-04-26 14:46:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-04-26 14:46:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-04-26 14:46:55 - [TEST_STEP][PASSED] - navigateToUrl("https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"): Navigate to 'https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login' successfully
+
+2022-04-26 14:46:57 - [MESSAGE][PASSED] - Navigate to 'https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login' successfully
+
+2022-04-26 14:46:57 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-04-26 14:46:57 - [MESSAGE][PASSED] - Current window maximized
+
+2022-04-26 14:46:57 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-04-26 14:47:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-04-26 14:47:00 - [TEST_STEP][PASSED] - setText(findTestObject("Log-in/Username field"), "admin"): Text 'admin' is set on object 'Object Repository/Log-in/Username field'
+
+2022-04-26 14:47:02 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Log-in/Username field'
+
+2022-04-26 14:47:02 - [TEST_STEP][PASSED] - setText(findTestObject("Log-in/Password field"), "admin"): Text 'admin' is set on object 'Object Repository/Log-in/Password field'
+
+2022-04-26 14:47:03 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Log-in/Password field'
+
+2022-04-26 14:47:03 - [TEST_STEP][PASSED] - click(findTestObject("Log-in/Log-in button"), STOP_ON_FAILURE): Object: 'Object Repository/Log-in/Log-in button' is clicked on
+
+2022-04-26 14:47:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Log-in/Log-in button' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 3/FCSCMS-59/FCSCMS-412" time="519.294" classname="Test Cases/Sprint 3/FCSCMS-59/FCSCMS-412" status="PASSED">
+         <system-out><![CDATA[2022-04-26 14:47:03 - [TEST_CASE][PASSED] - Test Cases/Sprint 3/FCSCMS-59/FCSCMS-412: Test Cases/Sprint 3/FCSCMS-59/FCSCMS-412
+
+2022-04-26 14:47:04 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-59/FCSCMS-412/User Account Management")): Object: 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/User Account Management' is clicked on
+
+2022-04-26 14:47:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/User Account Management' is clicked on
+
+2022-04-26 14:47:40 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-59/FCSCMS-412/Page number_2")): Object: 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Page number_2' is clicked on
+
+2022-04-26 14:48:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Page number_2' is clicked on
+
+2022-04-26 14:48:10 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 2 verification")): Object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 2 verification' is visible
+
+2022-04-26 14:48:40 - [MESSAGE][PASSED] - Object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 2 verification' is visible
+
+2022-04-26 14:48:40 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-59/FCSCMS-412/Page number_1")): Object: 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Page number_1' is clicked on
+
+2022-04-26 14:49:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Page number_1' is clicked on
+
+2022-04-26 14:49:11 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 1 verification")): Object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 1 verification' is visible
+
+2022-04-26 14:49:41 - [MESSAGE][PASSED] - Object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 1 verification' is visible
+
+2022-04-26 14:49:41 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-59/FCSCMS-412/Right arrow button")): Object: 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Right arrow button' is clicked on
+
+2022-04-26 14:50:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Right arrow button' is clicked on
+
+2022-04-26 14:50:11 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 2 verification")): Object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 2 verification' is visible
+
+2022-04-26 14:50:41 - [MESSAGE][PASSED] - Object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 2 verification' is visible
+
+2022-04-26 14:50:41 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-59/FCSCMS-412/Left arrow button")): Object: 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Left arrow button' is clicked on
+
+2022-04-26 14:51:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Left arrow button' is clicked on
+
+2022-04-26 14:51:12 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 1 verification")): Object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 1 verification' is visible
+
+2022-04-26 14:51:40 - [MESSAGE][PASSED] - Object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 1 verification' is visible
+
+2022-04-26 14:51:40 - [TEST_STEP][PASSED] - setText(findTestObject("Sprint 3/FCSCMS-59/FCSCMS-412/Page number search field"), "2"): Text '2' is set on object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Page number search field'
+
+2022-04-26 14:52:41 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Page number search field'
+
+2022-04-26 14:52:41 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-59/FCSCMS-412/Page number search button")): Object: 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Page number search button' is clicked on
+
+2022-04-26 14:53:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Page number search button' is clicked on
+
+2022-04-26 14:53:11 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 2 verification")): Object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 2 verification' is visible
+
+2022-04-26 14:53:41 - [MESSAGE][PASSED] - Object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 2 verification' is visible
+
+2022-04-26 14:53:41 - [TEST_STEP][PASSED] - setText(findTestObject("Sprint 3/FCSCMS-59/FCSCMS-412/Page number search field"), "1"): Text '1' is set on object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Page number search field'
+
+2022-04-26 14:54:42 - [MESSAGE][PASSED] - Text '1' is set on object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Page number search field'
+
+2022-04-26 14:54:42 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-59/FCSCMS-412/Page number search button")): Object: 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Page number search button' is clicked on
+
+2022-04-26 14:55:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Page number search button' is clicked on
+
+2022-04-26 14:55:12 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 1 verification")): Object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 1 verification' is visible
+
+2022-04-26 14:55:42 - [MESSAGE][PASSED] - Object 'Object Repository/Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 1 verification' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-04-26 14:46:49 - [TEST_SUITE][PASSED] - FCSCMS-412: Test Cases/Sprint 3/FCSCMS-59/FCSCMS-412]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

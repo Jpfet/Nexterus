@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Click Contacts tab</description>
+   <name>FCSCMS-1352-S5 (User should be able to Click Contacts tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ac71b1c-7a65-44d4-bf71-9066bd552336</testCaseGuid>
+</TestCaseEntity>

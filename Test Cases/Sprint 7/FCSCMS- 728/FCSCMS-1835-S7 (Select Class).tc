@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Search/Select Class in Search Dropdown</description>
+   <name>FCSCMS-1835-S7 (Select Class)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f70c03c4-e181-448e-8759-08c1ed2bd03f</testCaseGuid>
+</TestCaseEntity>

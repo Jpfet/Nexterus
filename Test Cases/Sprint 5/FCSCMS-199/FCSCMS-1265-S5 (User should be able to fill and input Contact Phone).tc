@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill and input Contact Phone</description>
+   <name>FCSCMS-1265-S5 (User should be able to fill and input Contact Phone)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4534e3a-8d0f-40d5-8737-ce06a10d7c73</testCaseGuid>
+</TestCaseEntity>

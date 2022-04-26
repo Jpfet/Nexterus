@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select/un-select Parcel on Shipment Type</description>
+   <name>FCSCMS-1972-S7 (User should be able to select-un-select Parcel on Shipment Type)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dccaa374-d1a1-4bce-815a-e4a23cdcc35a</testCaseGuid>
+</TestCaseEntity>

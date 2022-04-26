@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view/edit the client's timezone on the Time Zone menu</description>
+   <name>FCSCMS-1204-S5 (Edit Clients TimzeZone)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccdb1706-b378-481c-8b46-73d224d7699d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Yes on Save option</description>
+   <name>FCSCMS-1861-S7 (User should be able to select Yes on Save option)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba75b110-fa24-4c44-949b-7344c3dbdd49</testCaseGuid>
+</TestCaseEntity>
