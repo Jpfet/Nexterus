@@ -17,11 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Sprint 3/FCSCMS-59/FCSCMS-414/User Account Management'))
-
 WebUI.click(findTestObject('Sprint 3/FCSCMS-59/FCSCMS-414/XLS-Download button'))
 
 WebUI.setText(findTestObject('Sprint 3/FCSCMS-59/FCSCMS-414/File name field'), 'Fet test')
 
 WebUI.click(findTestObject('Sprint 3/FCSCMS-59/FCSCMS-414/Download button(enabled)'))
+
+CustomKeywords.'verify_downloaded_file.verifydownloadfile.isFileDownloaded'('', 'Fet test')
 

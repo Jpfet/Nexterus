@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+"FCSCMS-122(User, Role and Access Management- View or Edit User)",Chrome 100.0.4896.127,,,2022-04-29 16:34:54,2022-04-29 16:41:48,6m - 54.094s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-122/FCSCMS-472(Admin user is able to log in using valid credentials),Chrome 100.0.4896.127,,,2022-04-29 16:34:54,2022-04-29 16:35:08,13.675s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-29 16:34:55,2022-04-29 16:35:00,4.277s,PASSED
+"navigateToUrl(""https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-29 16:35:00,2022-04-29 16:35:02,2.267s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-29 16:35:02,2022-04-29 16:35:02,0.229s,PASSED
+delay(1),Chrome 100.0.4896.127,,,2022-04-29 16:35:02,2022-04-29 16:35:03,1.104s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-29 16:35:03,2022-04-29 16:35:06,3.133s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-29 16:35:06,2022-04-29 16:35:07,1.021s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-29 16:35:07,2022-04-29 16:35:08,0.732s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-122/FCSCMS-473(User is able to click User and Account Management option from the left navigation panel),Chrome 100.0.4896.127,,,2022-04-29 16:35:08,2022-04-29 16:35:43,34.943s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-29 16:35:09,2022-04-29 16:35:43,33.914s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-122/FCSCMS-474(Admin is able to edit User details),Chrome 100.0.4896.127,,,2022-04-29 16:35:43,2022-04-29 16:41:48,6m - 4.777s,FAILED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit button_ANONYMOUS USER""))",Chrome 100.0.4896.127,,,2022-04-29 16:35:44,2022-04-29 16:36:14,30.451s,PASSED
+"setText(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit User_User Name""), ""Anon User"")",Chrome 100.0.4896.127,,,2022-04-29 16:36:14,2022-04-29 16:37:15,1m - 0.538s,PASSED
+"setText(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit User_Email""), ""anonymous@mailinator.com"")",Chrome 100.0.4896.127,,,2022-04-29 16:37:15,2022-04-29 16:38:16,1m - 0.633s,PASSED
+"setText(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit User_Address Line 1""), ""Tinago"")",Chrome 100.0.4896.127,,,2022-04-29 16:38:16,2022-04-29 16:39:16,1m - 0.497s,PASSED
+"setText(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit User_Address Line 2""), ""M. Castro"")",Chrome 100.0.4896.127,,,2022-04-29 16:39:16,2022-04-29 16:40:17,1m - 0.540s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit User_City""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-29 16:40:17,2022-04-29 16:40:47,30.340s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit User_City_Select""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-29 16:40:47,2022-04-29 16:41:48,1m - 0.967s,FAILED

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Edit User_Cancel_Confirmation message</name>
+   <tag></tag>
+   <elementGuidId>a012578f-68b2-4a67-86b5-3626b4b177a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.popup-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f76fcd37-d7cd-423b-a7ff-8a567dbf0c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popup-content</value>
+      <webElementGuid>2b31f9f1-a26b-4d57-9d52-dca188e4e28b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Are you sure you want to leave this page, you will lose any unsaved information?NoYes</value>
+      <webElementGuid>b35dec77-0edc-46bd-be8f-eaa5d246d6c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;popup-disable-scroll&quot;]/body[@class=&quot;desktop landscape chrome windows&quot;]/div[@class=&quot;portal-class&quot;]/div[1]/div[@class=&quot;popup-backdrop&quot;]/div[@class=&quot;popup-dialog confirmation-popup&quot;]/div[@class=&quot;popup-content&quot;]</value>
+      <webElementGuid>9b5ef5cd-c451-40f9-be11-88d1fc0bf94e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[6]</value>
+      <webElementGuid>855a45d7-8582-4b37-9a7c-63f38bb88208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::div[6]</value>
+      <webElementGuid>9b1265ae-59e4-4a54-8569-76787720cc93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div</value>
+      <webElementGuid>cc240c3d-cb3b-4da4-8b5a-922c3ecdaa20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Are you sure you want to leave this page, you will lose any unsaved information?NoYes' or . = 'Are you sure you want to leave this page, you will lose any unsaved information?NoYes')]</value>
+      <webElementGuid>acd3b2f4-eab1-438c-8374-afaf65284e84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

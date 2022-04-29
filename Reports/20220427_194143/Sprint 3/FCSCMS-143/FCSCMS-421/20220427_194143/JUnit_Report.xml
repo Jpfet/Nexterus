@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FCSCMS-421" time="204.943" tests="2" failures="0" errors="0">
+   <testsuite name="FCSCMS-421" tests="2" failures="0" errors="0" time="204.943" skipped="0" timestamp="2022-04-27 19:41:50" hostname="Fet - DESKTOP-Q81B6T4" id="Test Suites/Sprint 3/FCSCMS-143/FCSCMS-421">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Fet\\git\\Sample - Nexterus\\Reports\\20220427_194143\\Sprint 3\\FCSCMS-143\\FCSCMS-421\\20220427_194143"/>
+         <property name="logFiles" value="C:\\Users\\Fet\\git\\Sample - Nexterus\\Reports\\20220427_194143\\Sprint 3\\FCSCMS-143\\FCSCMS-421\\20220427_194143\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Fet - DESKTOP-Q81B6T4"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.0.208"/>
+         <property name="browser" value="Chrome 100.0.4896.127"/>
+         <property name="hostAddress" value="192.168.5.82"/>
+         <property name="sessionId" value="92226d571d07423e88e50514f27526cc"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Log-in/Log-in- 1" time="15.732" classname="Test Cases/Log-in/Log-in- 1" status="PASSED">
+         <system-out><![CDATA[2022-04-27 19:41:51 - [TEST_CASE][PASSED] - Test Cases/Log-in/Log-in- 1: Test Cases/Log-in/Log-in- 1
+
+2022-04-27 19:41:52 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-04-27 19:41:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-04-27 19:41:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-04-27 19:41:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-04-27 19:41:58 - [TEST_STEP][PASSED] - navigateToUrl("https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"): Navigate to 'https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login' successfully
+
+2022-04-27 19:42:01 - [MESSAGE][PASSED] - Navigate to 'https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login' successfully
+
+2022-04-27 19:42:01 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-04-27 19:42:01 - [MESSAGE][PASSED] - Current window maximized
+
+2022-04-27 19:42:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-04-27 19:42:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-04-27 19:42:03 - [TEST_STEP][PASSED] - setText(findTestObject("001-Log-in/Username field"), "admin"): Text 'admin' is set on object 'Object Repository/001-Log-in/Username field'
+
+2022-04-27 19:42:05 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/001-Log-in/Username field'
+
+2022-04-27 19:42:05 - [TEST_STEP][PASSED] - setText(findTestObject("001-Log-in/Password field"), "admin"): Text 'admin' is set on object 'Object Repository/001-Log-in/Password field'
+
+2022-04-27 19:42:06 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/001-Log-in/Password field'
+
+2022-04-27 19:42:06 - [TEST_STEP][PASSED] - click(findTestObject("001-Log-in/Log-in button"), STOP_ON_FAILURE): Object: 'Object Repository/001-Log-in/Log-in button' is clicked on
+
+2022-04-27 19:42:07 - [MESSAGE][PASSED] - Object: 'Object Repository/001-Log-in/Log-in button' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 3/FCSCMS-143/FCSCMS-421" time="188.418" classname="Test Cases/Sprint 3/FCSCMS-143/FCSCMS-421" status="PASSED">
+         <system-out><![CDATA[2022-04-27 19:42:07 - [TEST_CASE][PASSED] - Test Cases/Sprint 3/FCSCMS-143/FCSCMS-421: Test Cases/Sprint 3/FCSCMS-143/FCSCMS-421
+
+2022-04-27 19:42:07 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-143/FCSCMS-421/a_Privilege Group Management")): Object: 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-421/a_Privilege Group Management' is clicked on
+
+2022-04-27 19:42:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-421/a_Privilege Group Management' is clicked on
+
+2022-04-27 19:42:43 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-143/FCSCMS-421/PVM_XLS Download button")): Object: 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-421/PVM_XLS Download button' is clicked on
+
+2022-04-27 19:43:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-421/PVM_XLS Download button' is clicked on
+
+2022-04-27 19:43:14 - [TEST_STEP][PASSED] - setText(findTestObject("Sprint 3/FCSCMS-143/FCSCMS-421/PVM_File name field"), "Cancel download"): Text 'Cancel download' is set on object 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-421/PVM_File name field'
+
+2022-04-27 19:44:14 - [MESSAGE][PASSED] - Text 'Cancel download' is set on object 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-421/PVM_File name field'
+
+2022-04-27 19:44:14 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-143/FCSCMS-421/PVM_Cancel")): Object: 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-421/PVM_Cancel' is clicked on
+
+2022-04-27 19:44:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-421/PVM_Cancel' is clicked on
+
+2022-04-27 19:44:44 - [TEST_STEP][PASSED] - verifyTextNotPresent("Cancel download", false): Text 'Cancel download' is not present on page
+
+2022-04-27 19:45:15 - [MESSAGE][PASSED] - Text 'Cancel download' is not present on page]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-04-27 19:41:50 - [TEST_SUITE][PASSED] - FCSCMS-421: Test Cases/Sprint 3/FCSCMS-143/FCSCMS-421]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

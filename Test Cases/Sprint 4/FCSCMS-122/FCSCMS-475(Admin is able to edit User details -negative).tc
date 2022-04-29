@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FCSCMS-475(Admin is able to edit User details -negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8cfaf23-94a7-4d48-ae31-eba79e580947</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+"FCSCMS-123(User, Role and Access Management-Activate User)",Chrome 100.0.4896.127,,,2022-04-29 22:31:34,2022-04-29 22:35:07,3m - 33.122s,PASSED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-29 22:31:34,2022-04-29 22:31:48,14.248s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-29 22:31:35,2022-04-29 22:31:40,4.487s,PASSED
+"navigateToUrl(""https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-29 22:31:40,2022-04-29 22:31:42,2.474s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-29 22:31:42,2022-04-29 22:31:42,0.245s,PASSED
+delay(1),Chrome 100.0.4896.127,,,2022-04-29 22:31:42,2022-04-29 22:31:43,1.078s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-29 22:31:43,2022-04-29 22:31:47,3.289s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-29 22:31:47,2022-04-29 22:31:48,1.067s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-29 22:31:48,2022-04-29 22:31:48,0.657s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-123/FCSCMS-481(Admin user is able to log in using valid credentials),Chrome 100.0.4896.127,,,2022-04-29 22:31:48,2022-04-29 22:32:00,11.390s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-29 22:31:49,2022-04-29 22:31:52,2.619s,PASSED
+"navigateToUrl(""https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-29 22:31:52,2022-04-29 22:31:54,2.187s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-29 22:31:54,2022-04-29 22:31:54,0.218s,PASSED
+delay(1),Chrome 100.0.4896.127,,,2022-04-29 22:31:54,2022-04-29 22:31:55,1.011s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-29 22:31:55,2022-04-29 22:31:58,3.045s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-29 22:31:58,2022-04-29 22:31:59,1.001s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-29 22:31:59,2022-04-29 22:32:00,0.554s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-123/FCSCMS-482(User is able to click User and Account Management option from the left navigation panel),Chrome 100.0.4896.127,,,2022-04-29 22:32:00,2022-04-29 22:32:34,34.638s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-29 22:32:01,2022-04-29 22:32:34,33.667s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-123/FCSCMS-483(Admin user is able to click Edit button),Chrome 100.0.4896.127,,,2022-04-29 22:32:34,2022-04-29 22:35:07,2m - 32.180s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-123/Edit button_ANONYMOUS USER""))",Chrome 100.0.4896.127,,,2022-04-29 22:32:35,2022-04-29 22:33:06,30.412s,PASSED
+"verifyElementVisible(findTestObject(""Admin/Sprint 4/FCSCMS-123/Edit User_User Name""))",Chrome 100.0.4896.127,,,2022-04-29 22:33:06,2022-04-29 22:33:36,30.241s,PASSED
+"verifyElementVisible(findTestObject(""Admin/Sprint 4/FCSCMS-123/Edit User_User Group""))",Chrome 100.0.4896.127,,,2022-04-29 22:33:36,2022-04-29 22:34:06,30.242s,PASSED
+"verifyElementVisible(findTestObject(""Admin/Sprint 4/FCSCMS-123/Edit User_Mobile Number field""))",Chrome 100.0.4896.127,,,2022-04-29 22:34:06,2022-04-29 22:34:36,30.254s,PASSED
+"verifyElementVisible(findTestObject(""Admin/Sprint 4/FCSCMS-123/Edit User_Email""))",Chrome 100.0.4896.127,,,2022-04-29 22:34:36,2022-04-29 22:35:07,30.253s,PASSED

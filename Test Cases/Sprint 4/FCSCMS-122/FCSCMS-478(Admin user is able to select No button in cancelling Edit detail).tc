@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FCSCMS-478(Admin user is able to select No button in cancelling Edit detail)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51927be6-2436-41fb-b6ba-1394eb81d732</testCaseGuid>
+</TestCaseEntity>

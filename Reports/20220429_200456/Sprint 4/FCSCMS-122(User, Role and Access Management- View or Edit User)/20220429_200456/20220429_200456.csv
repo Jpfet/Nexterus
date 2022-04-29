@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+"FCSCMS-122(User, Role and Access Management- View or Edit User)",Chrome 100.0.4896.127,,,2022-04-29 20:05:01,2022-04-29 20:06:59,1m - 58.124s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-122/FCSCMS-472(Admin user is able to log in using valid credentials),Chrome 100.0.4896.127,,,2022-04-29 20:05:02,2022-04-29 20:05:17,15.023s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-29 20:05:03,2022-04-29 20:05:08,4.692s,PASSED
+"navigateToUrl(""https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-29 20:05:08,2022-04-29 20:05:11,2.992s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-29 20:05:11,2022-04-29 20:05:11,0.228s,PASSED
+delay(1),Chrome 100.0.4896.127,,,2022-04-29 20:05:11,2022-04-29 20:05:12,1.093s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-29 20:05:12,2022-04-29 20:05:15,3.015s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-29 20:05:15,2022-04-29 20:05:16,1.048s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-29 20:05:16,2022-04-29 20:05:17,0.662s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-122/FCSCMS-476(Admin user is able to click Cancel button),Chrome 100.0.4896.127,,,2022-04-29 20:05:17,2022-04-29 20:06:59,1m - 42.465s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-29 20:05:18,2022-04-29 20:05:28,10.005s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit button_ANONYMOUS USER""))",Chrome 100.0.4896.127,,,2022-04-29 20:05:28,2022-04-29 20:05:59,30.748s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit User_Cancel""))",Chrome 100.0.4896.127,,,2022-04-29 20:05:59,2022-04-29 20:06:29,30.359s,PASSED
+"verifyElementText(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit User_Cancel_Confirmation message2""), ""Are you sure you want to leave this page, you will lose any unsaved information?"")",Chrome 100.0.4896.127,,,2022-04-29 20:06:29,2022-04-29 20:06:59,30.273s,PASSED

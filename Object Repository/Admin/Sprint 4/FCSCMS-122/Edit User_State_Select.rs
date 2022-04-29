@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Edit User_State_Select</name>
+   <tag></tag>
+   <elementGuidId>0f8dec2d-0a42-4fff-be27-c8d2622fa999</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;choices--b32-b3-DropdownSelect-item-choice-106&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>553644f5-3e21-4868-98c0-f176df7a154b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1651220766120</value>
+      <webElementGuid>caf6860c-6651-4c26-b9ee-f7e9bf349be5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

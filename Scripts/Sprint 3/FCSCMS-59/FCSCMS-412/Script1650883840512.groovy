@@ -17,8 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Sprint 3/FCSCMS-59/FCSCMS-412/User Account Management'))
-
 WebUI.click(findTestObject('Sprint 3/FCSCMS-59/FCSCMS-412/Page number_2'))
 
 WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-59/FCSCMS-412/Username_Page 2 verification'))

@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-421,Chrome 100.0.4896.127,User should be able to cancel downloading process,,2022-04-27 17:38:03,2022-04-27 17:41:01,2m - 58.258s,PASSED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-27 17:38:04,2022-04-27 17:38:18,14.100s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-27 17:38:05,2022-04-27 17:38:09,4.574s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-27 17:38:09,2022-04-27 17:38:12,2.619s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-27 17:38:12,2022-04-27 17:38:12,0.226s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-27 17:38:12,2022-04-27 17:38:14,2.108s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-27 17:38:14,2022-04-27 17:38:16,1.949s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-27 17:38:16,2022-04-27 17:38:17,1.063s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-27 17:38:17,2022-04-27 17:38:18,0.632s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-143/FCSCMS-421,Chrome 100.0.4896.127,User should be able to cancel downloading process,,2022-04-27 17:38:18,2022-04-27 17:41:01,2m - 43.498s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-143/FCSCMS-421/a_Privilege Group Management""))",Chrome 100.0.4896.127,,,2022-04-27 17:38:19,2022-04-27 17:38:30,10.964s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-143/FCSCMS-421/PVM_XLS Download button""))",Chrome 100.0.4896.127,,,2022-04-27 17:38:30,2022-04-27 17:39:00,30.432s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-143/FCSCMS-421/PVM_File name field""), ""Cancel download"")",Chrome 100.0.4896.127,,,2022-04-27 17:39:00,2022-04-27 17:40:00,1m - 0.482s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-143/FCSCMS-421/PVM_Cancel""))",Chrome 100.0.4896.127,,,2022-04-27 17:40:00,2022-04-27 17:40:31,30.308s,PASSED
+"verifyTextNotPresent(""Cancel download"", false)",Chrome 100.0.4896.127,,,2022-04-27 17:40:31,2022-04-27 17:41:01,30.463s,PASSED

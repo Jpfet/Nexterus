@@ -17,19 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.delay(3)
-
 WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/User Account Management'))
-
-WebUI.delay(3)
 
 WebUI.setText(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/Quick search field'), 'anonymous')
 
 WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/search icon'))
 
 WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/search result - anon user'))
-
-WebUI.delay(2)
 
 WebUI.setText(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/Quick search field'), '')
 
@@ -41,8 +35,6 @@ WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/search icon'))
 
 WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/search result- anonymous'))
 
-WebUI.delay(2)
-
 WebUI.setText(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/Quick search field'), '')
 
 WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/search icon'))
@@ -52,6 +44,4 @@ WebUI.setText(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/Quick search fie
 WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/search icon'))
 
 WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/search result- anonymous'))
-
-WebUI.delay(2)
 

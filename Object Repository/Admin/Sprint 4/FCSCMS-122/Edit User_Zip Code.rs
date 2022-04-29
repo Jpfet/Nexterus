@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Edit User_Zip Code</name>
+   <tag></tag>
+   <elementGuidId>cc63277e-bc65-47e6-9bbc-359fc6fa96c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#b32-zip2 > div.choices > div.choices__inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b32-zip2']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ef9fdbbc-874a-4a02-a2fa-4e361a3b991b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choices__inner</value>
+      <webElementGuid>b76995fa-2902-4897-a7da-62e3886176e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select
+        Select
+      </value>
+      <webElementGuid>7f2d17a6-1240-454f-bf11-3a0de49d80b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b32-zip2&quot;)/div[@class=&quot;choices&quot;]/div[@class=&quot;choices__inner&quot;]</value>
+      <webElementGuid>b616e679-08ed-48c0-adee-4f5f097c2e73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b32-zip2']/div/div</value>
+      <webElementGuid>ea26acdc-9da4-41b6-b7ca-65eae3733e78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zip Code'])[1]/following::div[3]</value>
+      <webElementGuid>64108f99-1dba-4367-a5f5-00836fbe903e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='California'])[1]/following::div[8]</value>
+      <webElementGuid>6c7ac2b2-0918-475e-918d-0844bfc21ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[5]/preceding::div[4]</value>
+      <webElementGuid>5543b9fe-2d3f-473a-9c1b-4c17a030c628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>2f782c04-1f49-4c1c-88cf-96468b0508a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select
+        Select
+      ' or . = 'Select
+        Select
+      ')]</value>
+      <webElementGuid>bbb2e771-fb9b-4d9e-8c3c-d89d5b266321</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

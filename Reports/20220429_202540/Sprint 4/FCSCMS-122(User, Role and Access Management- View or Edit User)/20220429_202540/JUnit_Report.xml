@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FCSCMS-122(User, Role and Access Management- View or Edit User)" time="232.361" tests="2" failures="0" errors="0">
+   <testsuite name="FCSCMS-122(User, Role and Access Management- View or Edit User)" tests="2" failures="0" errors="0" time="232.361" skipped="0" timestamp="2022-04-29 20:25:46" hostname="Fet - DESKTOP-Q81B6T4" id="Test Suites/Sprint 4/FCSCMS-122(User, Role and Access Management- View or Edit User)">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Fet\\git\\Sample - Nexterus\\Reports\\20220429_202540\\Sprint 4\\FCSCMS-122(User, Role and Access Management- View or Edit User)\\20220429_202540"/>
+         <property name="logFiles" value="C:\\Users\\Fet\\git\\Sample - Nexterus\\Reports\\20220429_202540\\Sprint 4\\FCSCMS-122(User, Role and Access Management- View or Edit User)\\20220429_202540\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Fet - DESKTOP-Q81B6T4"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.0.208"/>
+         <property name="browser" value="Chrome 100.0.4896.127"/>
+         <property name="hostAddress" value="192.168.5.82"/>
+         <property name="sessionId" value="63e6425b52be583c5f91777b74f9904c"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Sprint 4/FCSCMS-122/FCSCMS-472(Admin user is able to log in using valid credentials)" time="13.558" classname="Test Cases/Sprint 4/FCSCMS-122/FCSCMS-472(Admin user is able to log in using valid credentials)" status="PASSED">
+         <system-out><![CDATA[2022-04-29 20:25:46 - [TEST_CASE][PASSED] - Test Cases/Sprint 4/FCSCMS-122/FCSCMS-472(Admin user is able to log in using valid credentials): Test Cases/Sprint 4/FCSCMS-122/FCSCMS-472(Admin user is able to log in using valid credentials)
+
+2022-04-29 20:25:47 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-04-29 20:25:48 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-04-29 20:25:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-04-29 20:25:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-04-29 20:25:52 - [TEST_STEP][PASSED] - navigateToUrl("https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"): Navigate to 'https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login' successfully
+
+2022-04-29 20:25:54 - [MESSAGE][PASSED] - Navigate to 'https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login' successfully
+
+2022-04-29 20:25:54 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-04-29 20:25:54 - [MESSAGE][PASSED] - Current window maximized
+
+2022-04-29 20:25:54 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-04-29 20:25:55 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-04-29 20:25:55 - [TEST_STEP][PASSED] - setText(findTestObject("001-Log-in/Username field"), "admin"): Text 'admin' is set on object 'Object Repository/001-Log-in/Username field'
+
+2022-04-29 20:25:58 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/001-Log-in/Username field'
+
+2022-04-29 20:25:58 - [TEST_STEP][PASSED] - setText(findTestObject("001-Log-in/Password field"), "admin"): Text 'admin' is set on object 'Object Repository/001-Log-in/Password field'
+
+2022-04-29 20:25:59 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/001-Log-in/Password field'
+
+2022-04-29 20:25:59 - [TEST_STEP][PASSED] - click(findTestObject("001-Log-in/Log-in button"), STOP_ON_FAILURE): Object: 'Object Repository/001-Log-in/Log-in button' is clicked on
+
+2022-04-29 20:26:00 - [MESSAGE][PASSED] - Object: 'Object Repository/001-Log-in/Log-in button' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/FCSCMS-122/FCSCMS-477(Admin user is able to cancel edit user detail)" time="218.173" classname="Test Cases/Sprint 4/FCSCMS-122/FCSCMS-477(Admin user is able to cancel edit user detail)" status="PASSED">
+         <system-out><![CDATA[2022-04-29 20:26:00 - [TEST_CASE][PASSED] - Test Cases/Sprint 4/FCSCMS-122/FCSCMS-477(Admin user is able to cancel edit user detail): Test Cases/Sprint 4/FCSCMS-122/FCSCMS-477(Admin user is able to cancel edit user detail)
+
+2022-04-29 20:26:01 - [TEST_STEP][PASSED] - click(findTestObject("Admin/Sprint 4/FCSCMS-122/User Account Management")): Object: 'Object Repository/Admin/Sprint 4/FCSCMS-122/User Account Management' is clicked on
+
+2022-04-29 20:26:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Admin/Sprint 4/FCSCMS-122/User Account Management' is clicked on
+
+2022-04-29 20:26:36 - [TEST_STEP][PASSED] - click(findTestObject("Admin/Sprint 4/FCSCMS-122/Edit button_ANONYMOUS USER")): Object: 'Object Repository/Admin/Sprint 4/FCSCMS-122/Edit button_ANONYMOUS USER' is clicked on
+
+2022-04-29 20:27:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Admin/Sprint 4/FCSCMS-122/Edit button_ANONYMOUS USER' is clicked on
+
+2022-04-29 20:27:06 - [TEST_STEP][PASSED] - setText(findTestObject("Admin/Sprint 4/FCSCMS-122/Edit User_User Name"), "User Cancel edit assertion"): Text 'User Cancel edit assertion' is set on object 'Object Repository/Admin/Sprint 4/FCSCMS-122/Edit User_User Name'
+
+2022-04-29 20:28:07 - [MESSAGE][PASSED] - Text 'User Cancel edit assertion' is set on object 'Object Repository/Admin/Sprint 4/FCSCMS-122/Edit User_User Name'
+
+2022-04-29 20:28:07 - [TEST_STEP][PASSED] - click(findTestObject("Admin/Sprint 4/FCSCMS-122/Edit User_Cancel")): Object: 'Object Repository/Admin/Sprint 4/FCSCMS-122/Edit User_Cancel' is clicked on
+
+2022-04-29 20:28:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Admin/Sprint 4/FCSCMS-122/Edit User_Cancel' is clicked on
+
+2022-04-29 20:28:37 - [TEST_STEP][PASSED] - click(findTestObject("Admin/Sprint 4/FCSCMS-122/Edit User_Cancel Edit_Yes")): Object: 'Object Repository/Admin/Sprint 4/FCSCMS-122/Edit User_Cancel Edit_Yes' is clicked on
+
+2022-04-29 20:29:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Admin/Sprint 4/FCSCMS-122/Edit User_Cancel Edit_Yes' is clicked on
+
+2022-04-29 20:29:08 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sprint 3/FCSCMS-58/FCSCMS-407,462/search result - anon user")): Object 'Object Repository/Sprint 3/FCSCMS-58/FCSCMS-407,462/search result - anon user' is visible
+
+2022-04-29 20:29:38 - [MESSAGE][PASSED] - Object 'Object Repository/Sprint 3/FCSCMS-58/FCSCMS-407,462/search result - anon user' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-04-29 20:25:46 - [TEST_SUITE][PASSED] - FCSCMS-122(User, Role and Access Management- View or Edit User): Test Cases/Sprint 4/FCSCMS-122/FCSCMS-477(Admin user is able to cancel edit user detail)]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

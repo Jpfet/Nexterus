@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FCSCMS-476(Admin user is able to click Cancel button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a578a6b-d1d9-4162-8f67-7364a6a0e9b4</testCaseGuid>
+</TestCaseEntity>

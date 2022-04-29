@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FCSCMS-477(Admin user is able to cancel edit user detail)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8b714e8-740a-4c1c-a9db-ebe088352e0a</testCaseGuid>
+</TestCaseEntity>

@@ -17,8 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/User Account Management'))
-
 WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/Advanced Search button'))
 
 WebUI.setText(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/User Login Name field'), 'anonymous')
@@ -54,11 +52,7 @@ WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/se
 
 WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/search result- anonymous'))
 
-WebUI.delay(2)
-
 WebUI.verifyElementNotVisible(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/Search result_Inactive'))
 
 WebUI.verifyElementNotVisible(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-408, 409/Search result_System Administrator'))
-
-WebUI.delay(2)
 

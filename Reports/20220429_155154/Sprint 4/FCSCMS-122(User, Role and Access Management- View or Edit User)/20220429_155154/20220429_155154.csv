@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+"FCSCMS-122(User, Role and Access Management- View or Edit User)",Chrome 100.0.4896.127,,,2022-04-29 15:52:00,2022-04-29 15:53:23,1m - 22.985s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-122/FCSCMS-472(Admin user is able to log in using valid credentials),Chrome 100.0.4896.127,,,2022-04-29 15:52:01,2022-04-29 15:52:14,13.162s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-29 15:52:02,2022-04-29 15:52:06,4.578s,PASSED
+"navigateToUrl(""https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-29 15:52:06,2022-04-29 15:52:09,2.309s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-29 15:52:09,2022-04-29 15:52:09,0.219s,PASSED
+delay(1),Chrome 100.0.4896.127,,,2022-04-29 15:52:09,2022-04-29 15:52:10,1.079s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-29 15:52:10,2022-04-29 15:52:12,2.359s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-29 15:52:12,2022-04-29 15:52:13,1.013s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-29 15:52:13,2022-04-29 15:52:14,0.676s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-122/FCSCMS-473(User is able to click User and Account Management option from the left navigation panel),Chrome 100.0.4896.127,,,2022-04-29 15:52:14,2022-04-29 15:52:21,6.670s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-29 15:52:15,2022-04-29 15:52:21,5.861s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-122/FCSCMS-474(Admin is able to edit User details),Chrome 100.0.4896.127,,,2022-04-29 15:52:21,2022-04-29 15:53:23,1m - 2.507s,FAILED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit button_ANONYMOUS USER""))",Chrome 100.0.4896.127,,,2022-04-29 15:52:22,2022-04-29 15:52:53,30.435s,PASSED
+"setText(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit button_ANONYMOUS USER""), ""Anon User"")",Chrome 100.0.4896.127,,,2022-04-29 15:52:53,2022-04-29 15:53:23,30.475s,FAILED

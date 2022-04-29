@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FCSCMS-143(User, Role and Access Management- Export Privilege Group Grid)" time="171.992" tests="2" failures="0" errors="1">
+   <testsuite name="FCSCMS-143(User, Role and Access Management- Export Privilege Group Grid)" tests="2" failures="0" errors="1" time="171.992" skipped="0" timestamp="2022-04-29 13:32:14" hostname="Fet - DESKTOP-Q81B6T4" id="Test Suites/Sprint 3/FCSCMS-143(User, Role and Access Management- Export Privilege Group Grid)">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Fet\\git\\Sample - Nexterus\\Reports\\20220429_133208\\Sprint 3\\FCSCMS-143(User, Role and Access Management- Export Privilege Group Grid)\\20220429_133208"/>
+         <property name="logFiles" value="C:\\Users\\Fet\\git\\Sample - Nexterus\\Reports\\20220429_133208\\Sprint 3\\FCSCMS-143(User, Role and Access Management- Export Privilege Group Grid)\\20220429_133208\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Fet - DESKTOP-Q81B6T4"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.0.208"/>
+         <property name="browser" value="Chrome 100.0.4896.127"/>
+         <property name="hostAddress" value="192.168.5.82"/>
+         <property name="sessionId" value="ec891298e4944b231e47226e81336d86"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Log-in/Log-in- 1" time="14.024" classname="Test Cases/Log-in/Log-in- 1" status="PASSED">
+         <system-out><![CDATA[2022-04-29 13:32:14 - [TEST_CASE][PASSED] - Test Cases/Log-in/Log-in- 1: Test Cases/Log-in/Log-in- 1
+
+2022-04-29 13:32:15 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-04-29 13:32:16 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-04-29 13:32:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-04-29 13:32:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-04-29 13:32:20 - [TEST_STEP][PASSED] - navigateToUrl("https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"): Navigate to 'https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login' successfully
+
+2022-04-29 13:32:22 - [MESSAGE][PASSED] - Navigate to 'https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login' successfully
+
+2022-04-29 13:32:22 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-04-29 13:32:23 - [MESSAGE][PASSED] - Current window maximized
+
+2022-04-29 13:32:23 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-04-29 13:32:24 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-04-29 13:32:24 - [TEST_STEP][PASSED] - setText(findTestObject("001-Log-in/Username field"), "admin"): Text 'admin' is set on object 'Object Repository/001-Log-in/Username field'
+
+2022-04-29 13:32:26 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/001-Log-in/Username field'
+
+2022-04-29 13:32:26 - [TEST_STEP][PASSED] - setText(findTestObject("001-Log-in/Password field"), "admin"): Text 'admin' is set on object 'Object Repository/001-Log-in/Password field'
+
+2022-04-29 13:32:28 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/001-Log-in/Password field'
+
+2022-04-29 13:32:28 - [TEST_STEP][PASSED] - click(findTestObject("001-Log-in/Log-in button"), STOP_ON_FAILURE): Object: 'Object Repository/001-Log-in/Log-in button' is clicked on
+
+2022-04-29 13:32:28 - [MESSAGE][PASSED] - Object: 'Object Repository/001-Log-in/Log-in button' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 3/FCSCMS-143/FCSCMS-419" time="157.277" classname="Test Cases/Sprint 3/FCSCMS-143/FCSCMS-419" status="ERROR">
+         <error type="ERROR" message="Test Cases/Sprint 3/FCSCMS-143/FCSCMS-419 FAILED.
+Reason:
+java.lang.NullPointerException: Cannot get property 'length' on null object
+	at verify_downloaded_file.verifydownloadfile.isFileDownloaded(verifydownloadfile.groovy:35)
+	at verify_downloaded_file.verifydownloadfile.invokeMethod(verifydownloadfile.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at FCSCMS-419.run(FCSCMS-419:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:445)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:436)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:415)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:407)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:284)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1651210328077.run(TempTestSuite1651210328077.groovy:36)
+"/>
+         <system-out><![CDATA[2022-04-29 13:32:28 - [TEST_CASE][ERROR] - Test Cases/Sprint 3/FCSCMS-143/FCSCMS-419: Test Cases/Sprint 3/FCSCMS-143/FCSCMS-419 FAILED.
+Reason:
+java.lang.NullPointerException: Cannot get property 'length' on null object
+	at verify_downloaded_file.verifydownloadfile.isFileDownloaded(verifydownloadfile.groovy:35)
+	at verify_downloaded_file.verifydownloadfile.invokeMethod(verifydownloadfile.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at FCSCMS-419.run(FCSCMS-419:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:445)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:436)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:415)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:407)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:284)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1651210328077.run(TempTestSuite1651210328077.groovy:36)
+
+
+2022-04-29 13:32:29 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-143/FCSCMS-419/a_Privilege Group Management")): Object: 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-419/a_Privilege Group Management' is clicked on
+
+2022-04-29 13:33:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-419/a_Privilege Group Management' is clicked on
+
+2022-04-29 13:33:04 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-143/FCSCMS-419/PVM_XLS Download button")): Object: 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-419/PVM_XLS Download button' is clicked on
+
+2022-04-29 13:33:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-419/PVM_XLS Download button' is clicked on
+
+2022-04-29 13:33:35 - [TEST_STEP][PASSED] - setText(findTestObject("Sprint 3/FCSCMS-143/FCSCMS-419/PVM_File name field"), "Fet2 download file"): Text 'Fet2 download file' is set on object 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-419/PVM_File name field'
+
+2022-04-29 13:34:35 - [MESSAGE][PASSED] - Text 'Fet2 download file' is set on object 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-419/PVM_File name field'
+
+2022-04-29 13:34:35 - [TEST_STEP][PASSED] - click(findTestObject("Sprint 3/FCSCMS-143/FCSCMS-419/PVM_Download")): Object: 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-419/PVM_Download' is clicked on
+
+2022-04-29 13:35:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Sprint 3/FCSCMS-143/FCSCMS-419/PVM_Download' is clicked on
+
+2022-04-29 13:35:05 - [TEST_STEP][ERROR] - verify_downloaded_file.verifydownloadfile.isFileDownloaded("Downloads", "Fet2 download file"): Test Cases/Sprint 3/FCSCMS-143/FCSCMS-419 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepErrorException: java.lang.NullPointerException: Cannot get property 'length' on null object
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.throwError(CustomKeywordDelegatingMetaClass.java:96)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:68)
+	at FCSCMS-419.run(FCSCMS-419:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:445)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:436)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:415)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:407)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:284)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1651210328077.run(TempTestSuite1651210328077.groovy:36)
+Caused by: java.lang.NullPointerException: Cannot get property 'length' on null object
+	at verify_downloaded_file.verifydownloadfile.isFileDownloaded(verifydownloadfile.groovy:35)
+	at verify_downloaded_file.verifydownloadfile.invokeMethod(verifydownloadfile.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	... 14 more
+
+
+2022-04-29 13:35:06 - [MESSAGE][ERROR] - Cannot get property 'length' on null object
+
+2022-04-29 13:35:06 - [MESSAGE][ERROR] - Test Cases/Sprint 3/FCSCMS-143/FCSCMS-419 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepErrorException: java.lang.NullPointerException: Cannot get property 'length' on null object
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.throwError(CustomKeywordDelegatingMetaClass.java:96)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:68)
+	at FCSCMS-419.run(FCSCMS-419:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:445)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:436)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:415)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:407)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:284)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1651210328077.run(TempTestSuite1651210328077.groovy:36)
+Caused by: java.lang.NullPointerException: Cannot get property 'length' on null object
+	at verify_downloaded_file.verifydownloadfile.isFileDownloaded(verifydownloadfile.groovy:35)
+	at verify_downloaded_file.verifydownloadfile.invokeMethod(verifydownloadfile.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	... 14 more]]></system-out>
+         <system-err><![CDATA[2022-04-29 13:32:28 - [TEST_CASE][ERROR] - Test Cases/Sprint 3/FCSCMS-143/FCSCMS-419: Test Cases/Sprint 3/FCSCMS-143/FCSCMS-419 FAILED.
+Reason:
+java.lang.NullPointerException: Cannot get property 'length' on null object
+	at verify_downloaded_file.verifydownloadfile.isFileDownloaded(verifydownloadfile.groovy:35)
+	at verify_downloaded_file.verifydownloadfile.invokeMethod(verifydownloadfile.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at FCSCMS-419.run(FCSCMS-419:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:445)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:436)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:415)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:407)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:284)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1651210328077.run(TempTestSuite1651210328077.groovy:36)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-04-29 13:32:14 - [TEST_SUITE][ERROR] - FCSCMS-143(User, Role and Access Management- Export Privilege Group Grid): Test Cases/Sprint 3/FCSCMS-143/FCSCMS-419 FAILED.
+Reason:
+java.lang.NullPointerException: Cannot get property 'length' on null object
+	at verify_downloaded_file.verifydownloadfile.isFileDownloaded(verifydownloadfile.groovy:35)
+	at verify_downloaded_file.verifydownloadfile.invokeMethod(verifydownloadfile.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at FCSCMS-419.run(FCSCMS-419:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:445)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:436)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:415)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:407)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:284)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1651210328077.run(TempTestSuite1651210328077.groovy:36)]]></system-out>
+      <system-err><![CDATA[2022-04-29 13:32:14 - [TEST_SUITE][ERROR] - FCSCMS-143(User, Role and Access Management- Export Privilege Group Grid): Test Cases/Sprint 3/FCSCMS-143/FCSCMS-419 FAILED.
+Reason:
+java.lang.NullPointerException: Cannot get property 'length' on null object
+	at verify_downloaded_file.verifydownloadfile.isFileDownloaded(verifydownloadfile.groovy:35)
+	at verify_downloaded_file.verifydownloadfile.invokeMethod(verifydownloadfile.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at FCSCMS-419.run(FCSCMS-419:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:445)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:436)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:415)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:407)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:284)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1651210328077.run(TempTestSuite1651210328077.groovy:36)]]></system-err>
+   </testsuite>
+</testsuites>

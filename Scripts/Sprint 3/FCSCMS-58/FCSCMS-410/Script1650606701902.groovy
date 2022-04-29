@@ -17,8 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-407,462/User Account Management'))
-
 WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-410/Add New User'))
 
 WebUI.setText(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-410/Create User_User Login Name'), 'fet4')
@@ -62,6 +60,4 @@ WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-410/Create User_Save'))
 WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-410/Create_User_Confirmation_Yes'))
 
 WebUI.verifyTextPresent('fet4@mailinator.com', false)
-
-WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 

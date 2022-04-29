@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Edit User_City_Abington</name>
+   <tag></tag>
+   <elementGuidId>b3f6f972-ad4a-424d-93d0-a4a31ba5035e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>xpath1651216468893</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;choices--b32-b2-DropdownSelect-item-choice-6&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>081af7c5-54c9-4dcc-a723-486e80aa3674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1651216468893</value>
+      <webElementGuid>4b28a4e5-ca59-49e3-aa20-b0847a758e7c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

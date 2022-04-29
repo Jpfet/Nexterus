@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-422,Chrome 100.0.4896.127,User should be able to logged out from the App,,2022-04-27 21:24:09,2022-04-27 21:25:40,1m - 31.207s,PASSED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-27 21:24:10,2022-04-27 21:24:24,14.453s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-27 21:24:11,2022-04-27 21:24:16,5.066s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-27 21:24:16,2022-04-27 21:24:19,2.680s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-27 21:24:19,2022-04-27 21:24:19,0.261s,PASSED
+delay(1),Chrome 100.0.4896.127,,,2022-04-27 21:24:19,2022-04-27 21:24:20,1.113s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-27 21:24:20,2022-04-27 21:24:23,2.765s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-27 21:24:23,2022-04-27 21:24:24,0.986s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-27 21:24:24,2022-04-27 21:24:24,0.601s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-230/FCSCMS-422,Chrome 100.0.4896.127,User should be able to logged out from the App,,2022-04-27 21:24:24,2022-04-27 21:25:40,1m - 16.041s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-27 21:24:25,2022-04-27 21:24:28,2.782s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-27 21:24:28,2022-04-27 21:24:30,2.172s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-27 21:24:30,2022-04-27 21:24:31,0.252s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-27 21:24:31,2022-04-27 21:24:33,2.021s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""test2"")",Chrome 100.0.4896.127,,,2022-04-27 21:24:33,2022-04-27 21:24:34,1.179s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""12345"")",Chrome 100.0.4896.127,,,2022-04-27 21:24:34,2022-04-27 21:24:35,0.933s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-27 21:24:35,2022-04-27 21:24:35,0.627s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-230/FCSCMS-422/Profile settings dropdown""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-27 21:24:35,2022-04-27 21:25:10,34.524s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-230/FCSCMS-422/Log-out button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-27 21:25:10,2022-04-27 21:25:40,30.353s,PASSED

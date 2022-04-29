@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to logged out from the App</description>
+   <name>FCSCMS-422</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b825be3-4ad3-4b16-a6ad-923c077345b8</testCaseGuid>
+</TestCaseEntity>

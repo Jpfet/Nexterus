@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is able to export previleges group grid</description>
+   <name>FCSCMS-419</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed523e86-432d-4ce4-9bc3-17e25ec4c6ed</testCaseGuid>
+</TestCaseEntity>

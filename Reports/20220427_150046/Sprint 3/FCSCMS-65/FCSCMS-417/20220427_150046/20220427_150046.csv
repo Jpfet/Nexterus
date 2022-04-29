@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-417,Chrome 100.0.4896.127,User should be if the user want to cancel the user creation,,2022-04-27 15:00:55,2022-04-27 15:04:50,3m - 55.389s,PASSED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-27 15:00:55,2022-04-27 15:01:12,16.209s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-27 15:00:57,2022-04-27 15:01:02,4.751s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-27 15:01:02,2022-04-27 15:01:05,2.618s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-27 15:01:05,2022-04-27 15:01:05,0.223s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-27 15:01:05,2022-04-27 15:01:07,2.093s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-27 15:01:07,2022-04-27 15:01:10,2.926s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-27 15:01:10,2022-04-27 15:01:11,1.042s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-27 15:01:11,2022-04-27 15:01:12,0.722s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-65/FCSCMS-417,Chrome 100.0.4896.127,User should be if the user want to cancel the user creation,,2022-04-27 15:01:12,2022-04-27 15:04:50,3m - 38.341s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-27 15:01:13,2022-04-27 15:01:47,34.329s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-410/Add New User""))",Chrome 100.0.4896.127,,,2022-04-27 15:01:47,2022-04-27 15:02:18,30.483s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-65/FCSCMS-417/Create User_User Login Name""), ""Cancel User test"")",Chrome 100.0.4896.127,,,2022-04-27 15:02:18,2022-04-27 15:03:18,1m - 0.714s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-65/FCSCMS-417/Cancel button""))",Chrome 100.0.4896.127,,,2022-04-27 15:03:18,2022-04-27 15:03:49,30.281s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-65/FCSCMS-417/Cancel new user_Yes""))",Chrome 100.0.4896.127,,,2022-04-27 15:03:49,2022-04-27 15:04:19,30.331s,PASSED
+"verifyTextNotPresent(""Cancel User test"", false)",Chrome 100.0.4896.127,,,2022-04-27 15:04:19,2022-04-27 15:04:50,31.068s,PASSED

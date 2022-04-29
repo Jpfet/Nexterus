@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Edit User_Country</name>
+   <tag></tag>
+   <elementGuidId>dec6d439-dba8-4a50-9c2b-ef12948afc46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b32-Country2']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b32-Country2 > div.choices > div.choices__inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>98e9d059-ba5d-446b-99c3-3fae0d36baf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choices__inner</value>
+      <webElementGuid>ae9fbbf0-bc09-49c2-8443-614ad7413e13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select
+        Select
+      </value>
+      <webElementGuid>90fa4094-c6fb-46e6-a5aa-4ea3422c0745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b32-Country2&quot;)/div[@class=&quot;choices&quot;]/div[@class=&quot;choices__inner&quot;]</value>
+      <webElementGuid>bde56b02-f683-43b0-ab44-a9c350fa15c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b32-Country2']/div/div</value>
+      <webElementGuid>4dc84ecd-0ecc-4783-9411-97ec251ddb1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::div[3]</value>
+      <webElementGuid>9743873b-7976-4068-b122-f7413a13f985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A0A 1C0'])[1]/following::div[5]</value>
+      <webElementGuid>c73252d2-899d-4330-81fb-ff28400bf3c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[12]/preceding::div[4]</value>
+      <webElementGuid>3cfc8c10-ab43-46e0-b401-9800c8e80e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>1efa271d-1c01-4cd6-8926-12bf8066cdf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select
+        Select
+      ' or . = 'Select
+        Select
+      ')]</value>
+      <webElementGuid>e0cb5908-58a6-4d21-9bd7-9c06e39f62cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

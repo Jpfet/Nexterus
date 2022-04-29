@@ -17,8 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Sprint 3/FCSCMS-65/FCSCMS-463/User Account Management'))
-
 WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-410/Add New User'))
 
 WebUI.click(findTestObject('Sprint 3/FCSCMS-65/FCSCMS-463/Create User_Save'))

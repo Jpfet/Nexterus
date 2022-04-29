@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+"FCSCMS-122(User, Role and Access Management- View or Edit User)",Chrome 100.0.4896.127,,,2022-04-29 19:49:30,2022-04-29 19:52:24,2m - 53.960s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-122/FCSCMS-472(Admin user is able to log in using valid credentials),Chrome 100.0.4896.127,,,2022-04-29 19:49:30,2022-04-29 19:49:45,14.989s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-29 19:49:31,2022-04-29 19:49:37,5.396s,PASSED
+"navigateToUrl(""https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-29 19:49:37,2022-04-29 19:49:39,2.391s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-29 19:49:39,2022-04-29 19:49:39,0.300s,PASSED
+delay(1),Chrome 100.0.4896.127,,,2022-04-29 19:49:39,2022-04-29 19:49:41,1.081s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-29 19:49:41,2022-04-29 19:49:44,3.162s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-29 19:49:44,2022-04-29 19:49:45,1.029s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-29 19:49:45,2022-04-29 19:49:45,0.677s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-122/FCSCMS-476(Admin user is able to click Cancel button),Chrome 100.0.4896.127,,,2022-04-29 19:49:45,2022-04-29 19:52:24,2m - 38.282s,FAILED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-29 19:49:46,2022-04-29 19:50:22,35.758s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit button_ANONYMOUS USER""))",Chrome 100.0.4896.127,,,2022-04-29 19:50:22,2022-04-29 19:50:53,30.433s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit User_Cancel""))",Chrome 100.0.4896.127,,,2022-04-29 19:50:53,2022-04-29 19:51:23,30.376s,PASSED
+"verifyElementVisible(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit User_Cancel_Confirmation message""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-29 19:51:23,2022-04-29 19:52:24,1m - 0.732s,FAILED

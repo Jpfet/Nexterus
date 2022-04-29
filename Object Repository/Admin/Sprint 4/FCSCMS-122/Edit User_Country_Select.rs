@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Edit User_Country_Select</name>
+   <tag></tag>
+   <elementGuidId>49ce9587-7a60-40ab-bf16-2afe75eff291</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;choices--b32-b6-DropdownSelect-item-choice-4&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>8717c3f1-f2f7-4b09-b315-66710f4b1659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1651220792530</value>
+      <webElementGuid>f3e2fecc-6176-4d6c-ab51-a95f9b4d313a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FCSCMS-419,Chrome 100.0.4896.127,User is able to export previleges group grid,,2022-04-27 17:59:44,2022-04-27 18:02:41,2m - 56.878s,PASSED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-04-27 17:59:45,2022-04-27 17:59:59,13.969s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-27 17:59:46,2022-04-27 17:59:50,4.834s,PASSED
+"navigateToUrl(""https://nexterus-tst.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-27 17:59:50,2022-04-27 17:59:53,2.294s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-27 17:59:53,2022-04-27 17:59:53,0.275s,PASSED
+delay(2),Chrome 100.0.4896.127,,,2022-04-27 17:59:53,2022-04-27 17:59:55,2.144s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-27 17:59:55,2022-04-27 17:59:57,1.824s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-27 17:59:57,2022-04-27 17:59:58,1.035s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-27 17:59:58,2022-04-27 17:59:59,0.640s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/FCSCMS-143/FCSCMS-419,Chrome 100.0.4896.127,User is able to export previleges group grid,,2022-04-27 17:59:59,2022-04-27 18:02:41,2m - 42.246s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-143/FCSCMS-419/a_Privilege Group Management""))",Chrome 100.0.4896.127,,,2022-04-27 18:00:00,2022-04-27 18:00:39,39.671s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-143/FCSCMS-419/PVM_XLS Download button""))",Chrome 100.0.4896.127,,,2022-04-27 18:00:39,2022-04-27 18:01:10,30.425s,PASSED
+"setText(findTestObject(""Sprint 3/FCSCMS-143/FCSCMS-419/PVM_File name field""), ""Fet download file"")",Chrome 100.0.4896.127,,,2022-04-27 18:01:10,2022-04-27 18:02:10,1m - 0.497s,PASSED
+"click(findTestObject(""Sprint 3/FCSCMS-143/FCSCMS-419/PVM_Download""))",Chrome 100.0.4896.127,,,2022-04-27 18:02:10,2022-04-27 18:02:41,30.333s,PASSED
+"verify_downloaded_file.verifydownloadfile.isFileDownloaded("""", ""Fet download file"")",Chrome 100.0.4896.127,,,2022-04-27 18:02:41,2022-04-27 18:02:41,0.157s,PASSED

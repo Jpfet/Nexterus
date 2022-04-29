@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Edit User_State</name>
+   <tag></tag>
+   <elementGuidId>74f6a7c0-e97b-432e-962a-bc89451578f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b32-state2']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b32-state2 > div.choices > div.choices__inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>93afa431-ab0d-4164-a407-3f930c5f34b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choices__inner</value>
+      <webElementGuid>8c692a1b-0967-4209-a766-469d938965d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select
+        Select
+      </value>
+      <webElementGuid>3b068d4c-7d8c-48f1-9659-bbbd4c4d309d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b32-state2&quot;)/div[@class=&quot;choices&quot;]/div[@class=&quot;choices__inner&quot;]</value>
+      <webElementGuid>f6847db0-38bf-4c09-a7b9-273fd09ba03d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b32-state2']/div/div</value>
+      <webElementGuid>63e5aa56-2036-4bf9-bd0c-59325026ef8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::div[3]</value>
+      <webElementGuid>375e9d46-5344-491a-83ea-7837703008f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='York Harbor'])[1]/following::div[5]</value>
+      <webElementGuid>ed2cc28c-ae9a-4b4f-9176-06ad61f9137c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[6]/preceding::div[4]</value>
+      <webElementGuid>e65e6a2a-e1c6-4159-af79-dbb2ff89226e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>32d67766-09ff-41a6-afab-7282bc298fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select
+        Select
+      ' or . = 'Select
+        Select
+      ')]</value>
+      <webElementGuid>a27426ea-2e52-4865-91cb-dab26f886d0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

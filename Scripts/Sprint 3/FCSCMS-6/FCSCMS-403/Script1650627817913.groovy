@@ -17,21 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/a_Privilege Group Management'))
+WebUI.click(findTestObject('Sprint 3/FCSCMS-6/FCSCMS-403/a_Privilege Group Management'))
 
-WebUI.click(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Activate button(fet automation)'))
+WebUI.click(findTestObject('Sprint 3/FCSCMS-6/FCSCMS-403/Activate button(fet automation)'))
 
-WebUI.click(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Activate_Yes button'))
+WebUI.click(findTestObject('Sprint 3/FCSCMS-6/FCSCMS-403/Activate_Yes button'))
 
-WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Status_Active'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-6/FCSCMS-403/Status_Active'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Status_Active'), 'Active', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('Sprint 3/FCSCMS-6/FCSCMS-403/Status_Active'), 'Active', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Deactivate button(fet automation)'))
+WebUI.click(findTestObject('Sprint 3/FCSCMS-6/FCSCMS-403/Deactivate button(fet automation)'))
 
-WebUI.click(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Deactivate_Yes button'))
+WebUI.click(findTestObject('Sprint 3/FCSCMS-6/FCSCMS-403/Deactivate_Yes button'))
 
-WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Status_Inactive'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Sprint 3/FCSCMS-6/FCSCMS-403/Status_Inactive'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Sprint 3/FCSCMS-403/FCSCMS-403/Status_Inactive'), 'Inactive', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('Sprint 3/FCSCMS-6/FCSCMS-403/Status_Inactive'), 'Inactive', FailureHandling.CONTINUE_ON_FAILURE)
 

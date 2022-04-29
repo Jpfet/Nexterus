@@ -63,5 +63,3 @@ WebUI.click(findTestObject('Sprint 3/FCSCMS-58/FCSCMS-410/Create_User_Confirmati
 
 WebUI.verifyTextPresent('fet5@mailinator.com', false)
 
-WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
-

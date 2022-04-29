@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+"FCSCMS-122(User, Role and Access Management- View or Edit User)",Chrome 100.0.4896.127,,,2022-04-29 20:25:46,2022-04-29 20:29:38,3m - 52.361s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-122/FCSCMS-472(Admin user is able to log in using valid credentials),Chrome 100.0.4896.127,,,2022-04-29 20:25:46,2022-04-29 20:26:00,13.558s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-29 20:25:47,2022-04-29 20:25:52,4.217s,PASSED
+"navigateToUrl(""https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-04-29 20:25:52,2022-04-29 20:25:54,2.627s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-29 20:25:54,2022-04-29 20:25:54,0.214s,PASSED
+delay(1),Chrome 100.0.4896.127,,,2022-04-29 20:25:54,2022-04-29 20:25:55,1.088s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-29 20:25:55,2022-04-29 20:25:58,2.855s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-04-29 20:25:58,2022-04-29 20:25:59,0.961s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-04-29 20:25:59,2022-04-29 20:26:00,0.650s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-122/FCSCMS-477(Admin user is able to cancel edit user detail),Chrome 100.0.4896.127,,,2022-04-29 20:26:00,2022-04-29 20:29:38,3m - 38.173s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/User Account Management""))",Chrome 100.0.4896.127,,,2022-04-29 20:26:01,2022-04-29 20:26:36,35.135s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit button_ANONYMOUS USER""))",Chrome 100.0.4896.127,,,2022-04-29 20:26:36,2022-04-29 20:27:06,30.468s,PASSED
+"setText(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit User_User Name""), ""User Cancel edit assertion"")",Chrome 100.0.4896.127,,,2022-04-29 20:27:06,2022-04-29 20:28:07,1m - 0.738s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit User_Cancel""))",Chrome 100.0.4896.127,,,2022-04-29 20:28:07,2022-04-29 20:28:37,30.292s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit User_Cancel Edit_Yes""))",Chrome 100.0.4896.127,,,2022-04-29 20:28:37,2022-04-29 20:29:08,30.391s,PASSED
+"verifyElementVisible(findTestObject(""Sprint 3/FCSCMS-58/FCSCMS-407,462/search result - anon user""))",Chrome 100.0.4896.127,,,2022-04-29 20:29:08,2022-04-29 20:29:38,30.315s,PASSED
