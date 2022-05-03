@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FCSCMS-620(Admin user is able to click Lock checkbox button in Edit page)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88419fe5-7d77-49d6-b951-51c6d63328f3</testCaseGuid>
+</TestCaseEntity>

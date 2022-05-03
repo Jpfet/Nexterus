@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FCSCMS-622(Admin is able to lock a User)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5eb53dc8-b4e4-4681-b336-e8c4d68146f2</testCaseGuid>
+</TestCaseEntity>

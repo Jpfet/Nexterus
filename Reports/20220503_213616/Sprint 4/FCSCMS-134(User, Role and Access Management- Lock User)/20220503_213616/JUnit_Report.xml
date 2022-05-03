@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FCSCMS-134(User, Role and Access Management- Lock User)" time="398.533" tests="7" failures="0" errors="0">
+   <testsuite name="FCSCMS-134(User, Role and Access Management- Lock User)" tests="7" failures="0" errors="0" time="398.533" skipped="0" timestamp="2022-05-03 21:36:21" hostname="Fet - DESKTOP-Q81B6T4" id="Test Suites/Sprint 4/FCSCMS-134(User, Role and Access Management- Lock User)">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Fet\\git\\Sample - Nexterus\\Reports\\20220503_213616\\Sprint 4\\FCSCMS-134(User, Role and Access Management- Lock User)\\20220503_213616"/>
+         <property name="logFiles" value="C:\\Users\\Fet\\git\\Sample - Nexterus\\Reports\\20220503_213616\\Sprint 4\\FCSCMS-134(User, Role and Access Management- Lock User)\\20220503_213616\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Fet - DESKTOP-Q81B6T4"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.0.208"/>
+         <property name="browser" value="Chrome 100.0.4896.127"/>
+         <property name="hostAddress" value="192.168.5.82"/>
+         <property name="sessionId" value="cdba14c69795ed589a015689ff6710f2"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Log-in/Log-in- 1" time="13.489" classname="Test Cases/Log-in/Log-in- 1" status="PASSED">
+         <system-out><![CDATA[2022-05-03 21:36:22 - [TEST_CASE][PASSED] - Test Cases/Log-in/Log-in- 1: Test Cases/Log-in/Log-in- 1
+
+2022-05-03 21:36:23 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-05-03 21:36:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-05-03 21:36:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-05-03 21:36:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-05-03 21:36:27 - [TEST_STEP][PASSED] - navigateToUrl("https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"): Navigate to 'https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login' successfully
+
+2022-05-03 21:36:30 - [MESSAGE][PASSED] - Navigate to 'https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login' successfully
+
+2022-05-03 21:36:30 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-05-03 21:36:30 - [MESSAGE][PASSED] - Current window maximized
+
+2022-05-03 21:36:30 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-03 21:36:31 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-03 21:36:31 - [TEST_STEP][PASSED] - setText(findTestObject("001-Log-in/Username field"), "admin"): Text 'admin' is set on object 'Object Repository/001-Log-in/Username field'
+
+2022-05-03 21:36:34 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/001-Log-in/Username field'
+
+2022-05-03 21:36:34 - [TEST_STEP][PASSED] - setText(findTestObject("001-Log-in/Password field"), "admin"): Text 'admin' is set on object 'Object Repository/001-Log-in/Password field'
+
+2022-05-03 21:36:35 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/001-Log-in/Password field'
+
+2022-05-03 21:36:35 - [TEST_STEP][PASSED] - click(findTestObject("001-Log-in/Log-in button"), STOP_ON_FAILURE): Object: 'Object Repository/001-Log-in/Log-in button' is clicked on
+
+2022-05-03 21:36:36 - [MESSAGE][PASSED] - Object: 'Object Repository/001-Log-in/Log-in button' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/FCSCMS-134/FCSCMS-617(Admin user is able to log in using valid credentials)" time="11.027" classname="Test Cases/Sprint 4/FCSCMS-134/FCSCMS-617(Admin user is able to log in using valid credentials)" status="PASSED">
+         <system-out><![CDATA[2022-05-03 21:36:36 - [TEST_CASE][PASSED] - Test Cases/Sprint 4/FCSCMS-134/FCSCMS-617(Admin user is able to log in using valid credentials): Test Cases/Sprint 4/FCSCMS-134/FCSCMS-617(Admin user is able to log in using valid credentials)
+
+2022-05-03 21:36:36 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-05-03 21:36:36 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-05-03 21:36:37 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-05-03 21:36:37 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-05-03 21:36:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-05-03 21:36:39 - [TEST_STEP][PASSED] - navigateToUrl("https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"): Navigate to 'https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login' successfully
+
+2022-05-03 21:36:41 - [MESSAGE][PASSED] - Navigate to 'https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login' successfully
+
+2022-05-03 21:36:41 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-05-03 21:36:41 - [MESSAGE][PASSED] - Current window maximized
+
+2022-05-03 21:36:41 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-03 21:36:43 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-03 21:36:43 - [TEST_STEP][PASSED] - setText(findTestObject("001-Log-in/Username field"), "admin"): Text 'admin' is set on object 'Object Repository/001-Log-in/Username field'
+
+2022-05-03 21:36:45 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/001-Log-in/Username field'
+
+2022-05-03 21:36:45 - [TEST_STEP][PASSED] - setText(findTestObject("001-Log-in/Password field"), "admin"): Text 'admin' is set on object 'Object Repository/001-Log-in/Password field'
+
+2022-05-03 21:36:46 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/001-Log-in/Password field'
+
+2022-05-03 21:36:46 - [TEST_STEP][PASSED] - click(findTestObject("001-Log-in/Log-in button"), STOP_ON_FAILURE): Object: 'Object Repository/001-Log-in/Log-in button' is clicked on
+
+2022-05-03 21:36:47 - [MESSAGE][PASSED] - Object: 'Object Repository/001-Log-in/Log-in button' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/FCSCMS-134/FCSCMS-618(User is able to click User and Account Management option from the left navigation panel)" time="35.438" classname="Test Cases/Sprint 4/FCSCMS-134/FCSCMS-618(User is able to click User and Account Management option from the left navigation panel)" status="PASSED">
+         <system-out><![CDATA[2022-05-03 21:36:47 - [TEST_CASE][PASSED] - Test Cases/Sprint 4/FCSCMS-134/FCSCMS-618(User is able to click User and Account Management option from the left navigation panel): Test Cases/Sprint 4/FCSCMS-134/FCSCMS-618(User is able to click User and Account Management option from the left navigation panel)
+
+2022-05-03 21:36:48 - [TEST_STEP][PASSED] - click(findTestObject("Admin/Sprint 4/FCSCMS-122/User Account Management")): Object: 'Object Repository/Admin/Sprint 4/FCSCMS-122/User Account Management' is clicked on
+
+2022-05-03 21:37:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Admin/Sprint 4/FCSCMS-122/User Account Management' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/FCSCMS-134/FCSCMS-619(Admin user is able to click Edit button)" time="31.247" classname="Test Cases/Sprint 4/FCSCMS-134/FCSCMS-619(Admin user is able to click Edit button)" status="PASSED">
+         <system-out><![CDATA[2022-05-03 21:37:22 - [TEST_CASE][PASSED] - Test Cases/Sprint 4/FCSCMS-134/FCSCMS-619(Admin user is able to click Edit button): Test Cases/Sprint 4/FCSCMS-134/FCSCMS-619(Admin user is able to click Edit button)
+
+2022-05-03 21:37:23 - [TEST_STEP][PASSED] - click(findTestObject("Admin/Sprint 4/FCSCMS-134/Edit button_fet automation")): Object: 'Object Repository/Admin/Sprint 4/FCSCMS-134/Edit button_fet automation' is clicked on
+
+2022-05-03 21:37:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Admin/Sprint 4/FCSCMS-134/Edit button_fet automation' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/FCSCMS-134/FCSCMS-620(Admin user is able to click Lock checkbox button in Edit page)" time="62.46" classname="Test Cases/Sprint 4/FCSCMS-134/FCSCMS-620(Admin user is able to click Lock checkbox button in Edit page)" status="PASSED">
+         <system-out><![CDATA[2022-05-03 21:37:53 - [TEST_CASE][PASSED] - Test Cases/Sprint 4/FCSCMS-134/FCSCMS-620(Admin user is able to click Lock checkbox button in Edit page): Test Cases/Sprint 4/FCSCMS-134/FCSCMS-620(Admin user is able to click Lock checkbox button in Edit page)
+
+2022-05-03 21:37:54 - [TEST_STEP][PASSED] - click(findTestObject("Admin/Sprint 4/FCSCMS-134/User Access Checkbox")): Object: 'Object Repository/Admin/Sprint 4/FCSCMS-134/User Access Checkbox' is clicked on
+
+2022-05-03 21:38:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Admin/Sprint 4/FCSCMS-134/User Access Checkbox' is clicked on
+
+2022-05-03 21:38:24 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-03 21:38:25 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-03 21:38:25 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Admin/Sprint 4/FCSCMS-134/User Access_Lock_Confirmation message"), STOP_ON_FAILURE): Object 'Object Repository/Admin/Sprint 4/FCSCMS-134/User Access_Lock_Confirmation message' is visible
+
+2022-05-03 21:38:56 - [MESSAGE][PASSED] - Object 'Object Repository/Admin/Sprint 4/FCSCMS-134/User Access_Lock_Confirmation message' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/FCSCMS-134/FCSCMS-621(Admin is able to cancel the process)" time="122.115" classname="Test Cases/Sprint 4/FCSCMS-134/FCSCMS-621(Admin is able to cancel the process)" status="PASSED">
+         <system-out><![CDATA[2022-05-03 21:38:56 - [TEST_CASE][PASSED] - Test Cases/Sprint 4/FCSCMS-134/FCSCMS-621(Admin is able to cancel the process): Test Cases/Sprint 4/FCSCMS-134/FCSCMS-621(Admin is able to cancel the process)
+
+2022-05-03 21:38:57 - [TEST_STEP][PASSED] - click(findTestObject("Admin/Sprint 4/FCSCMS-134/User access_lock_no")): Object: 'Object Repository/Admin/Sprint 4/FCSCMS-134/User access_lock_no' is clicked on
+
+2022-05-03 21:39:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Admin/Sprint 4/FCSCMS-134/User access_lock_no' is clicked on
+
+2022-05-03 21:39:27 - [TEST_STEP][PASSED] - click(findTestObject("Admin/Sprint 4/FCSCMS-122/Edit User_Save")): Object: 'Object Repository/Admin/Sprint 4/FCSCMS-122/Edit User_Save' is clicked on
+
+2022-05-03 21:39:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Admin/Sprint 4/FCSCMS-122/Edit User_Save' is clicked on
+
+2022-05-03 21:39:57 - [TEST_STEP][PASSED] - click(findTestObject("Admin/Sprint 4/FCSCMS-122/Edit User_Save_Yes")): Object: 'Object Repository/Admin/Sprint 4/FCSCMS-122/Edit User_Save_Yes' is clicked on
+
+2022-05-03 21:40:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Admin/Sprint 4/FCSCMS-122/Edit User_Save_Yes' is clicked on
+
+2022-05-03 21:40:28 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Admin/Sprint 4/FCSCMS-134/Verification_User Status_Unlocked")): Object 'Object Repository/Admin/Sprint 4/FCSCMS-134/Verification_User Status_Unlocked' is visible
+
+2022-05-03 21:40:58 - [MESSAGE][PASSED] - Object 'Object Repository/Admin/Sprint 4/FCSCMS-134/Verification_User Status_Unlocked' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/FCSCMS-134/FCSCMS-622(Admin is able to lock a User)" time="122.078" classname="Test Cases/Sprint 4/FCSCMS-134/FCSCMS-622(Admin is able to lock a User)" status="PASSED">
+         <system-out><![CDATA[2022-05-03 21:40:58 - [TEST_CASE][PASSED] - Test Cases/Sprint 4/FCSCMS-134/FCSCMS-622(Admin is able to lock a User): Test Cases/Sprint 4/FCSCMS-134/FCSCMS-622(Admin is able to lock a User)
+
+2022-05-03 21:40:59 - [TEST_STEP][PASSED] - click(findTestObject("Admin/Sprint 4/FCSCMS-134/Edit button_fet automation")): Object: 'Object Repository/Admin/Sprint 4/FCSCMS-134/Edit button_fet automation' is clicked on
+
+2022-05-03 21:41:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Admin/Sprint 4/FCSCMS-134/Edit button_fet automation' is clicked on
+
+2022-05-03 21:41:29 - [TEST_STEP][PASSED] - click(findTestObject("Admin/Sprint 4/FCSCMS-134/User Access Checkbox")): Object: 'Object Repository/Admin/Sprint 4/FCSCMS-134/User Access Checkbox' is clicked on
+
+2022-05-03 21:41:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Admin/Sprint 4/FCSCMS-134/User Access Checkbox' is clicked on
+
+2022-05-03 21:41:59 - [TEST_STEP][PASSED] - click(findTestObject("Admin/Sprint 4/FCSCMS-134/User access_lock_yes")): Object: 'Object Repository/Admin/Sprint 4/FCSCMS-134/User access_lock_yes' is clicked on
+
+2022-05-03 21:42:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Admin/Sprint 4/FCSCMS-134/User access_lock_yes' is clicked on
+
+2022-05-03 21:42:30 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Admin/Sprint 4/FCSCMS-134/Verification_User Status_Locked")): Object 'Object Repository/Admin/Sprint 4/FCSCMS-134/Verification_User Status_Locked' is visible
+
+2022-05-03 21:43:00 - [MESSAGE][PASSED] - Object 'Object Repository/Admin/Sprint 4/FCSCMS-134/Verification_User Status_Locked' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-05-03 21:36:21 - [TEST_SUITE][PASSED] - FCSCMS-134(User, Role and Access Management- Lock User): Test Cases/Sprint 4/FCSCMS-134/FCSCMS-622(Admin is able to lock a User)]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

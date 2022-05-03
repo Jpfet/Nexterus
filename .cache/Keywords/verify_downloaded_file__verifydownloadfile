@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "494F03EA5728C70DE5E7458F1CBD9848",
+  "keywordFileContentHash": "E2F6615033928F53AC3940ADFA0237CF",
   "keywordClasses": [
     {
       "name": "verify_downloaded_file.verifydownloadfile",
@@ -8,7 +8,7 @@
           "name": "isFileDownloaded",
           "parameters": [
             {
-              "name": "dir",
+              "name": "downloadPath",
               "initialExpression": "",
               "type": {
                 "fullClassName": "java.lang.String",
@@ -21,7 +21,7 @@
               }
             },
             {
-              "name": "filename",
+              "name": "fileName",
               "initialExpression": "",
               "type": {
                 "fullClassName": "java.lang.String",

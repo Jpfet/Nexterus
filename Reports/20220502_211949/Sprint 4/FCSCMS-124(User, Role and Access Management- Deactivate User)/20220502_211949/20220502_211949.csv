@@ -1,0 +1,41 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+"FCSCMS-124(User, Role and Access Management- Deactivate User)",Chrome 100.0.4896.127,,,2022-05-02 21:19:54,2022-05-02 21:27:37,7m - 43.364s,FAILED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-05-02 21:19:55,2022-05-02 21:20:07,12.886s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-05-02 21:19:56,2022-05-02 21:20:00,4.323s,PASSED
+"navigateToUrl(""https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-05-02 21:20:00,2022-05-02 21:20:02,2.281s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-05-02 21:20:02,2022-05-02 21:20:02,0.227s,PASSED
+delay(1),Chrome 100.0.4896.127,,,2022-05-02 21:20:02,2022-05-02 21:20:03,1.111s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-05-02 21:20:03,2022-05-02 21:20:06,2.336s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-05-02 21:20:06,2022-05-02 21:20:07,1.064s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-05-02 21:20:07,2022-05-02 21:20:07,0.622s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-124/FCSCMS-487(Admin user is able to log in using valid credentials),Chrome 100.0.4896.127,,,2022-05-02 21:20:08,2022-05-02 21:20:21,13.090s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-05-02 21:20:09,2022-05-02 21:20:12,3.023s,PASSED
+"navigateToUrl(""https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-05-02 21:20:12,2022-05-02 21:20:14,2.869s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-05-02 21:20:14,2022-05-02 21:20:15,0.205s,PASSED
+delay(1),Chrome 100.0.4896.127,,,2022-05-02 21:20:15,2022-05-02 21:20:16,1.029s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-05-02 21:20:16,2022-05-02 21:20:19,3.295s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-05-02 21:20:19,2022-05-02 21:20:20,1.061s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-05-02 21:20:20,2022-05-02 21:20:21,0.575s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-124/FCSCMS-488(User is able to click User and Account Management option from the left navigation panel),Chrome 100.0.4896.127,,,2022-05-02 21:20:21,2022-05-02 21:20:59,38.175s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/User Account Management""))",Chrome 100.0.4896.127,,,2022-05-02 21:20:21,2022-05-02 21:20:59,37.403s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-124/FCSCMS-489(Admin user is able to click Edit button),Chrome 100.0.4896.127,,,2022-05-02 21:20:59,2022-05-02 21:24:33,3m - 34.138s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-123/Edit button_ANONYMOUS USER""))",Chrome 100.0.4896.127,,,2022-05-02 21:21:01,2022-05-02 21:21:31,30.541s,PASSED
+"verifyElementVisible(findTestObject(""Admin/Sprint 4/FCSCMS-123/Edit User_User Name""))",Chrome 100.0.4896.127,,,2022-05-02 21:21:31,2022-05-02 21:22:01,30.265s,PASSED
+"verifyElementVisible(findTestObject(""Admin/Sprint 4/FCSCMS-123/Edit User_User Group""))",Chrome 100.0.4896.127,,,2022-05-02 21:22:01,2022-05-02 21:22:32,30.233s,PASSED
+"verifyElementVisible(findTestObject(""Admin/Sprint 4/FCSCMS-123/Edit User_Mobile Number field""))",Chrome 100.0.4896.127,,,2022-05-02 21:22:32,2022-05-02 21:23:02,30.387s,PASSED
+"verifyElementVisible(findTestObject(""Admin/Sprint 4/FCSCMS-123/Edit User_Email""))",Chrome 100.0.4896.127,,,2022-05-02 21:23:02,2022-05-02 21:23:32,30.214s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit User_Cancel""))",Chrome 100.0.4896.127,,,2022-05-02 21:23:32,2022-05-02 21:24:03,30.302s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/Edit User_Cancel Edit_Yes""))",Chrome 100.0.4896.127,,,2022-05-02 21:24:03,2022-05-02 21:24:33,30.414s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-124/FCSCMS-490(Admin user is able to click deactivate button),Chrome 100.0.4896.127,,,2022-05-02 21:24:33,2022-05-02 21:25:35,1m - 1.672s,FAILED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-124/Deactivate(fet automation)""))",Chrome 100.0.4896.127,,,2022-05-02 21:24:34,2022-05-02 21:25:35,1m - 0.859s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-124/FCSCMS-491(Admin user is able to cancel deactivation process),Chrome 100.0.4896.127,,,2022-05-02 21:25:35,2022-05-02 21:26:36,1m - 1.633s,FAILED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-124/Deactivate_No""))",Chrome 100.0.4896.127,,,2022-05-02 21:25:36,2022-05-02 21:26:36,1m - 0.507s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-124/FCSCMS-492(Admin user is able to Deactivate user status),Chrome 100.0.4896.127,,,2022-05-02 21:26:36,2022-05-02 21:27:37,1m - 1.097s,FAILED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-124/Deactivate(fet automation)""))",Chrome 100.0.4896.127,,,2022-05-02 21:26:37,2022-05-02 21:27:37,1m - 0.423s,FAILED

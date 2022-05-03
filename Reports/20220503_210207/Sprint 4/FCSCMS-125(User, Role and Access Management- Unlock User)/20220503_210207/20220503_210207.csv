@@ -1,0 +1,40 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+"FCSCMS-125(User, Role and Access Management- Unlock User)",Chrome 100.0.4896.127,,,2022-05-03 21:02:13,2022-05-03 21:06:54,4m - 41.491s,FAILED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-05-03 21:02:13,2022-05-03 21:02:27,14.058s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-05-03 21:02:14,2022-05-03 21:02:19,4.320s,PASSED
+"navigateToUrl(""https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-05-03 21:02:19,2022-05-03 21:02:21,2.551s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-05-03 21:02:21,2022-05-03 21:02:21,0.213s,PASSED
+delay(1),Chrome 100.0.4896.127,,,2022-05-03 21:02:21,2022-05-03 21:02:22,1.110s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-05-03 21:02:22,2022-05-03 21:02:26,3.121s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-05-03 21:02:26,2022-05-03 21:02:27,1.097s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-05-03 21:02:27,2022-05-03 21:02:27,0.696s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-125/FCSCMS-624(Admin user is able to log in using valid credentials),Chrome 100.0.4896.127,,,2022-05-03 21:02:27,2022-05-03 21:02:40,12.168s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-05-03 21:02:28,2022-05-03 21:02:31,2.840s,PASSED
+"navigateToUrl(""https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-05-03 21:02:31,2022-05-03 21:02:34,2.418s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-05-03 21:02:34,2022-05-03 21:02:34,0.231s,PASSED
+delay(1),Chrome 100.0.4896.127,,,2022-05-03 21:02:34,2022-05-03 21:02:35,1.005s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-05-03 21:02:35,2022-05-03 21:02:38,2.875s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-05-03 21:02:38,2022-05-03 21:02:39,0.994s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-05-03 21:02:39,2022-05-03 21:02:40,0.661s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-125/FCSCMS-625(User is able to click User and Account Management option from the left navigation panel),Chrome 100.0.4896.127,,,2022-05-03 21:02:40,2022-05-03 21:03:15,35.373s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-122/User Account Management""))",Chrome 100.0.4896.127,,,2022-05-03 21:02:41,2022-05-03 21:03:15,34.374s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-125/FCSCMS-626(Admin user is able to click Edit button),Chrome 100.0.4896.127,,,2022-05-03 21:03:15,2022-05-03 21:03:46,31.153s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-134/Edit button_fet automation""))",Chrome 100.0.4896.127,,,2022-05-03 21:03:16,2022-05-03 21:03:46,30.391s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-125/FCSCMS-627(Admin user is able to click Unlock checkbox button),Chrome 100.0.4896.127,,,2022-05-03 21:03:46,2022-05-03 21:04:48,1m - 1.472s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-125/User Access Checkbox""))",Chrome 100.0.4896.127,,,2022-05-03 21:03:47,2022-05-03 21:04:17,30.350s,PASSED
+"verifyElementVisible(findTestObject(""Admin/Sprint 4/FCSCMS-125/User access_Unlock_Confirmation message""))",Chrome 100.0.4896.127,,,2022-05-03 21:04:17,2022-05-03 21:04:48,30.335s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-125/FCSCMS-628(Admin is able to cancel the process),Chrome 100.0.4896.127,,,2022-05-03 21:04:48,2022-05-03 21:05:49,1m - 1.438s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-125/User Access_Unlock_No""))",Chrome 100.0.4896.127,,,2022-05-03 21:04:48,2022-05-03 21:05:19,30.326s,PASSED
+"verifyElementVisible(findTestObject(""Admin/Sprint 4/FCSCMS-125/Verification_User Status_Locked""))",Chrome 100.0.4896.127,,,2022-05-03 21:05:19,2022-05-03 21:05:49,30.325s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-125/FCSCMS-629(Admin is able to Unlock a User),Chrome 100.0.4896.127,,,2022-05-03 21:05:49,2022-05-03 21:06:53,1m - 4.254s,FAILED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-134/Edit button_fet automation""))",Chrome 100.0.4896.127,,,2022-05-03 21:05:50,2022-05-03 21:06:53,1m - 3.470s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-125/FCSCMS-630(Admin is able to Unlock a User On the User Grid),Chrome 100.0.4896.127,,,2022-05-03 21:06:53,2022-05-03 21:06:54,0.727s,PASSED
+return null,Chrome 100.0.4896.127,,,2022-05-03 21:06:54,2022-05-03 21:06:54,0.001s,PASSED

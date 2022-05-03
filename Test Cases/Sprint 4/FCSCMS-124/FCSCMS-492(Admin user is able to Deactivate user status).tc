@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FCSCMS-492(Admin user is able to Deactivate user status)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f62c4818-13e1-4e96-b01a-d520461a3818</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FCSCMS-485(Admin user is able to cancel activation process)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c349df83-c39f-4cea-96f6-761b2f5e3230</testCaseGuid>
+</TestCaseEntity>

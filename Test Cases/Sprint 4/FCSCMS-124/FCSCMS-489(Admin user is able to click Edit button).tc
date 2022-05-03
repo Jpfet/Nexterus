@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FCSCMS-489(Admin user is able to click Edit button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8d3b333-4cac-43fe-9223-f5a5b9910e24</testCaseGuid>
+</TestCaseEntity>

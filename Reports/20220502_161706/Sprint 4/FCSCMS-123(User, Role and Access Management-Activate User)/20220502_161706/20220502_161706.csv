@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+"FCSCMS-123(User, Role and Access Management-Activate User)",Chrome 100.0.4896.127,,,2022-05-02 16:17:11,2022-05-02 16:21:40,4m - 28.424s,FAILED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-05-02 16:17:12,2022-05-02 16:17:26,13.684s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-05-02 16:17:13,2022-05-02 16:17:17,4.314s,PASSED
+"navigateToUrl(""https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-05-02 16:17:17,2022-05-02 16:17:20,2.540s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-05-02 16:17:20,2022-05-02 16:17:20,0.259s,PASSED
+delay(1),Chrome 100.0.4896.127,,,2022-05-02 16:17:20,2022-05-02 16:17:21,1.203s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-05-02 16:17:21,2022-05-02 16:17:24,2.854s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-05-02 16:17:24,2022-05-02 16:17:25,1.007s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-05-02 16:17:25,2022-05-02 16:17:26,0.609s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-123/FCSCMS-484(Admin user is able to click activate button),Chrome 100.0.4896.127,,,2022-05-02 16:17:26,2022-05-02 16:19:07,1m - 41.458s,FAILED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-123/User Account Management""))",Chrome 100.0.4896.127,,,2022-05-02 16:17:27,2022-05-02 16:17:35,8.670s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-123/Activate button(fet automation)""))",Chrome 100.0.4896.127,,,2022-05-02 16:17:35,2022-05-02 16:18:06,30.996s,PASSED
+"verifyElementVisible(findTestObject(""Admin/Sprint 4/FCSCMS-123/Activate_Confirmation message""))",Chrome 100.0.4896.127,,,2022-05-02 16:18:06,2022-05-02 16:19:07,1m - 0.728s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-123/FCSCMS-485(Admin user is able to cancel activation process),Chrome 100.0.4896.127,,,2022-05-02 16:19:07,2022-05-02 16:20:08,1m - 1.217s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-123/Activate_No(fet automation)""))",Chrome 100.0.4896.127,,,2022-05-02 16:19:08,2022-05-02 16:19:38,30.285s,PASSED
+"verifyElementVisible(findTestObject(""Admin/Sprint 4/FCSCMS-123/Verification_Active""))",Chrome 100.0.4896.127,,,2022-05-02 16:19:38,2022-05-02 16:20:08,30.289s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-123/FCSCMS-486(Admin user is able to Activate user),Chrome 100.0.4896.127,,,2022-05-02 16:20:08,2022-05-02 16:21:40,1m - 31.421s,FAILED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-123/Activate button(fet automation)""))",Chrome 100.0.4896.127,,,2022-05-02 16:20:09,2022-05-02 16:20:39,30.287s,PASSED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-123/Activate_No(fet automation)""))",Chrome 100.0.4896.127,,,2022-05-02 16:20:39,2022-05-02 16:21:40,1m - 0.439s,FAILED

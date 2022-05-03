@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FCSCMS-627(Admin user is able to click Unlock checkbox button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3dfa2e9-21b7-451f-86be-cf5eac158270</testCaseGuid>
+</TestCaseEntity>

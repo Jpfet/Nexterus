@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FCSCMS-630(Admin is able to Unlock a User On the User Grid)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>750b54df-2d6c-4c24-976f-f14f93a09014</testCaseGuid>
+</TestCaseEntity>

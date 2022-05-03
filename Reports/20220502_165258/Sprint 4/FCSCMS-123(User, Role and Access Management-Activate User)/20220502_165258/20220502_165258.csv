@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+"FCSCMS-123(User, Role and Access Management-Activate User)",Chrome 100.0.4896.127,,,2022-05-02 16:53:04,2022-05-02 16:53:53,49.252s,FAILED
+,,,,,,,
+Test Cases/Log-in/Log-in- 1,Chrome 100.0.4896.127,Log-in,,2022-05-02 16:53:04,2022-05-02 16:53:18,13.534s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-05-02 16:53:05,2022-05-02 16:53:10,4.524s,PASSED
+"navigateToUrl(""https://nexterus-dev.outsystemsenterprise.com/FusionCenter/Login"")",Chrome 100.0.4896.127,,,2022-05-02 16:53:10,2022-05-02 16:53:12,2.322s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-05-02 16:53:12,2022-05-02 16:53:13,0.231s,PASSED
+delay(1),Chrome 100.0.4896.127,,,2022-05-02 16:53:13,2022-05-02 16:53:14,1.110s,PASSED
+"setText(findTestObject(""001-Log-in/Username field""), ""admin"")",Chrome 100.0.4896.127,,,2022-05-02 16:53:14,2022-05-02 16:53:16,2.656s,PASSED
+"setText(findTestObject(""001-Log-in/Password field""), ""admin"")",Chrome 100.0.4896.127,,,2022-05-02 16:53:16,2022-05-02 16:53:17,0.959s,PASSED
+"click(findTestObject(""001-Log-in/Log-in button""), STOP_ON_FAILURE)",Chrome 100.0.4896.127,,,2022-05-02 16:53:17,2022-05-02 16:53:18,0.774s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/FCSCMS-123/FCSCMS-486(Admin user is able to Activate user),Chrome 100.0.4896.127,,,2022-05-02 16:53:18,2022-05-02 16:53:53,35.033s,FAILED
+"click(findTestObject(""Admin/Sprint 4/FCSCMS-123/Activate button(fet automation)""))",Chrome 100.0.4896.127,,,2022-05-02 16:53:19,2022-05-02 16:53:53,34.205s,FAILED
